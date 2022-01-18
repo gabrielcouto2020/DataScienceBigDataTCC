@@ -1,0 +1,2001 @@
+Number,Sex,Survived,NameSet,Title,Name,Age,Pclass,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,male,0,American,Mr.,Gregory Akins,22,3,1,0,A/5 21171,7.25,,S
+2,male,1,American,Mr.,Matthew Erazo,38,1,1,0,PC 17599,712.833,C85,C
+3,male,1,American,Mr.,Cornell Banks,26,3,0,0,STON/O2. 3101282,7.925,,S
+4,male,1,American,Mr.,Sonny Pando,35,1,1,0,113803,53.1,C123,S
+5,female,0,American,Dr.,Marie Dawson,35,3,0,0,373450,8.05,,S
+6,female,0,American,Dr.,Socorro Kopp,,3,0,0,330877,84.583,,Q
+7,male,0,American,Mr.,John Mayhew,54,1,0,0,17463,518.625,E46,S
+8,female,0,American,Ms.,Jessica Smith,2,3,3,1,349909,21.075,,S
+9,male,1,American,Mr.,Vernon Mosley,27,3,0,2,347742,111.333,,S
+10,male,1,American,Mr.,Carl Elliott,14,2,1,0,237736,300.708,,C
+11,female,1,American,Mrs.,Judith Nielsen,4,3,1,1,PP 9549,16.7,G6,S
+12,male,1,American,Mr.,Eugene Vermillion,58,1,0,0,113783,26.55,C103,S
+13,female,0,American,Ms.,Aileen Ehret,20,3,0,0,A/5. 2151,8.05,,S
+14,male,0,American,Mr.,Cruz Gray,39,3,1,5,347082,31.275,,S
+15,male,0,American,Mr.,Gail Bryant,14,3,0,0,350406,78.542,,S
+16,male,1,American,Mr.,John Foreman,55,2,0,0,248706,16,,S
+17,male,0,American,Mr.,Michael Barrett,2,3,4,1,382652,29.125,,Q
+18,male,1,American,Mr.,James Olvera,,2,0,0,244373,13,,S
+19,male,0,American,Mr.,Emmett Pittman,31,3,1,0,345763,18,,S
+20,male,1,American,Mr.,Larry Macias,,3,0,0,2649,7.225,,C
+21,male,0,American,Mr.,Daniel Thompson,35,2,0,0,239865,26,,S
+22,male,1,American,Mr.,Morris Perez,34,2,0,0,248698,13,D56,S
+23,male,1,American,Mr.,Gregory Hawk,15,3,0,0,330923,80.292,,Q
+24,female,1,American,Mrs.,Jessie Joiner,28,1,0,0,113788,35.5,A6,S
+25,male,0,American,Mr.,Tad McLennan,8,3,3,1,349909,21.075,,S
+26,female,1,American,Mrs.,Nedra Gleaton,38,3,1,5,347077,313.875,,S
+27,female,0,American,Ms.,Bethany Nelson,,3,0,0,2631,7.225,,C
+28,male,0,American,Mr.,Corey Baldwin,19,1,3,2,19950,263,C23 C25 C27,S
+29,male,1,American,Mr.,Raymond Jernigan,,3,0,0,330959,78.792,,Q
+30,female,0,American,Mrs.,Cathy McCoy,,3,0,0,349216,78.958,,S
+31,male,0,American,Mr.,Carlos Bible,40,1,0,0,PC 17601,277.208,,C
+32,female,1,American,Mrs.,Angelina Griffin,,1,1,0,PC 17569,1.465.208,B78,C
+33,male,1,American,Mr.,Paul Castanon,,3,0,0,335677,7.75,,Q
+34,female,0,American,Mrs.,Alma Henderson,66,2,0,0,C.A. 24579,10.5,,S
+35,female,0,American,Ms.,Clarice McFadden,28,1,1,0,PC 17604,821.708,,C
+36,female,0,American,Ms.,Angela Thompson,42,1,1,0,113789,52,,S
+37,female,1,American,Ms.,Matilda Hyatt,,3,0,0,2677,72.292,,C
+38,male,0,American,Mr.,Jeffrey Jimenez,21,3,0,0,A./5. 2152,8.05,,S
+39,male,0,American,Mr.,Aaron Phelps,18,3,2,0,345764,18,,S
+40,female,1,American,Ms.,Dorothy Ward,14,3,1,0,2651,112.417,,C
+41,male,0,American,Mr.,Joseph Cajigas,40,3,1,0,7546,9.475,,S
+42,male,0,American,Mr.,Charles Wright,27,2,1,0,11668,21,,S
+43,male,0,American,Mr.,James Griggs,,3,0,0,349253,78.958,,C
+44,male,1,American,Mr.,Ivan Chase,3,2,1,2,SC/Paris 2123,415.792,,C
+45,female,1,American,Mrs.,Mary Kaufman,19,3,0,0,330958,78.792,,Q
+46,female,0,American,Mrs.,Carol McDonough,,3,0,0,S.C./A.4. 23567,8.05,,S
+47,male,0,American,Mr.,Ronald Dowdy,,3,1,0,370371,15.5,,Q
+48,female,1,American,Ms.,Connie Garcia,,3,0,0,14311,7.75,,Q
+49,male,0,American,Mr.,Herman Park,,3,2,0,2662,216.792,,C
+50,female,0,American,Ms.,Amanda Arrington,18,3,1,0,349237,17.8,,S
+51,male,0,American,Mr.,George Sicard,7,3,4,1,3101295,396.875,,S
+52,male,0,American,Mr.,Kevin Salcedo,21,3,0,0,A/4. 39886,7.8,,S
+53,male,1,American,Mr.,Thomas Crossland,49,1,1,0,PC 17572,767.292,D33,C
+54,male,1,American,Mr.,Douglas Simms,29,2,1,0,2926,26,,S
+55,male,0,American,Mr.,James Dingman,65,1,0,1,113509,619.792,B30,C
+56,male,1,American,Mr.,Cody Thomas,,1,0,0,19947,35.5,C52,S
+57,female,1,American,Mrs.,Brittany Brown,21,2,0,0,C.A. 31026,10.5,,S
+58,female,0,American,Ms.,Debra Voss,28.5,3,0,0,2697,72.292,,C
+59,male,1,American,Mr.,Randy Favors,5,2,1,2,C.A. 34651,27.75,,S
+60,male,0,American,Mr.,Randy Graham,11,3,5,2,CA 2144,46.9,,S
+61,male,0,American,Mr.,James Payne,22,3,0,0,2669,72.292,,C
+62,female,1,American,Mrs.,Cassandra Roe,38,1,0,0,113572,80,B28,
+63,male,0,American,Mr.,Mervin Manrique,45,1,1,0,36973,83.475,C83,S
+64,female,0,American,Ms.,Ava Makowski,4,3,3,2,347088,27.9,,S
+65,female,0,American,Ms.,Jessica Couey,,1,0,0,PC 17605,277.208,,C
+66,female,1,American,Mrs.,Alisa Steinhoff,,3,1,1,2661,152.458,,C
+67,female,1,American,Ms.,Ester Carbone,29,2,0,0,C.A. 29395,10.5,F33,S
+68,female,0,American,Mrs.,Rhonda Shelley,19,3,0,0,S.P. 3464,81.583,,S
+69,female,1,American,Dr.,Mary Baker,17,3,4,2,3101281,7.925,,S
+70,female,0,American,Mrs.,Paul Fox,26,3,2,0,315151,86.625,,S
+71,male,0,American,Mr.,Brent Watkins,32,2,0,0,C.A. 33111,10.5,,S
+72,male,0,American,Mr.,Edgar Martinez,16,3,5,2,CA 2144,46.9,,S
+73,male,0,American,Mr.,Kevin Reinke,21,2,0,0,S.O.C. 14879,73.5,,S
+74,male,0,American,Mr.,Clifford Roberts,26,3,1,0,2680,144.542,,C
+75,male,1,American,Mr.,Walter McLachlan,32,3,0,0,1601,564.958,,S
+76,male,0,American,Mr.,Arlie Le,25,3,0,0,348123,7.65,F G73,S
+77,female,0,American,Ms.,Megan Goris,,3,0,0,349208,78.958,,S
+78,male,0,American,Mr.,George Garner,,3,0,0,374746,8.05,,S
+79,female,1,American,Ms.,Sally Devaughn,0.83,2,0,2,248738,29,,S
+80,female,1,American,Ms.,Diana Eckstein,30,3,0,0,364516,12.475,,S
+81,female,0,American,Mrs.,Janet Helzer,22,3,0,0,345767,9,,S
+82,male,1,American,Mr.,Marco Thompson,29,3,0,0,345779,9.5,,S
+83,male,1,American,Mr.,Lawrence Foster,,3,0,0,330932,77.875,,Q
+84,male,0,American,Mr.,Kris Archer,28,1,0,0,113059,47.1,,S
+85,male,1,American,Mr.,Alonzo Macfarlane,17,2,0,0,SO/C 14885,10.5,,S
+86,female,1,American,Ms.,Emma Rockwood,33,3,3,0,3101278,15.85,,S
+87,male,0,American,Mr.,Jason Conner,16,3,1,3,W./C. 6608,34.375,,S
+88,female,0,American,Ms.,Lila Laurent,,3,0,0,SOTON/OQ 392086,8.05,,S
+89,male,1,American,Mr.,Richard Adams,23,1,3,2,19950,263,C23 C25 C27,S
+90,female,0,American,Mrs.,Jessica Preiss,24,3,0,0,343275,8.05,,S
+91,female,0,American,Ms.,Lindsay Groom,29,3,0,0,343276,8.05,,S
+92,female,0,American,Ms.,Lynn McCartney,20,3,0,0,347466,78.542,,S
+93,male,0,American,Mr.,Edward McCullough,46,1,1,0,W.E.P. 5734,61.175,E31,S
+94,female,0,American,Mrs.,Eleanor Gilliam,26,3,1,2,C.A. 2315,20.575,,S
+95,male,0,American,Mr.,Charles Weaver,59,3,0,0,364500,7.25,,S
+96,female,0,American,Mrs.,Janice Emerson,,3,0,0,374910,8.05,,S
+97,male,0,American,Mr.,Robert Smith,71,1,0,0,PC 17754,346.542,A5,C
+98,male,1,American,Mr.,Manuel Her,23,1,0,1,PC 17759,633.583,D10 D12,C
+99,female,1,American,Ms.,Carole Davis,34,2,0,1,231919,23,,S
+100,male,0,American,Mr.,Michael Hodges,34,2,1,0,244367,26,,S
+101,male,0,American,Mr.,Christopher Armstrong,28,3,0,0,349245,78.958,,S
+102,female,0,American,Mrs.,Jane Person,,3,0,0,349215,78.958,,S
+103,female,0,American,Ms.,Bridget Overstreet,21,1,0,1,35281,772.875,D26,S
+104,male,0,American,Mr.,Wilton Burton,33,3,0,0,7540,86.542,,S
+105,male,0,American,Mr.,Don Gregory,37,3,2,0,3101276,7.925,,S
+106,male,0,American,Mr.,Ralph Estrada,28,3,0,0,349207,78.958,,S
+107,female,1,American,Mrs.,Sheena Hayden,21,3,0,0,343120,7.65,,S
+108,female,1,American,Ms.,Rachel Miller,,3,0,0,312991,7.775,,S
+109,male,0,American,Mr.,Randell Valenzuela,38,3,0,0,349249,78.958,,S
+110,female,1,American,Mrs.,Kala Plank,,3,1,0,371110,24.15,,Q
+111,male,0,American,Mr.,Thomas Hall,47,1,0,0,110465,52,C110,S
+112,male,0,American,Mr.,Edmund Husted,14.5,3,1,0,2665,144.542,,C
+113,male,0,American,Mr.,Gerald Carrington,22,3,0,0,324669,8.05,,S
+114,female,0,American,Mrs.,Mary Howes,20,3,1,0,4136,9.825,,S
+115,male,0,American,Dr.,Alexander Wiley,17,3,0,0,2627,144.583,,C
+116,male,0,American,Mr.,Ronald Brobst,21,3,0,0,STON/O 2. 3101294,7.925,,S
+117,male,0,American,Mr.,Jesus Barnes,70.5,3,0,0,370369,7.75,,Q
+118,female,0,American,Ms.,Linda Perez,29,2,1,0,11668,21,,S
+119,male,0,American,Mr.,Lester Worthley,24,1,0,1,PC 17558,2.475.208,B58 B60,C
+120,female,0,American,Ms.,Theresa Close,2,3,4,2,347082,31.275,,S
+121,female,0,American,Mrs.,Olga Ulrich,21,2,2,0,S.O.C. 14879,73.5,,S
+122,female,0,American,Ms.,Patricia Richardson,,3,0,0,A4. 54510,8.05,,S
+123,male,0,American,Mr.,Shane Mehta,32.5,2,1,0,237736,300.708,,C
+124,male,1,American,Mr.,Casey Paez,32.5,2,0,0,27267,13,E101,S
+125,female,0,American,Ms.,Laurie Sheehan,54,1,0,1,35281,772.875,D26,S
+126,female,1,American,Ms.,Edna Friend,12,3,1,0,2651,112.417,,C
+127,female,0,American,Ms.,Joann Aparicio,,3,0,0,370372,7.75,,Q
+128,male,1,American,Mr.,David Atwood,24,3,0,0,C 17369,71.417,,S
+129,female,1,American,Ms.,Frances Christopher,,3,1,1,2668,223.583,F E69,C
+130,female,0,American,Mrs.,Arlene Ismail,45,3,0,0,347061,6.975,,S
+131,female,0,American,Mrs.,Beverly Boucher,33,3,0,0,349241,78.958,,C
+132,male,0,American,Mr.,James Ellis,20,3,0,0,SOTON/O.Q. 3101307,7.05,,S
+133,male,0,American,Mr.,Timothy Reed,47,3,1,0,A/5. 3337,14.5,,S
+134,female,1,American,Ms.,Elia Cruse,29,2,1,0,228414,26,,S
+135,female,0,American,Mrs.,Tracy Cobb,25,2,0,0,C.A. 29178,13,,S
+136,female,0,American,Mrs.,Laura Newman,23,2,0,0,SC/PARIS 2133,150.458,,C
+137,female,1,American,Ms.,Cheryl Hernandez,19,1,0,2,11752,262.833,D47,S
+138,male,0,American,Mr.,Thomas Aiello,37,1,1,0,113803,53.1,C123,S
+139,male,0,American,Mr.,James Dalton,16,3,0,0,7534,92.167,,S
+140,male,0,American,Mr.,Stephen Bailey,24,1,0,0,PC 17593,79.2,B86,C
+141,male,0,American,Mr.,Andrew Madsen,,3,0,2,2678,152.458,,C
+142,male,1,American,Mr.,John Brown,22,3,0,0,347081,7.75,,S
+143,male,1,American,Mr.,Kevin Wood,24,3,1,0,STON/O2. 3101279,15.85,,S
+144,female,0,American,Mrs.,Marie Nesbitt,19,3,0,0,365222,6.75,,Q
+145,male,0,American,Mr.,Jackie Winburn,18,2,0,0,231945,11.5,,S
+146,male,0,American,Mr.,Bert Armer,19,2,1,1,C.A. 33112,36.75,,S
+147,female,1,American,Mrs.,Maria Hubbard,27,3,0,0,350043,77.958,,S
+148,male,0,American,Mr.,Jeremy Brooks,9,3,2,2,W./C. 6608,34.375,,S
+149,male,0,American,Mr.,Dennis Mitchell,36.5,2,0,2,230080,26,F2,S
+150,male,0,American,Dr.,Mark Grim,42,2,0,0,244310,13,,S
+151,female,0,American,Mrs.,Terry Lynch,51,2,0,0,S.O.P. 1166,12.525,,S
+152,male,1,American,Mr.,Anthony Armstrong,22,1,1,0,113776,66.6,C2,S
+153,female,0,American,Ms.,Irma Robinson,55.5,3,0,0,A.5. 11206,8.05,,S
+154,male,0,American,Mr.,Frederick Brown,40.5,3,0,2,A/5. 851,14.5,,S
+155,female,0,American,Ms.,Diane Gowan,,3,0,0,Fa 265302,73.125,,S
+156,female,0,American,Mrs.,Sarah Crider,51,1,0,1,PC 17597,613.792,,C
+157,female,1,American,Mrs.,Leonor Nichols,16,3,0,0,35851,77.333,,Q
+158,female,0,American,Mrs.,Jaqueline McMahon,30,3,0,0,SOTON/OQ 392090,8.05,,S
+159,male,0,American,Dr.,William Cromer,,3,0,0,315037,86.625,,S
+160,female,0,American,Mrs.,Diane Leblanc,,3,8,2,CA. 2343,69.55,,S
+161,male,0,American,Mr.,Sandy Worley,44,3,0,1,371362,16.1,,S
+162,male,1,American,Dr.,John Bucher,40,2,0,0,C.A. 33595,15.75,,S
+163,female,0,American,Ms.,Deborah Morris,26,3,0,0,347068,7.775,,S
+164,female,0,American,Ms.,Marilyn Boatwright,17,3,0,0,315093,86.625,,S
+165,male,0,American,Mr.,Dwight Maki,1,3,4,1,3101295,396.875,,S
+166,female,1,American,Mrs.,Diane Huff,9,3,0,2,363291,20.525,,S
+167,male,1,American,Mr.,James Moreira,,1,0,1,113505,55,E33,S
+168,female,0,American,Ms.,Jean Patterson,45,3,1,4,347088,27.9,,S
+169,female,0,American,Ms.,Arielle Lumpkin,,1,0,0,PC 17318,25.925,,S
+170,female,0,American,Mrs.,Jackie Mitchell,28,3,0,0,1601,564.958,,S
+171,female,0,American,Mrs.,Nadia Cox,61,1,0,0,111240,33.5,B19,S
+172,female,0,American,Mrs.,Vivian Simmons,4,3,4,1,382652,29.125,,Q
+173,female,1,American,Mrs.,Mary Webb,1,3,1,1,347742,111.333,,S
+174,female,0,American,Ms.,Marguerite Torres,21,3,0,0,STON/O 2. 3101280,7.925,,S
+175,male,0,American,Mr.,Michael Ligon,56,1,0,0,17764,306.958,A7,C
+176,male,0,American,Mr.,Robert Grantham,18,3,1,1,350404,78.542,,S
+177,female,0,American,Mrs.,Melissa Harris,,3,3,1,4133,254.667,,S
+178,female,0,American,Ms.,Magnolia Chadwick,50,1,0,0,PC 17595,287.125,C49,C
+179,female,0,American,Ms.,Christy Kobayashi,30,2,0,0,250653,13,,S
+180,female,0,American,Mrs.,Sylvia Lawrence,36,3,0,0,LINE,0,,S
+181,male,0,American,Mr.,Jessie Sanchez,,3,8,2,CA. 2343,69.55,,S
+182,male,0,American,Mr.,Wayne Dansby,,2,0,0,SC/PARIS 2131,15.05,,C
+183,male,0,American,Mr.,William Irizarry,9,3,4,2,347077,313.875,,S
+184,female,1,American,Ms.,Rose Murphy,1,2,2,1,230136,39,F4,S
+185,female,1,American,Mrs.,Catherine Brim,4,3,0,2,315153,22.025,,S
+186,male,0,American,Mr.,Larry Thaxton,,1,0,0,113767,50,A32,S
+187,male,1,American,Mr.,William Garrison,,3,1,0,370365,15.5,,Q
+188,female,1,American,Mrs.,Diann Vasquez,45,1,0,0,111428,26.55,,S
+189,male,0,American,Mr.,Craig Sandoval,40,3,1,1,364849,15.5,,Q
+190,female,0,American,Ms.,Betty Walker,36,3,0,0,349247,78.958,,S
+191,female,1,American,Ms.,Gwendolyn Lowenstein,32,2,0,0,234604,13,,S
+192,male,0,American,Mr.,Kennith McDonald,19,2,0,0,28424,13,,S
+193,female,1,American,Mrs.,Rubye Parker,19,3,1,0,350046,78.542,,S
+194,male,1,American,Mr.,Jose Rose,3,2,1,1,230080,26,F2,S
+195,female,1,American,Mrs.,Brooke Brown,44,1,0,0,PC 17610,277.208,B4,C
+196,male,1,American,Mr.,Antonio Mattern,58,1,0,0,PC 17569,1.465.208,B80,C
+197,female,0,American,Mrs.,Lisa Calloway,,3,0,0,368703,7.75,,Q
+198,female,0,American,Ms.,Rebecca Hankins,42,3,0,1,4579,84.042,,S
+199,male,1,American,Mr.,Charlie Phillips,,3,0,0,370370,7.75,,Q
+200,female,0,American,Ms.,Tonya Johnson,24,2,0,0,248747,13,,S
+201,female,0,American,Ms.,Dana Allen,28,3,0,0,345770,9.5,,S
+202,female,0,American,Mrs.,Rachel Sherrick,,3,8,2,CA. 2343,69.55,,S
+203,male,0,American,Mr.,Jason Takahashi,34,3,0,0,3101264,64.958,,S
+204,male,0,American,Mr.,Leroy Happel,45.5,3,0,0,2628,7.225,,C
+205,male,1,American,Mr.,John Miller,18,3,0,0,A/5 3540,8.05,,S
+206,male,0,American,Mr.,Bobby Crane,2,3,0,1,347054,104.625,G6,S
+207,male,0,American,Mr.,James Oconnell,32,3,1,0,3101278,15.85,,S
+208,female,1,American,Ms.,Joann Gerner,26,3,0,0,2699,187.875,,C
+209,female,1,American,Mrs.,Rose Page,16,3,0,0,367231,7.75,,Q
+210,female,1,American,Ms.,Heidi Grant,40,1,0,0,112277,31,A31,C
+211,male,0,American,Dr.,Barton Langford,24,3,0,0,SOTON/O.Q. 3101311,7.05,,S
+212,female,1,American,Mrs.,Tamara Clute,35,2,0,0,F.C.C. 13528,21,,S
+213,male,0,American,Mr.,Jared Holland,22,3,0,0,A/5 21174,7.25,,S
+214,male,0,American,Mr.,Stanley Day,30,2,0,0,250646,13,,S
+215,male,0,American,Mr.,Herbert Phelps,,3,1,0,367229,7.75,,Q
+216,male,1,American,Mr.,Robert Jones,31,1,1,0,35273,113.275,D36,C
+217,male,1,American,Mr.,Ray Henderson,27,3,0,0,STON/O2. 3101283,7.925,,S
+218,male,0,American,Mr.,Todd Doyle,42,2,1,0,243847,27,,S
+219,male,1,American,Mr.,Ron Merritt,32,1,0,0,11813,762.917,D15,C
+220,female,0,American,Ms.,Chung Fernandez,30,2,0,0,W/C 14208,10.5,,S
+221,male,1,American,Mr.,James Tisdale,16,3,0,0,SOTON/OQ 392089,8.05,,S
+222,female,0,American,Ms.,Rebecca Cruz,27,2,0,0,220367,13,,S
+223,male,0,American,Mr.,Gregory Henderson,51,3,0,0,21440,8.05,,S
+224,male,0,American,Mr.,Stanley Boyd,,3,0,0,349234,78.958,,S
+225,male,1,American,Mr.,Orlando Collins,38,1,1,0,19943,90,C93,S
+226,female,0,American,Mrs.,Anna Buchanon,22,3,0,0,PP 4348,9.35,,S
+227,male,1,American,Mr.,John Cox,19,2,0,0,SW/PP 751,10.5,,S
+228,male,0,American,Dr.,John Owen,20.5,3,0,0,A/5 21173,7.25,,S
+229,male,0,American,Mr.,Jc Browning,18,2,0,0,236171,13,,S
+230,female,0,American,Mrs.,Virginia Winters,,3,3,1,4133,254.667,,S
+231,female,1,American,Mrs.,Carol Porter,35,1,1,0,36973,83.475,C83,S
+232,female,0,American,Mrs.,Melissa Hall,29,3,0,0,347067,7.775,,S
+233,male,0,American,Mr.,Benjamin Ramirez,59,2,0,0,237442,13.5,,S
+234,female,1,American,Ms.,Cheryl Parks,5,3,4,2,347077,313.875,,S
+235,male,0,American,Mr.,Jeffery Briggs,24,2,0,0,C.A. 29566,10.5,,S
+236,female,0,American,Ms.,Annabell Lopez,,3,0,0,W./C. 6609,7.55,,S
+237,female,0,American,Mrs.,Stephanie Bishop,44,2,1,0,26707,26,,S
+238,male,1,American,Mr.,Mark Dunham,8,2,0,2,C.A. 31921,26.25,,S
+239,female,0,American,Ms.,Danielle Crawford,19,2,0,0,28665,10.5,,S
+240,female,0,American,Mrs.,Bonita Hughes,33,2,0,0,SCO/W 1585,12.275,,S
+241,male,0,American,Mr.,Bill Standridge,,3,1,0,2665,144.542,,C
+242,female,1,American,Mrs.,Yvonne Leonard,,3,1,0,367230,15.5,,Q
+243,male,0,American,Mr.,Joan Jones,29,2,0,0,W./C. 14263,10.5,,S
+244,male,0,American,Dr.,Weldon Sylvester,22,3,0,0,STON/O 2. 3101275,7.125,,S
+245,male,0,American,Mr.,Roberto Clark,30,3,0,0,2694,7.225,,C
+246,female,0,American,Ms.,Gwendolyn Gaither,44,1,2,0,19928,90,C78,Q
+247,female,0,American,Mrs.,Juanita Neely,25,3,0,0,347071,7.775,,S
+248,male,1,American,Mr.,James Fleming,24,2,0,2,250649,14.5,,S
+249,female,1,American,Ms.,Shirley Veal,37,1,1,1,11751,525.542,D35,S
+250,female,0,American,Mrs.,Lea Kemp,54,2,1,0,244252,26,,S
+251,male,0,American,Mr.,Jim Anderson,,3,0,0,362316,7.25,,S
+252,male,0,American,Mr.,David Mims,29,3,1,1,347054,104.625,G6,S
+253,female,0,American,Mrs.,Mariana Baugh,62,1,0,0,113514,26.55,C87,S
+254,male,0,American,Mr.,Jamie Bird,30,3,1,0,A/5. 3336,16.1,,S
+255,female,0,American,Mrs.,Nola Acosta,41,3,0,2,370129,202.125,,S
+256,female,1,American,Ms.,Christopher Hall,29,3,0,2,2650,152.458,,C
+257,female,1,American,Dr.,Martha Thomas,,1,0,0,PC 17585,79.2,,C
+258,male,1,American,Mr.,Jerry Drake,30,1,0,0,110152,86.5,B77,S
+259,male,1,American,Mr.,Hassan Rogers,35,1,0,0,PC 17755,5.123.292,,C
+260,male,1,American,Mr.,Robert Schroeder,50,2,0,1,230433,26,,S
+261,female,0,American,Mrs.,Linda Cronin,,3,0,0,384461,7.75,,Q
+262,female,1,American,Mrs.,Estella Roche,3,3,4,2,347077,313.875,,S
+263,female,0,American,Dr.,Kristen Mosley,52,1,1,1,110413,79.65,E67,S
+264,female,0,American,Ms.,Lupe Yoder,40,1,0,0,112059,0,B94,S
+265,female,0,American,Ms.,Evelyn Creekmore,,3,0,0,382649,7.75,,Q
+266,female,0,American,Ms.,Laura Russell,36,2,0,0,C.A. 17248,10.5,,S
+267,male,0,American,Mr.,Angel Clark,16,3,4,1,3101295,396.875,,S
+268,female,1,American,Ms.,Kathleen Bond,25,3,1,0,347083,7.775,,S
+269,female,1,American,Mrs.,Clara Gibbs,58,1,0,1,PC 17582,1.534.625,C125,S
+270,male,1,American,Mr.,Antonio Ricks,35,1,0,0,PC 17760,1.356.333,C99,S
+271,male,0,American,Mr.,Wayne Harman,,1,0,0,113798,31,,S
+272,male,1,American,Mr.,Richard Willoughby,25,3,0,0,LINE,0,,S
+273,male,1,American,Mr.,Tony Eslinger,41,2,0,1,250644,19.5,,S
+274,female,0,American,Ms.,Debra Benz,37,1,0,1,PC 17596,29.7,C118,C
+275,female,1,American,Ms.,Patricia Lord,,3,0,0,370375,7.75,,Q
+276,female,1,American,Ms.,Brenda Hipp,63,1,1,0,13502,779.583,D7,S
+277,female,0,American,Ms.,Beatriz Flaherty,45,3,0,0,347073,7.75,,S
+278,female,0,American,Ms.,Wendy Parker,,2,0,0,239853,0,,S
+279,male,0,American,Mr.,Seth Robertson,7,3,4,1,382652,29.125,,Q
+280,male,1,American,Mr.,Henry Simek,35,3,1,1,C.A. 2673,20.25,,S
+281,male,0,American,Dr.,Christopher Alegria,65,3,0,0,336439,7.75,,Q
+282,female,0,American,Ms.,Mary Mayberry,28,3,0,0,347464,78.542,,S
+283,female,0,American,Ms.,Brenda Lujan,16,3,0,0,345778,9.5,,S
+284,female,1,American,Mrs.,Irene Traylor,19,3,0,0,A/5. 10482,8.05,,S
+285,male,0,American,Mr.,Matthew Osborne,,1,0,0,113056,26,A19,S
+286,female,0,American,Mrs.,Regina Lloyd,33,3,0,0,349239,86.625,,C
+287,male,1,American,Mr.,Darryl Peterson,30,3,0,0,345774,9.5,,S
+288,male,0,American,Dr.,William Brown,22,3,0,0,349206,78.958,,S
+289,female,1,American,Ms.,Irene Berry,42,2,0,0,237798,13,,S
+290,male,1,American,Mr.,Kenneth Stetson,22,3,0,0,370373,7.75,,Q
+291,female,1,American,Ms.,Lindy Fountain,26,1,0,0,19877,78.85,,S
+292,female,1,American,Ms.,Kathy Bradford,19,1,1,0,11967,910.792,B49,C
+293,female,0,American,Ms.,Winifred Laws,36,2,0,0,SC/Paris 2163,12.875,D,C
+294,female,0,American,Mrs.,Sharon Saucedo,24,3,0,0,349236,8.85,,S
+295,male,0,American,Mr.,Patrick Drumheller,24,3,0,0,349233,78.958,,S
+296,female,0,American,Mrs.,Quiana Sites,,1,0,0,PC 17612,277.208,,C
+297,female,0,American,Ms.,Tiffany Conklin,23.5,3,0,0,2693,72.292,,C
+298,male,0,American,Mr.,Joshua Glowacki,2,1,1,2,113781,151.55,C22 C26,S
+299,female,1,American,Ms.,Janice Jacoby,,1,0,0,19988,30.5,C106,S
+300,female,1,American,Ms.,Michele Palmer,50,1,0,1,PC 17558,2.475.208,B58 B60,C
+301,male,1,American,Mr.,Brian Jones,,3,0,0,9234,7.75,,Q
+302,female,1,American,Ms.,Jane Canfield,,3,2,0,367226,23.25,,Q
+303,female,0,American,Ms.,Krystin Shuler,19,3,0,0,LINE,0,,S
+304,male,1,American,Mr.,Raymond Cooper,,2,0,0,226593,12.35,E101,Q
+305,male,0,American,Mr.,Benjamin Hawkins,,3,0,0,A/5 2466,8.05,,S
+306,male,1,American,Mr.,George Champagne,0.92,1,1,2,113781,151.55,C22 C26,S
+307,female,1,American,Ms.,Stephanie Newman,,1,0,0,17421,1.108.833,,C
+308,male,1,American,Mr.,Walter Tracey,17,1,1,0,PC 17758,108.9,C65,C
+309,female,0,American,Ms.,Frances Garcia,30,2,1,0,P/PP 3381,24,,C
+310,female,1,American,Mrs.,Fawn Ishmael,30,1,0,0,PC 17485,569.292,E36,C
+311,male,1,American,Mr.,Ray Tucker,24,1,0,0,11767,831.583,C54,C
+312,female,1,American,Ms.,Diane Maldonado,18,1,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+313,female,0,American,Ms.,Sandra Kraus,26,2,1,1,250651,26,,S
+314,female,0,American,Ms.,Maria Townsend,28,3,0,0,349243,78.958,,S
+315,male,0,American,Mr.,Keith Mobley,43,2,1,1,F.C.C. 13529,26.25,,S
+316,female,1,American,Mrs.,Carol Rankin,26,3,0,0,347470,78.542,,S
+317,female,1,American,Ms.,Judith Templeton,24,2,1,0,244367,26,,S
+318,female,0,American,Mrs.,Joanne Gillies,54,2,0,0,29011,14,,S
+319,male,1,American,Mr.,Jesse Cope,31,1,0,2,36928,1.648.667,C7,S
+320,male,1,American,Mr.,Paris Harris,40,1,1,1,16966,134.5,E34,C
+321,male,0,American,Mr.,Daniel McGovern,22,3,0,0,A/5 21172,7.25,,S
+322,male,0,American,Dr.,Edward Martin,27,3,0,0,349219,78.958,,S
+323,female,1,American,Dr.,Wanda Barreto,30,2,0,0,234818,12.35,,Q
+324,female,1,American,Ms.,Leona Raines,22,2,1,1,248738,29,,S
+325,male,0,American,Mr.,Jeffrey Powell,,3,8,2,CA. 2343,69.55,,S
+326,male,1,American,Mr.,Virgil Grothe,36,1,0,0,PC 17760,1.356.333,C32,C
+327,female,0,American,Ms.,Christy Harrison,61,3,0,0,345364,62.375,,S
+328,male,1,American,Mr.,Terry Diener,36,2,0,0,28551,13,D,S
+329,male,1,American,Mr.,Paul Thompson,31,3,1,1,363291,20.525,,S
+330,male,1,American,Mr.,Charles Barbera,16,1,0,1,111361,579.792,B18,C
+331,male,1,American,Mr.,John Edelen,,3,2,0,367226,23.25,,Q
+332,male,0,American,Mr.,Anthony Snell,45.5,1,0,0,113043,28.5,C124,S
+333,female,0,American,Ms.,Amanda Curtis,38,1,0,1,PC 17582,1.534.625,C91,S
+334,male,0,American,Mr.,Gavin Anderson,16,3,2,0,345764,18,,S
+335,male,1,American,Mr.,Abraham Parrish,,1,1,0,PC 17611,133.65,,S
+336,male,0,American,Mr.,Otis Palmer,,3,0,0,349225,78.958,,S
+337,female,0,American,Mrs.,Teresa Seawell,29,1,1,0,113776,66.6,C2,S
+338,male,1,American,Mr.,James Potter,41,1,0,0,16966,134.5,E40,C
+339,male,1,American,Mr.,Ruben Darden,45,3,0,0,7598,8.05,,S
+340,male,0,American,Mr.,Benjamin Williams,45,1,0,0,113784,35.5,T,S
+341,male,1,American,Mr.,Charles Ball,2,2,1,1,230080,26,F2,S
+342,male,1,American,Mr.,Raymond Taylor,24,1,3,2,19950,263,C23 C25 C27,S
+343,male,0,American,Mr.,Scott Hale,28,2,0,0,248740,13,,S
+344,female,0,American,Mrs.,Michele Murphy,25,2,0,0,244361,13,,S
+345,female,0,American,Dr.,Marion King,36,2,0,0,229236,13,,S
+346,male,1,American,Mr.,Benjamin Boyd,24,2,0,0,248733,13,F33,S
+347,female,1,American,Ms.,Veronica Finch,40,2,0,0,31418,13,,S
+348,female,1,American,Mrs.,Frances Wilson,,3,1,0,386525,16.1,,S
+349,female,1,American,Ms.,Alice Farrington,3,3,1,1,C.A. 37671,15.9,,S
+350,male,0,American,Mr.,Ronald Rayford,42,3,0,0,315088,86.625,,S
+351,female,0,American,Mrs.,Edna Bowman,23,3,0,0,7267,9.225,,S
+352,male,0,American,Mr.,Walter Morrison,,1,0,0,113510,35,C128,S
+353,female,0,American,Mrs.,Leah Martinez,15,3,1,1,2695,72.292,,C
+354,female,0,American,Ms.,Elizabeth Scarbrough,25,3,1,0,349237,17.8,,S
+355,male,0,American,Mr.,Gustavo Browne,,3,0,0,2647,7.225,,C
+356,female,0,American,Ms.,Doris Amey,28,3,0,0,345783,9.5,,S
+357,female,1,American,Mrs.,Susan Phillips,22,1,0,1,113505,55,E33,S
+358,female,0,American,Ms.,Pamela Jones,38,2,0,0,237671,13,,S
+359,male,1,American,Mr.,Clyde Crawford,,3,0,0,330931,78.792,,Q
+360,male,1,American,Mr.,William Youngblood,,3,0,0,330980,78.792,,Q
+361,male,0,American,Mr.,Willie Alarcon,40,3,1,4,347088,27.9,,S
+362,male,0,American,Mr.,John Wagnon,29,2,1,0,SC/PARIS 2167,277.208,,C
+363,male,0,American,Mr.,Eduardo Parkhurst,45,3,0,1,2691,144.542,,C
+364,male,0,American,Mr.,Fabian Hurt,35,3,0,0,SOTON/O.Q. 3101310,7.05,,S
+365,female,0,American,Ms.,Karen Frank,,3,1,0,370365,15.5,,Q
+366,male,0,American,Mr.,Christopher Salazar,30,3,0,0,C 7076,7.25,,S
+367,male,1,American,Mr.,Frank Rasmussen,60,1,1,0,110813,75.25,D37,C
+368,male,1,American,Mr.,Carl Blume,,3,0,0,2626,72.292,,C
+369,female,1,American,Mrs.,Lillie Obregon,,3,0,0,14313,7.75,,Q
+370,male,1,American,Mr.,George McGinnis,24,1,0,0,PC 17477,69.3,B35,C
+371,male,1,American,Mr.,Jeffrey Strand,25,1,1,0,11765,554.417,E50,C
+372,male,0,American,Mr.,Winfred Rentas,18,3,1,0,3101267,64.958,,S
+373,female,0,American,Ms.,Pam Carlton,19,3,0,0,323951,8.05,,S
+374,male,0,American,Mr.,Michael Petersen,22,1,0,0,PC 17760,1.356.333,,C
+375,male,0,American,Mr.,Francisco Robinson,3,3,3,1,349909,21.075,,S
+376,male,1,American,Mr.,Luther Payne,,1,1,0,PC 17604,821.708,,C
+377,male,1,American,Mr.,Adam Reiser,22,3,0,0,C 7077,7.25,,S
+378,female,0,American,Ms.,Yvette Bloomfield,27,1,0,2,113503,211.5,C82,C
+379,male,0,American,Mr.,Neal Turner,20,3,0,0,2648,40.125,,C
+380,male,0,American,Mr.,Richard Price,19,3,0,0,347069,7.775,,S
+381,male,1,American,Mr.,James Kelly,42,1,0,0,PC 17757,227.525,,C
+382,female,1,American,Mrs.,Dorothy Burrows,1,3,0,2,2653,157.417,,C
+383,male,0,American,Mr.,Donald Hoard,32,3,0,0,STON/O 2. 3101293,7.925,,S
+384,female,1,American,Ms.,Janet Jones,35,1,1,0,113789,52,,S
+385,female,0,American,Ms.,Crystal Smith,,3,0,0,349227,78.958,,S
+386,male,0,American,Mr.,Theodore O'Neill,18,2,0,0,S.O.C. 14879,73.5,,S
+387,female,0,American,Mrs.,Angela Youngblood,1,3,5,2,CA 2144,46.9,,S
+388,female,1,American,Mrs.,Gloria Bayerl,36,2,0,0,27849,13,,S
+389,female,0,American,Mrs.,Jacqueline Willett,,3,0,0,367655,77.292,,Q
+390,female,1,American,Mrs.,Colleen Scales,17,2,0,0,SC 1748,12,,C
+391,male,1,American,Mr.,Robert Summers,36,1,1,2,113760,120,B96 B98,S
+392,male,1,American,Mr.,Tyson Alexander,21,3,0,0,350034,77.958,,S
+393,male,0,American,Mr.,James Lavender,28,3,2,0,3101277,7.925,,S
+394,male,1,American,Mr.,Gary Rodriguez,23,1,1,0,35273,113.275,D36,C
+395,female,1,American,Mrs.,Leona Sanchez,24,3,0,2,PP 9549,16.7,G6,S
+396,male,0,American,Mr.,James Nichols,22,3,0,0,350052,77.958,,S
+397,female,0,American,Ms.,Britney Frei,31,3,0,0,350407,78.542,,S
+398,male,0,American,Mr.,Moises Martin,46,2,0,0,28403,26,,S
+399,female,0,American,Ms.,Crystal Whaley,23,2,0,0,244278,10.5,,S
+400,male,1,American,Mr.,Jacob Stec,28,2,0,0,240929,12.65,,S
+401,female,1,American,Mrs.,Phyllis Simmons,39,3,0,0,STON/O 2. 3101289,7.925,,S
+402,male,0,American,Mr.,Simon Schroyer,26,3,0,0,341826,8.05,,S
+403,male,0,American,Mr.,Frederick Dunham,21,3,1,0,4137,9.825,,S
+404,female,0,American,Mrs.,Olive Askew,28,3,1,0,STON/O2. 3101279,15.85,,S
+405,male,0,American,Mr.,Stephen Briggs,20,3,0,0,315096,86.625,,S
+406,female,0,American,Mrs.,Mamie Mosley,34,2,1,0,28664,21,,S
+407,male,0,American,Mr.,Raymond Cooper,51,3,0,0,347064,7.75,,S
+408,female,1,American,Ms.,Lynne Santos,3,2,1,1,29106,18.75,,S
+409,male,0,American,Mr.,Raymond Phillips,21,3,0,0,312992,7.775,,S
+410,male,0,American,Mr.,Fred Marsh,,3,3,1,4133,254.667,,S
+411,male,0,American,Mr.,Tyler Hunt,,3,0,0,349222,78.958,,S
+412,female,0,American,Ms.,Terry Chumley,,3,0,0,394140,68.583,,Q
+413,female,1,American,Ms.,Joan Kerr,33,1,1,0,19928,90,C78,Q
+414,female,0,American,Mrs.,Ashley Gale,,2,0,0,239853,0,,S
+415,male,1,American,Mr.,Eric Koehler,44,3,0,0,STON/O 2. 3101269,7.925,,S
+416,male,0,American,Mr.,Kenneth Bishop,,3,0,0,343095,8.05,,S
+417,female,1,American,Ms.,Jean Gant,34,2,1,1,28220,32.5,,S
+418,female,1,American,Ms.,Sara Shealy,18,2,0,2,250652,13,,S
+419,female,0,American,Ms.,Tracie Paquette,30,2,0,0,28228,13,,S
+420,female,0,American,Mrs.,Anne Patterson,10,3,0,2,345773,24.15,,S
+421,male,0,American,Mr.,Bradley Meli,,3,0,0,349254,78.958,,C
+422,male,0,American,Mr.,Tommy Helms,21,3,0,0,A/5. 13032,77.333,,Q
+423,female,0,American,Mrs.,Leigh Harry,29,3,0,0,315082,7.875,,S
+424,male,0,American,Mr.,Aaron Fitzgibbon,28,3,1,1,347080,14.4,,S
+425,male,0,American,Mr.,George Dobbins,18,3,1,1,370129,202.125,,S
+426,female,0,American,Mrs.,Margaret Dominguez,,3,0,0,A/4. 34244,7.25,,S
+427,female,1,American,Mrs.,Ashley Etchison,28,2,1,0,2003,26,,S
+428,male,1,American,Mr.,Roy Kurtz,19,2,0,0,250655,26,,S
+429,female,0,American,Ms.,Julia Quirion,,3,0,0,364851,7.75,,Q
+430,male,1,American,Mr.,Juan Davis,32,3,0,0,SOTON/O.Q. 392078,8.05,E10,S
+431,male,1,American,Mr.,Joseph Lawler,28,1,0,0,110564,26.55,C52,S
+432,male,1,American,Mr.,John Klinger,,3,1,0,376564,16.1,,S
+433,female,1,American,Mrs.,Lisa Castle,42,2,1,0,SC/AH 3085,26,,S
+434,male,0,American,Mr.,Curtis Alger,17,3,0,0,STON/O 2. 3101274,7.125,,S
+435,male,0,American,Mr.,Melvin Redmond,50,1,1,0,13507,55.9,E44,S
+436,female,1,American,Mrs.,Melba Zeitler,14,1,1,2,113760,120,B96 B98,S
+437,male,0,American,Mr.,Vaughn Gomez,21,3,2,2,W./C. 6608,34.375,,S
+438,female,1,American,Ms.,Vera Henderson,24,2,2,3,29106,18.75,,S
+439,female,0,American,Ms.,Kathryn Peterson,64,1,1,4,19950,263,C23 C25 C27,S
+440,male,0,American,Mr.,John Morales,31,2,0,0,C.A. 18723,10.5,,S
+441,female,1,American,Ms.,Monica Diaz,45,2,1,1,F.C.C. 13529,26.25,,S
+442,male,0,American,Mr.,Gary Janson,20,3,0,0,345769,9.5,,S
+443,male,0,American,Mr.,Bradley Bloomfield,25,3,1,0,347076,7.775,,S
+444,female,1,American,Mrs.,Edith Howard,28,2,0,0,230434,13,,S
+445,female,1,American,Ms.,Nancy Carter,,3,0,0,65306,81.125,,S
+446,female,1,American,Mrs.,Vicki Hinton,4,1,0,2,33638,818.583,A34,S
+447,female,1,American,Ms.,Ida Leclaire,13,2,0,1,250644,19.5,,S
+448,female,1,American,Mrs.,Mary McCann,34,1,0,0,113794,26.55,,S
+449,female,1,American,Ms.,Jovita Goodnight,5,3,2,1,2666,192.583,,C
+450,female,1,American,Ms.,Sarah Gamble,52,1,0,0,113786,30.5,C104,S
+451,male,0,American,Mr.,Thomas Fredericksen,36,2,1,2,C.A. 34651,27.75,,S
+452,female,0,American,Ms.,Socorro Beatty,,3,1,0,65303,199.667,,S
+453,male,0,American,Mr.,George Wells,30,1,0,0,113051,27.75,C111,C
+454,male,1,American,Mr.,Harold Moxley,49,1,1,0,17453,891.042,C92,C
+455,male,0,American,Mr.,Christopher Nelson,,3,0,0,A/5 2817,8.05,,S
+456,female,1,American,Ms.,Betty Erickson,29,3,0,0,349240,78.958,,C
+457,female,0,American,Ms.,Lynn Blackwell,65,1,0,0,13509,26.55,E38,S
+458,female,1,American,Mrs.,Bernice Muse,,1,1,0,17464,518.625,D21,S
+459,female,1,American,Mrs.,Elva Thole,50,2,0,0,F.C.C. 13531,10.5,,S
+460,male,0,American,Mr.,William Rockwell,,3,0,0,371060,7.75,,Q
+461,female,1,American,Ms.,Jana Vazquez,48,1,0,0,19952,26.55,E12,S
+462,female,0,American,Ms.,Maria Livingston,34,3,0,0,364506,8.05,,S
+463,female,0,American,Ms.,Janice Balsamo,47,1,0,0,111320,38.5,E63,S
+464,male,0,American,Mr.,Grover Pratt,48,2,0,0,234360,13,,S
+465,male,0,American,Mr.,Eric Sims,,3,0,0,A/S 2816,8.05,,S
+466,male,0,American,Mr.,Bryan Jenkins,38,3,0,0,SOTON/O.Q. 3101306,7.05,,S
+467,female,0,American,Mrs.,Barbara Wilkins,,2,0,0,239853,0,,S
+468,female,0,American,Ms.,Trisha Harris,56,1,0,0,113792,26.55,,S
+469,male,0,American,Mr.,Forrest Taylor,,3,0,0,36209,7.725,,Q
+470,male,1,American,Mr.,Dennis Calderon,0.75,3,2,1,2666,192.583,,C
+471,female,0,American,Ms.,Theresa Sandberg,,3,0,0,323592,7.25,,S
+472,male,0,American,Mr.,Jackson Martin,38,3,0,0,315089,86.625,,S
+473,female,1,American,Ms.,Avis Jones,33,2,1,2,C.A. 34651,27.75,,S
+474,female,1,American,Mrs.,Jenifer Lash,23,2,0,0,SC/AH Basle 541,137.917,D,C
+475,male,0,American,Mr.,Roger Valenzuela,22,3,0,0,7553,98.375,,S
+476,female,0,American,Mrs.,Geraldine Bork,,1,0,0,110465,52,A14,S
+477,male,0,American,Mr.,Lonny Toth,34,2,1,0,31027,21,,S
+478,male,0,American,Mr.,Jason Beck,29,3,1,0,3460,70.458,,S
+479,female,0,American,Ms.,Paula Stine,22,3,0,0,350060,75.208,,S
+480,male,1,American,Mr.,Francis Cranor,2,3,0,1,3101298,122.875,,S
+481,female,0,American,Mrs.,Trisha Wallace,9,3,5,2,CA 2144,46.9,,S
+482,female,0,American,Ms.,Ashley Miller,,2,0,0,239854,0,,S
+483,male,0,American,Mr.,Vincent Brewton,50,3,0,0,A/5 3594,8.05,,S
+484,female,1,American,Dr.,Maude Staley,63,3,0,0,4134,95.875,,S
+485,female,1,American,Mrs.,Alicia Baker,25,1,1,0,11967,910.792,B49,C
+486,male,0,American,Mr.,Sam Palmer,,3,3,1,4133,254.667,,S
+487,female,1,American,Ms.,Patricia Smith,35,1,1,0,19943,90,C93,S
+488,female,0,American,Ms.,Ruth Martinez,58,1,0,0,11771,29.7,B37,C
+489,female,0,American,Ms.,Carla Harris,30,3,0,0,A.5. 18509,8.05,,S
+490,male,1,American,Mr.,Jon Hinton,9,3,1,1,C.A. 37671,15.9,,S
+491,male,0,American,Mr.,Kris Stemple,,3,1,0,65304,199.667,,S
+492,female,0,American,Ms.,Minnie Grossman,21,3,0,0,SOTON/OQ 3101317,7.25,,S
+493,female,0,American,Mrs.,Danielle Jimenez,55,1,0,0,113787,30.5,C30,S
+494,male,0,American,Mr.,Pete Brodie,71,1,0,0,PC 17609,495.042,,C
+495,male,0,American,Mr.,Anthony Guest,21,3,0,0,A/4 45380,8.05,,S
+496,male,0,American,Mr.,Gregory Jessop,,3,0,0,2627,144.583,,C
+497,male,1,American,Mr.,Ken Witter,54,1,1,0,36947,782.667,D20,C
+498,female,0,American,Ms.,Lenora Williams,,3,0,0,C.A. 6212,15.1,,S
+499,male,0,American,Mr.,Jerry Couture,25,1,1,2,113781,151.55,C22 C26,S
+500,female,0,American,Mrs.,Lisa McLeod,24,3,0,0,350035,77.958,,S
+501,male,0,American,Mr.,Steve Dalton,17,3,0,0,315086,86.625,,S
+502,female,0,American,Mrs.,Geneva Johnson,21,3,0,0,364846,7.75,,Q
+503,female,0,American,Mrs.,Michelle Kogut,,3,0,0,330909,76.292,,Q
+504,male,0,American,Mr.,Herman Petty,37,3,0,0,4135,95.875,,S
+505,female,1,American,Ms.,Barbara Bland,16,1,0,0,110152,86.5,B79,S
+506,female,0,American,Mrs.,Agnes Swartz,18,1,1,0,PC 17758,108.9,C65,C
+507,male,1,American,Mr.,Joseph Bober,33,2,0,2,26360,26,,S
+508,female,1,American,Mrs.,Margaret Pitt,,1,0,0,111427,26.55,,S
+509,female,0,American,Mrs.,Lashunda Blackburn,28,3,0,0,C 4001,22.525,,S
+510,female,1,American,Ms.,Beth Cummings,26,3,0,0,1601,564.958,,S
+511,male,1,American,Mr.,Willis Pina,29,3,0,0,382651,7.75,,Q
+512,male,0,American,Mr.,Douglas Shull,,3,0,0,SOTON/OQ 3101316,8.05,,S
+513,female,1,American,Mrs.,Catherine Stone,36,1,0,0,PC 17473,262.875,E25,S
+514,female,1,American,Mrs.,Amber Dumais,54,1,1,0,PC 17603,59.4,,C
+515,male,0,American,Mr.,Benjamin Howard,24,3,0,0,349209,74.958,,S
+516,male,0,American,Mr.,Ryan Nicoll,47,1,0,0,36967,340.208,D46,S
+517,female,1,American,Mrs.,Mae Anthony,34,2,0,0,C.A. 34260,10.5,F33,S
+518,female,0,American,Mrs.,Karen Ragan,,3,0,0,371110,24.15,,Q
+519,female,1,American,Mrs.,Margaret McCants,36,2,1,0,226875,26,,S
+520,female,0,American,Dr.,Alice McDonald,32,3,0,0,349242,78.958,,S
+521,male,1,American,Mr.,Freddie Harry,30,1,0,0,12749,93.5,B73,S
+522,male,0,American,Mr.,Stanton Santana,22,3,0,0,349252,78.958,,S
+523,male,0,American,Mr.,Charles Spiers,,3,0,0,2624,7.225,,C
+524,female,1,American,Ms.,Pamela Lefebvre,44,1,0,1,111361,579.792,B18,C
+525,female,0,American,Mrs.,Michelle Brown,,3,0,0,2700,72.292,,C
+526,male,0,American,Mr.,Bradley Benavidez,40.5,3,0,0,367232,7.75,,Q
+527,male,1,American,Mr.,Daniel Myers,50,2,0,0,W./C. 14258,10.5,,S
+528,male,0,American,Mr.,Joseph Maldonado,,1,0,0,PC 17483,2.217.792,C95,S
+529,male,0,American,Mr.,Brandon Vargas,39,3,0,0,3101296,7.925,,S
+530,male,0,American,Mr.,Mark Schreiber,23,2,2,1,29104,11.5,,S
+531,female,1,American,Mrs.,Mamie Bartley,2,2,1,1,26360,26,,S
+532,female,0,American,Ms.,Renetta Miller,,3,0,0,2641,72.292,,C
+533,female,0,American,Mrs.,Lavon Gordon,17,3,1,1,2690,72.292,,C
+534,male,1,American,Mr.,Harold Brown,,3,0,2,2668,223.583,,C
+535,male,0,American,Mr.,Michael Rhodes,30,3,0,0,315084,86.625,,S
+536,female,1,American,Mrs.,Linda Garcia,7,2,0,2,F.C.C. 13529,26.25,,S
+537,male,0,American,Mr.,Michael Tardiff,45,1,0,0,113050,26.55,B38,S
+538,male,1,American,Mr.,James Chambers,30,1,0,0,PC 17761,106.425,,C
+539,female,0,American,Ms.,Afton Heine,,3,0,0,364498,14.5,,S
+540,female,1,American,Ms.,Penny Gantt,22,1,0,2,13568,49.5,B39,C
+541,female,1,American,Ms.,Leslie Torres,36,1,0,2,WE/P 5735,71,B22,S
+542,male,0,American,Mr.,Mack Anderson,9,3,4,2,347082,31.275,,S
+543,female,0,American,Ms.,Beverly Deluca,11,3,4,2,347082,31.275,,S
+544,female,1,American,Ms.,Marie Rafferty,32,2,1,0,2908,26,,S
+545,female,0,American,Mrs.,Candice Grosse,50,1,1,0,PC 17761,106.425,C86,C
+546,male,0,American,Mr.,Christian Wolf,64,1,0,0,693,26,,S
+547,male,1,American,Mr.,William Parker,19,2,1,0,2908,26,,S
+548,female,1,American,Mrs.,Diane Kirk,,2,0,0,SC/PARIS 2146,138.625,,C
+549,male,0,American,Mr.,Floyd Vaughn,33,3,1,1,363291,20.525,,S
+550,female,1,American,Ms.,Barbara Coffin,8,2,1,1,C.A. 33112,36.75,,S
+551,male,1,American,Mr.,Steven Kolodziej,17,1,0,2,17421,1.108.833,C70,C
+552,male,0,American,Mr.,Daniel Green,27,2,0,0,244358,26,,S
+553,female,0,American,Ms.,Guadalupe Frederick,,3,0,0,330979,78.292,,Q
+554,male,1,American,Mr.,Robert Hiller,22,3,0,0,2620,7.225,,C
+555,female,1,American,Ms.,Rhonda Hamilton,22,3,0,0,347085,7.775,,S
+556,female,0,American,Ms.,Rosanna Grimmett,62,1,0,0,113807,26.55,,S
+557,male,1,American,Mr.,Gregory Cheney,48,1,1,0,11755,39.6,A16,C
+558,female,0,American,Mrs.,Rita Gifford,,1,0,0,PC 17757,227.525,,C
+559,female,1,American,Ms.,Dawn Odell,39,1,1,1,110413,79.65,E67,S
+560,female,1,American,Ms.,Mary Nestor,36,3,1,0,345572,17.4,,S
+561,female,0,American,Ms.,Christina Williamson,,3,0,0,372622,7.75,,Q
+562,female,0,American,Ms.,Kathryn Davidson,40,3,0,0,349251,78.958,,S
+563,male,0,American,Mr.,Daniel Utz,28,2,0,0,218629,13.5,,S
+564,female,0,American,Mrs.,Cynthia Hutton,,3,0,0,SOTON/OQ 392082,8.05,,S
+565,female,0,American,Mrs.,Grace Peter,,3,0,0,SOTON/O.Q. 392087,8.05,,S
+566,female,0,American,Mrs.,Kimberly Buckley,24,3,2,0,A/4 48871,24.15,,S
+567,female,0,American,Mrs.,Eloise Weissinger,19,3,0,0,349205,78.958,,S
+568,male,0,American,Mr.,Anthony Scott,29,3,0,4,349909,21.075,,S
+569,male,0,American,Dr.,Robbie Medina,,3,0,0,2686,72.292,,C
+570,female,1,American,Ms.,Alice Luce,32,3,0,0,350417,78.542,,S
+571,female,1,American,Mrs.,Eula Cook,62,2,0,0,S.W./PP 752,10.5,,S
+572,female,1,American,Mrs.,Polly Montano,53,1,2,0,11769,514.792,C101,S
+573,female,1,American,Ms.,Amanda Hayles,36,1,0,0,PC 17474,263.875,E25,S
+574,male,1,American,Mr.,David Vu,,3,0,0,14312,7.75,,Q
+575,male,0,American,Mr.,Mark Parsons,16,3,0,0,A/4. 20589,8.05,,S
+576,male,0,American,Mr.,Gregory Moore,19,3,0,0,358585,14.5,,S
+577,male,1,American,Mr.,Donald West,34,2,0,0,243880,13,,S
+578,male,1,American,Mr.,Robert Fresquez,39,1,1,0,13507,55.9,E44,S
+579,female,0,American,Ms.,Amanda Adair,,3,1,0,2689,144.583,,C
+580,female,1,American,Mrs.,Marcie Mettler,32,3,0,0,STON/O 2. 3101286,7.925,,S
+581,female,1,American,Mrs.,Christie McKenna,25,2,1,1,237789,30,,S
+582,male,1,American,Mr.,Lloyd Sea,39,1,1,1,17421,1.108.833,C68,C
+583,male,0,American,Mr.,Henry Doty,54,2,0,0,28403,26,,S
+584,female,0,American,Mrs.,Florence Ashe,36,1,0,0,13049,40.125,A10,C
+585,male,0,American,Mr.,Orville Stumpf,,3,0,0,3411,87.125,,C
+586,female,1,American,Mrs.,Sallie Miller,18,1,0,2,110413,79.65,E68,S
+587,male,0,American,Mr.,Larry Hightower,47,2,0,0,237565,15,,S
+588,male,1,American,Mr.,Thomas Austin,60,1,1,1,13567,79.2,B41,C
+589,male,0,American,Mr.,Daniel Gafford,22,3,0,0,14973,8.05,,S
+590,female,0,American,Ms.,Kari Dawes,,3,0,0,A./5. 3235,8.05,,S
+591,male,0,American,Mr.,Joshua Lauritsen,35,3,0,0,STON/O 2. 3101273,7.125,,S
+592,male,1,American,Mr.,Kevin Gay,52,1,1,0,36947,782.667,D20,C
+593,female,0,American,Ms.,Judith Null,47,3,0,0,A/5 3902,7.25,,S
+594,male,0,American,Mr.,Merle Monaghan,,3,0,2,364848,7.75,,Q
+595,female,0,American,Ms.,Terri Haggerty,37,2,1,0,SC/AH 29037,26,,S
+596,female,0,American,Mrs.,Judy Diaz,36,3,1,1,345773,24.15,,S
+597,male,1,American,Mr.,Reed Beaudry,,2,0,0,248727,33,,S
+598,female,0,American,Mrs.,Simone Wood,49,3,0,0,LINE,0,,S
+599,male,0,American,Mr.,Gene Enriquez,,3,0,0,2664,7.225,,C
+600,male,1,American,Mr.,Ralph Zelaya,49,1,1,0,PC 17485,569.292,A20,C
+601,male,1,American,Mr.,John Holder,24,2,2,1,243847,27,,S
+602,male,0,American,Mr.,Nathaniel Gill,,3,0,0,349214,78.958,,S
+603,female,0,American,Mrs.,Lisa Hawes,,1,0,0,113796,42.4,,S
+604,female,0,American,Mrs.,Caren Powers,44,3,0,0,364511,8.05,,S
+605,male,1,American,Mr.,Michael Worthington,35,1,0,0,111426,26.55,,C
+606,male,0,American,Mr.,Dustin Collins,36,3,1,0,349910,15.55,,S
+607,female,0,American,Mrs.,Chandra Davis,30,3,0,0,349246,78.958,,S
+608,male,1,American,Mr.,James Williams,27,1,0,0,113804,30.5,,S
+609,female,1,American,Mrs.,April Mathews,22,2,1,2,SC/Paris 2123,415.792,,C
+610,female,1,American,Mrs.,James Ouellette,40,1,0,0,PC 17582,1.534.625,C125,S
+611,male,0,American,Mr.,Dwayne Johnston,39,3,1,5,347082,31.275,,S
+612,female,0,American,Mrs.,Mary McCutcheon,,3,0,0,SOTON/O.Q. 3101305,7.05,,S
+613,male,1,American,Mr.,Edgar Meyer,,3,1,0,367230,15.5,,Q
+614,female,0,American,Mrs.,Cecil Stoops,,3,0,0,370377,7.75,,Q
+615,female,0,American,Ms.,Faye Mattes,35,3,0,0,364512,8.05,,S
+616,male,1,American,Mr.,James Merritt,24,2,1,2,220845,65,,S
+617,male,0,American,Mr.,Kevin Snyder,34,3,1,1,347080,14.4,,S
+618,female,0,American,Ms.,Pamela Girard,26,3,1,0,A/5. 3336,16.1,,S
+619,female,1,American,Mrs.,Cynthia Spencer,4,2,2,1,230136,39,F4,S
+620,female,0,American,Mrs.,Betty Reynolds,26,2,0,0,31028,10.5,,S
+621,male,0,American,Mr.,Dan Calkins,27,3,1,0,2659,144.542,,C
+622,female,1,American,Ms.,Denise Evenson,42,1,1,0,11753,525.542,D19,S
+623,male,1,American,Mr.,Clarence Boyce,20,3,1,1,2653,157.417,,C
+624,male,0,American,Mr.,Ryan Brown,21,3,0,0,350029,78.542,,S
+625,male,0,American,Mr.,Horace Lentz,21,3,0,0,54636,16.1,,S
+626,male,0,American,Mr.,Peter Ash,61,1,0,0,36963,323.208,D50,S
+627,female,0,American,Ms.,Trinidad Williams,57,2,0,0,219533,12.35,,Q
+628,male,1,American,Mr.,Stephen Hale,21,1,0,0,13502,779.583,D9,S
+629,female,0,American,Ms.,Sarah Bigelow,26,3,0,0,349224,78.958,,S
+630,female,0,American,Ms.,Ruth Turner,,3,0,0,334912,77.333,,Q
+631,male,1,American,Mr.,Robert Lane,80,1,0,0,27042,30,A23,S
+632,female,0,American,Ms.,Joan Nelson,51,3,0,0,347743,70.542,,S
+633,female,1,American,Ms.,Lakeisha Butts,32,1,0,0,13214,30.5,B50,C
+634,female,0,American,Ms.,Catherine Randall,,1,0,0,112052,0,,S
+635,male,0,American,Mr.,Ian Garcia,9,3,3,2,347088,27.9,,S
+636,female,1,American,Mrs.,Christina Howlett,28,2,0,0,237668,13,,S
+637,female,0,American,Ms.,Thelma Lantz,32,3,0,0,STON/O 2. 3101292,7.925,,S
+638,male,0,American,Mr.,Jesus Manning,31,2,1,1,C.A. 31921,26.25,,S
+639,female,0,American,Ms.,Melanie Briggs,41,3,0,5,3101295,396.875,,S
+640,female,0,American,Dr.,Jody Nelson,,3,1,0,376564,16.1,,S
+641,female,0,American,Ms.,Mary Williams,20,3,0,0,350050,78.542,,S
+642,male,1,American,Dr.,Nolan Harper,24,1,0,0,PC 17477,69.3,B35,C
+643,male,0,American,Mr.,Kristopher Howell,2,3,3,2,347088,27.9,,S
+644,male,1,American,Mr.,Terry Bullock,,3,0,0,1601,564.958,,S
+645,male,1,American,Mr.,Thomas Sammons,0.75,3,2,1,2666,192.583,,C
+646,male,1,American,Mr.,Harry Freeman,48,1,1,0,PC 17572,767.292,D33,C
+647,male,0,American,Mr.,Alvin Bolding,19,3,0,0,349231,78.958,,S
+648,male,1,American,Mr.,Harris Moses,56,1,0,0,13213,35.5,A26,C
+649,male,0,American,Mr.,Timothy Talley,,3,0,0,S.O./P.P. 751,7.55,,S
+650,female,1,American,Mrs.,Nancy Turner,23,3,0,0,CA. 2314,7.55,,S
+651,male,0,American,Mr.,William Sykes,,3,0,0,349221,78.958,,S
+652,female,1,American,Mrs.,Angela Phillips,18,2,0,1,231919,23,,S
+653,female,0,American,Ms.,Kelly Vazquez,21,3,0,0,8475,84.333,,S
+654,male,1,American,Mr.,Elmer Lee,,3,0,0,330919,78.292,,Q
+655,male,0,American,Mr.,Edward Jeans,18,3,0,0,365226,6.75,,Q
+656,female,0,American,Mrs.,Loretta Snyder,24,2,2,0,S.O.C. 14879,73.5,,S
+657,male,0,American,Mr.,Phillip Padron,,3,0,0,349223,78.958,,S
+658,male,0,American,Mr.,Antwan Lowery,32,3,1,1,364849,15.5,,Q
+659,female,0,American,Dr.,Denise Nolan,23,2,0,0,29751,13,,S
+660,female,0,American,Ms.,Brandi Truitt,58,1,0,2,35273,113.275,D48,C
+661,female,1,American,Mrs.,Margaret Dews,50,1,2,0,PC 17611,133.65,,S
+662,male,0,American,Mr.,Jeff Moffett,40,3,0,0,2623,7.225,,C
+663,male,0,American,Mr.,Russell Spears,47,1,0,0,5727,255.875,E58,S
+664,male,0,American,Mr.,Eddie Morrison,36,3,0,0,349210,74.958,,S
+665,female,1,American,Mrs.,Erin Kratz,20,3,1,0,STON/O 2. 3101285,7.925,,S
+666,female,0,American,Mrs.,Tracy Williams,32,2,2,0,S.O.C. 14879,73.5,,S
+667,male,0,American,Mr.,Timothy Taylor,25,2,0,0,234686,13,,S
+668,female,0,American,Ms.,Connie Nott,,3,0,0,312993,7.775,,S
+669,male,0,American,Mr.,James Davis,43,3,0,0,A/5 3536,8.05,,S
+670,female,1,American,Ms.,Charlotte Ayala,,1,1,0,19996,52,C126,S
+671,female,1,American,Mrs.,Nicole Parmer,40,2,1,1,29750,39,,S
+672,male,0,American,Mr.,Harry Green,31,1,1,0,F.C. 12750,52,B71,S
+673,female,0,American,Mrs.,Wanda Draper,70,2,0,0,C.A. 24580,10.5,,S
+674,male,1,American,Mr.,Thomas Smith,31,2,0,0,244270,13,,S
+675,male,0,American,Mr.,Emmanuel Mace,,2,0,0,239856,0,,S
+676,female,0,American,Mrs.,Amy Tyson,18,3,0,0,349912,7.775,,S
+677,female,0,American,Mrs.,Lana Davis,24.5,3,0,0,342826,8.05,,S
+678,female,1,American,Mrs.,Ann Thornton,18,3,0,0,4138,98.417,,S
+679,male,0,American,Mr.,Steven Albers,43,3,1,6,CA 2144,46.9,,S
+680,female,1,American,Mrs.,Vanesa Durham,36,1,0,1,PC 17755,5.123.292,B51 B53 B55,C
+681,female,0,American,Mrs.,Melva Morris,,3,0,0,330935,81.375,,Q
+682,male,1,American,Mr.,Joseph Rowley,27,1,0,0,PC 17572,767.292,D49,C
+683,male,0,American,Mr.,Larry Middlebrook,20,3,0,0,6563,9.225,,S
+684,male,0,American,Mr.,Harold Rhone,14,3,5,2,CA 2144,46.9,,S
+685,male,0,American,Mr.,Jan Rodriquez,60,2,1,1,29750,39,,S
+686,male,0,American,Mr.,Efrain March,25,2,1,2,SC/Paris 2123,415.792,,C
+687,male,0,American,Mr.,Andy Pedersen,14,3,4,1,3101295,396.875,,S
+688,female,0,American,Mrs.,Dina Head,19,3,0,0,349228,101.708,,S
+689,male,0,American,Mr.,Kenny Lee,18,3,0,0,350036,77.958,,S
+690,male,1,American,Mr.,Homer Myers,15,1,0,1,24160,2.113.375,B5,S
+691,female,1,American,Ms.,Ima Torres,31,1,1,0,17474,57,B20,S
+692,male,1,American,Mr.,Raymond Hayes,4,3,0,1,349256,134.167,,C
+693,female,1,American,Ms.,Audrey Guzman,,3,0,0,1601,564.958,,S
+694,male,0,American,Mr.,Ryan Fagan,25,3,0,0,2672,7.225,,C
+695,male,0,American,Mr.,Donte Yerger,60,1,0,0,113800,26.55,,S
+696,male,0,American,Mr.,Keith Green,52,2,0,0,248731,13.5,,S
+697,male,0,American,Mr.,Donald Schoenfeld,44,3,0,0,363592,8.05,,S
+698,female,1,American,Ms.,Elma Tyler,,3,0,0,35852,77.333,,Q
+699,male,0,American,Mr.,Dean Barter,49,1,1,1,17421,1.108.833,C68,C
+700,female,0,American,Ms.,Maria White,42,3,0,0,348121,7.65,F G63,S
+701,female,1,American,Mrs.,Diane Lohman,18,1,1,0,PC 17757,227.525,C62 C64,C
+702,male,1,American,Mr.,Phillip Thompson,35,1,0,0,PC 17475,262.875,E24,S
+703,male,0,American,Dr.,David Cassidy,18,3,0,1,2691,144.542,,C
+704,female,0,American,Ms.,Carol Williams,25,3,0,0,36864,77.417,,Q
+705,female,0,American,Dr.,Melissa Mixon,26,3,1,0,350025,78.542,,S
+706,male,0,American,Mr.,David Downing,39,2,0,0,250655,26,,S
+707,female,1,American,Ms.,Samira Carlos,45,2,0,0,223596,13.5,,S
+708,female,1,American,Ms.,Meggan Callaway,42,1,0,0,PC 17476,262.875,E24,S
+709,male,1,American,Mr.,Adan Jennings,22,1,0,0,113781,151.55,,S
+710,female,1,American,Ms.,Krystal Fannin,,3,1,1,2661,152.458,,C
+711,male,1,American,Mr.,Ronald Thurman,24,1,0,0,PC 17482,495.042,C90,C
+712,female,0,American,Mrs.,Jeanette Stark,,1,0,0,113028,26.55,C124,S
+713,male,1,American,Mr.,Kenneth Gaspard,48,1,1,0,19996,52,C126,S
+714,male,0,American,Mr.,Douglas Dabney,29,3,0,0,7545,94.833,,S
+715,male,0,American,Mr.,Alan House,52,2,0,0,250647,13,,S
+716,male,0,American,Mr.,Wallace Brown,19,3,0,0,348124,7.65,F G73,S
+717,female,1,American,Ms.,Deborah Hagan,38,1,0,0,PC 17757,227.525,C45,C
+718,female,1,American,Ms.,Linda Wilford,27,2,0,0,34218,10.5,E101,S
+719,female,0,American,Ms.,Carolyn Bean,,3,0,0,36568,15.5,,Q
+720,male,0,American,Mr.,John Gonzalez,33,3,0,0,347062,7.775,,S
+721,female,1,American,Ms.,Elizabeth Dixon,6,2,0,1,248727,33,,S
+722,female,0,American,Mrs.,Nancy Kelly,17,3,1,0,350048,70.542,,S
+723,male,0,American,Mr.,Jeff Glass,34,2,0,0,12233,13,,S
+724,male,0,American,Mr.,Charles Logan,50,2,0,0,250643,13,,S
+725,male,1,American,Mr.,Jason Ellis,27,1,1,0,113806,53.1,E8,S
+726,male,0,American,Mr.,James Maxwell,20,3,0,0,315094,86.625,,S
+727,male,1,American,Mr.,Jeffrey Dugas,30,2,3,0,31027,21,,S
+728,male,1,American,Mr.,Robert Miller,,3,0,0,36866,77.375,,Q
+729,male,0,American,Mr.,David Robinson,25,2,1,0,236853,26,,S
+730,female,0,American,Mrs.,Maria Mungo,25,3,1,0,STON/O2. 3101271,7.925,,S
+731,male,1,American,Mr.,David Porter,29,1,0,0,24160,2.113.375,B5,S
+732,female,0,American,Ms.,Patricia Archer,11,3,0,0,2699,187.875,,C
+733,female,0,American,Mrs.,Tamara Taylor,,2,0,0,239855,0,,S
+734,male,0,American,Mr.,Anthony Micheals,23,2,0,0,28425,13,,S
+735,male,0,American,Mr.,Billie Evenson,23,2,0,0,233639,13,,S
+736,female,0,American,Ms.,Winnie Shoemaker,28.5,3,0,0,54636,16.1,,S
+737,male,0,American,Mr.,Mark Gentry,48,3,1,3,W./C. 6608,34.375,,S
+738,female,1,American,Ms.,Diane Brown,35,1,0,0,PC 17755,5.123.292,B101,C
+739,male,0,American,Mr.,Henry Reynolds,,3,0,0,349201,78.958,,S
+740,male,0,American,Mr.,Otis Lopez,,3,0,0,349218,78.958,,S
+741,male,1,American,Mr.,Joe Messer,,1,0,0,16988,30,D45,S
+742,male,0,American,Mr.,William Langford,36,1,1,0,19877,78.85,C46,S
+743,male,1,American,Mr.,Stephen Brame,21,1,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+744,male,0,American,Mr.,Don Lusk,24,3,1,0,376566,16.1,,S
+745,male,1,American,Mr.,Edward Johnson,31,3,0,0,STON/O 2. 3101288,7.925,,S
+746,male,0,American,Mr.,Mike Burns,70,1,1,1,WE/P 5735,71,B22,S
+747,female,0,American,Mrs.,Edna Melia,16,3,1,1,C.A. 2673,20.25,,S
+748,male,1,American,Mr.,Douglas Yates,30,2,0,0,250648,13,,S
+749,male,0,American,Mr.,Samuel Delong,19,1,1,0,113773,53.1,D30,S
+750,male,0,American,Mr.,Morgan Shields,31,3,0,0,335097,7.75,,Q
+751,female,1,American,Ms.,Maria Wells,4,2,1,1,29103,23,,S
+752,female,1,American,Ms.,Evangelina Joseph,6,3,0,1,392096,12.475,E121,S
+753,male,0,American,Mr.,Lawrence Holloway,33,3,0,0,345780,9.5,,S
+754,male,0,American,Mr.,Craig Redmon,23,3,0,0,349204,78.958,,S
+755,female,1,American,Ms.,Kristen Butler,48,2,1,2,220845,65,,S
+756,male,1,American,Mr.,Allen Gallegos,0.67,2,1,1,250649,14.5,,S
+757,female,0,American,Ms.,Judy Fultz,28,3,0,0,350042,77.958,,S
+758,female,0,American,Mrs.,Mary Blythe,18,2,0,0,29108,11.5,,S
+759,female,0,American,Mrs.,Denise Stafford,34,3,0,0,363294,8.05,,S
+760,male,1,American,Mr.,Frederick Levy,33,1,0,0,110152,86.5,B77,S
+761,female,0,American,Ms.,Darlene Benoit,,3,0,0,358585,14.5,,S
+762,female,0,American,Ms.,Jimmie Sontag,41,3,0,0,SOTON/O2 3101272,7.125,,S
+763,male,1,American,Mr.,Douglas Demers,20,3,0,0,2663,72.292,,C
+764,male,1,American,Mr.,Ricky Brown,36,1,1,2,113760,120,B96 B98,S
+765,female,0,American,Mrs.,Bernadine Beggs,16,3,0,0,347074,7.775,,S
+766,male,1,American,Mr.,Harold Black,51,1,1,0,13502,779.583,D11,S
+767,male,0,American,Mr.,Jose Mendoza,,1,0,0,112379,39.6,,C
+768,female,0,American,Ms.,Betsy Dinsmore,30.5,3,0,0,364850,7.75,,Q
+769,female,0,American,Mrs.,Josephine Barragan,,3,1,0,371110,24.15,,Q
+770,male,0,American,Mr.,Joshua Clary,32,3,0,0,8471,83.625,,S
+771,male,0,American,Mr.,Joseph Morgan,24,3,0,0,345781,9.5,,S
+772,male,0,American,Mr.,David Styers,48,3,0,0,350047,78.542,,S
+773,female,0,American,Mrs.,Violeta Friar,57,2,0,0,S.O./P.P. 3,10.5,E77,S
+774,female,0,American,Ms.,Heather Gallant,,3,0,0,2674,7.225,,C
+775,female,1,American,Mrs.,Phyllis Hoffman,54,2,1,3,29105,23,,S
+776,male,0,American,Mr.,Ralph Sandler,18,3,0,0,347078,7.75,,S
+777,male,0,American,Mr.,Manuel Peters,,3,0,0,383121,7.75,F38,Q
+778,female,1,American,Dr.,Ronna Lilly,5,3,0,0,364516,12.475,,S
+779,female,0,American,Ms.,Loretta Roney,,3,0,0,36865,77.375,,Q
+780,female,1,American,Ms.,Betsy Gause,43,1,0,1,24160,2.113.375,B3,S
+781,male,1,American,Mr.,Jason Larsen,13,3,0,0,2687,72.292,,C
+782,male,1,American,Mr.,Robert Kindel,17,1,1,0,17474,57,B20,S
+783,male,0,American,Mr.,Bryan Hay,29,1,0,0,113501,30,D6,S
+784,female,0,American,Dr.,Melissa Phillips,,3,1,2,W./C. 6607,23.45,,S
+785,female,0,American,Ms.,Dorthy Ingraham,25,3,0,0,SOTON/O.Q. 3101312,7.05,,S
+786,female,0,American,Mrs.,Rebecca Hedrick,25,3,0,0,374887,7.25,,S
+787,female,1,American,Ms.,Roxanne Walling,18,3,0,0,3101265,74.958,,S
+788,female,0,American,Ms.,Laurie Cano,8,3,4,1,382652,29.125,,Q
+789,female,1,American,Ms.,Amanda Morgan,1,3,1,2,C.A. 2315,20.575,,S
+790,male,0,American,Mr.,Ralph Ridgeway,46,1,0,0,PC 17593,79.2,B82 B84,C
+791,male,0,American,Mr.,Patrick Harden,,3,0,0,12460,7.75,,Q
+792,male,0,American,Mr.,Clayton King,16,2,0,0,239865,26,,S
+793,male,0,American,Mr.,Jose Hill,,3,8,2,CA. 2343,69.55,,S
+794,female,0,American,Mrs.,Emma Nichols,,1,0,0,PC 17600,306.958,,C
+795,male,0,American,Mr.,Robert Hardman,25,3,0,0,349203,78.958,,S
+796,female,0,American,Ms.,Tammy Nixon,39,2,0,0,28213,13,,S
+797,female,1,American,Mrs.,Molly Westerman,49,1,0,0,17465,259.292,D17,S
+798,male,1,American,Mr.,Michael Boddie,31,3,0,0,349244,86.833,,S
+799,female,0,American,Ms.,Wanda Copeland,30,3,0,0,2685,72.292,,C
+800,male,0,American,Mr.,Timothy Lockhart,30,3,1,1,345773,24.15,,S
+801,male,0,American,Mr.,Charles Sanderson,34,2,0,0,250647,13,,S
+802,female,1,American,Mrs.,Cheryl Henderson,31,2,1,1,C.A. 31921,26.25,,S
+803,female,1,American,Ms.,Sandra King,11,1,1,2,113760,120,B96 B98,S
+804,female,1,American,Ms.,Lisa Wilson,0.42,3,0,1,2625,85.167,,C
+805,male,1,American,Mr.,Louis Ortiz,27,3,0,0,347089,6.975,,S
+806,female,0,American,Ms.,Eleanor Schwartz,31,3,0,0,347063,7.775,,S
+807,male,0,American,Mr.,William Dillon,39,1,0,0,112050,0,A36,S
+808,male,0,American,Mr.,Glenn Trotter,18,3,0,0,347087,7.775,,S
+809,female,0,American,Ms.,Evelyn Gartner,39,2,0,0,248723,13,,S
+810,male,1,American,Mr.,William Garrett,33,1,1,0,113806,53.1,E8,S
+811,male,0,American,Mr.,William Lucas,26,3,0,0,3474,78.875,,S
+812,male,0,American,Mr.,Joe Outlaw,39,3,0,0,A/4 48871,24.15,,S
+813,female,0,American,Mrs.,Tamie Sweeney,35,2,0,0,28206,10.5,,S
+814,female,0,American,Mrs.,Ann Hernandez,6,3,4,2,347082,31.275,,S
+815,female,0,American,Mrs.,Markita Shue,30.5,3,0,0,364499,8.05,,S
+816,male,0,American,Mr.,Andrew Jewell,,1,0,0,112058,0,B102,S
+817,female,0,American,Ms.,Katherine Lyons,23,3,0,0,STON/O2. 3101290,7.925,,S
+818,male,0,American,Mr.,Rick Hickman,31,2,1,1,S.C./PARIS 2079,370.042,,C
+819,male,0,American,Mr.,Roosevelt Pape,43,3,0,0,C 7075,6.45,,S
+820,male,0,American,Mr.,Joel Graham,10,3,3,2,347088,27.9,,S
+821,female,1,American,Ms.,Angelica Jacobs,52,1,1,1,12749,93.5,B69,S
+822,female,1,American,Ms.,Amalia Moon,27,3,0,0,315098,86.625,,S
+823,male,0,American,Mr.,Scott Ransom,38,1,0,0,19972,0,,S
+824,female,1,American,Ms.,Christina Webb,27,3,0,1,392096,12.475,E121,S
+825,male,0,American,Mr.,Peter Martin,2,3,4,1,3101295,396.875,,S
+826,male,0,American,Mr.,Daniel Parisi,,3,0,0,368323,6.95,,Q
+827,male,0,American,Mr.,Lester Lang,,3,0,0,1601,564.958,,S
+828,male,1,American,Mr.,Fred Dawson,1,2,0,2,S.C./PARIS 2079,370.042,,C
+829,male,1,American,Mr.,Christopher Trujillo,,3,0,0,367228,7.75,,Q
+830,female,1,American,Mrs.,Emily Said,62,1,0,0,113572,80,B28,
+831,male,1,American,Mr.,Thomas Brown,15,3,1,0,2659,144.542,,C
+832,female,1,American,Mrs.,Deborah Dick,0.83,2,1,1,29106,18.75,,S
+833,male,0,American,Mr.,Matthew Lewis,,3,0,0,2671,72.292,,C
+834,female,0,American,Mrs.,Olivia Darling,23,3,0,0,347468,78.542,,S
+835,male,0,American,Mr.,Leonard Brookman,18,3,0,0,2223,8.3,,S
+836,male,1,American,Mr.,Ernest Lang,39,1,1,1,PC 17756,831.583,E49,C
+837,male,0,American,Mr.,Bennie Colangelo,21,3,0,0,315097,86.625,,S
+838,female,0,American,Mrs.,Linda Cummings,,3,0,0,392092,8.05,,S
+839,female,1,American,Mrs.,Ida Taylor,32,3,0,0,1601,564.958,,S
+840,male,1,American,Mr.,Wilfred Davis,,1,0,0,11774,29.7,C47,C
+841,male,0,American,Mr.,John Delano,20,3,0,0,SOTON/O2 3101287,7.925,,S
+842,male,0,American,Mr.,Gerald Hirt,16,2,0,0,S.O./P.P. 3,10.5,,S
+843,male,1,American,Mr.,Wade Williams,30,1,0,0,113798,31,,C
+844,female,0,American,Mrs.,Queen Ashburn,34.5,3,0,0,2683,64.375,,C
+845,male,0,American,Mr.,Keith Nealy,17,3,0,0,315090,86.625,,S
+846,male,0,American,Mr.,Raymond Graham,42,3,0,0,C.A. 5547,7.55,,S
+847,female,0,American,Ms.,Joanne Dixon,,3,8,2,CA. 2343,69.55,,S
+848,female,0,American,Ms.,Sandra Boatman,35,3,0,0,349213,78.958,,C
+849,male,0,American,Mr.,Alex Kitts,28,2,0,1,248727,33,,S
+850,female,1,American,Ms.,Julie Lane,,1,1,0,17453,891.042,C92,C
+851,male,0,American,Mr.,Leonard Guinyard,4,3,4,2,347082,31.275,,S
+852,male,0,American,Mr.,Raymond Greenlee,74,3,0,0,347060,7.775,,S
+853,female,0,American,Mrs.,Pamela Poulin,9,3,1,1,2678,152.458,,C
+854,female,1,American,Mrs.,Margaret Sabbagh,16,1,0,1,PC 17592,39.4,D28,S
+855,female,0,American,Mrs.,Deanna Macias,44,2,1,0,244252,26,,S
+856,female,1,American,Ms.,Shirley Piercy,18,3,0,1,392091,9.35,,S
+857,male,1,American,Mr.,William Nagel,45,1,1,1,36928,1.648.667,,S
+858,female,1,American,Ms.,Joyce Williams,51,1,0,0,113055,26.55,E17,S
+859,male,1,American,Mr.,James Johnson,24,3,0,3,2666,192.583,,C
+860,female,0,American,Mrs.,Carolyn Henline,,3,0,0,2629,72.292,,C
+861,male,0,American,Mr.,Robert McClelland,41,3,2,0,350026,141.083,,S
+862,female,0,American,Ms.,Melinda Edenfield,21,2,1,0,28134,11.5,,S
+863,female,1,American,Ms.,Ingrid Kaya,48,1,0,0,17466,259.292,D17,S
+864,male,0,American,Mr.,Bob Melton,,3,8,2,CA. 2343,69.55,,S
+865,female,0,American,Ms.,Hazel Zhang,24,2,0,0,233866,13,,S
+866,male,1,American,Mr.,Ronnie Denny,42,2,0,0,236852,13,,S
+867,female,1,American,Mrs.,Mollie Chandler,27,2,1,0,SC/PARIS 2149,138.583,,C
+868,male,0,American,Mr.,Laurence Clark,31,1,0,0,PC 17590,504.958,A24,S
+869,male,0,American,Mr.,Lindsay Vargas,,3,0,0,345777,9.5,,S
+870,male,1,American,Mr.,Jordan Bach,4,3,1,1,347742,111.333,,S
+871,female,0,American,Mrs.,Juanita Adair,26,3,0,0,349248,78.958,,S
+872,male,1,American,Mr.,Thomas Krauss,47,1,1,1,11751,525.542,D35,S
+873,male,0,American,Mr.,Michael May,33,1,0,0,695,5,B51 B53 B55,S
+874,male,0,American,Mr.,Larry Maker,47,3,0,0,345765,9,,S
+875,male,1,American,Mr.,Gerald Vidrine,28,2,1,0,P/PP 3381,24,,C
+876,male,1,American,Mr.,Timothy Harding,15,3,0,0,2667,7.225,,C
+877,female,0,American,Mrs.,Carol Parker,20,3,0,0,7534,98.458,,S
+878,female,0,American,Mrs.,Ruby Ortiz,19,3,0,0,349212,78.958,,S
+879,male,0,American,Mr.,William Corbett,,3,0,0,349217,78.958,,S
+880,male,1,American,Mr.,Matthew Griffin,56,1,0,1,11767,831.583,C50,C
+881,male,1,American,Dr.,Jeremy Rogers,25,2,0,1,230433,26,,S
+882,female,0,American,Mrs.,Antionette Williams,33,3,0,0,349257,78.958,,S
+883,male,0,American,Mr.,Reginald Hollis,22,3,0,0,7552,105.167,,S
+884,female,0,American,Mrs.,Yolanda Cole,28,2,0,0,C.A./SOTON 34068,10.5,,S
+885,female,0,American,Dr.,Evelyn Troxel,25,3,0,0,SOTON/OQ 392076,7.05,,S
+886,male,0,American,Dr.,Roland Dover,39,3,0,5,382652,29.125,,Q
+887,male,0,American,Mr.,Herman Aldridge,27,2,0,0,211536,13,,S
+888,female,1,American,Mrs.,Lee Shanks,19,1,0,0,112053,30,B42,S
+889,male,0,American,Mr.,Steve Brown,,3,1,2,W./C. 6607,23.45,,S
+890,female,1,American,Mrs.,Martha Perry,26,1,0,0,111369,30,C148,C
+891,female,0,American,Mrs.,Catherine Potter,32,3,0,0,370376,7.75,,Q
+892,female,0,American,Ms.,Chris Green,26,3,1,2,111369,30,C148,C
+893,male,1,American,Mr.,John Bullock,22,1,1,0,111369,30,C148,C
+894,male,1,American,Mr.,Allen Saunders,38,3,1,0,PC 17599,712.833,C85,C
+895,male,1,American,Mr.,Robert Sims,26,1,0,0,STON/O2. 3101282,7.925,,S
+896,male,0,American,Mr.,Michael Harrington,35,3,1,0,113803,53.1,C123,S
+897,male,0,American,Mr.,Peter Dugger,35,3,0,0,373450,8.05,,S
+898,male,0,American,Mr.,Jon Nichols,,1,0,0,330877,84.583,,Q
+899,male,0,American,Mr.,Manuel Murphy,54,3,0,0,17463,518.625,E46,S
+900,female,1,American,Mrs.,Queen Stokes,2,3,3,1,349909,21.075,,S
+901,female,1,American,Mrs.,Nancy Ramirez,27,2,0,2,347742,111.333,,S
+902,female,1,American,Ms.,Kathleen Macias,14,3,1,0,237736,300.708,,C
+903,female,1,American,Mrs.,Amber Longino,4,1,1,1,PP 9549,16.7,G6,S
+904,female,0,American,Ms.,Christina Shores,58,3,0,0,113783,26.55,C103,S
+905,female,0,American,Mrs.,Roberta Merrill,20,3,0,0,A/5. 2151,8.05,,S
+906,female,0,American,Ms.,Patricia Milardo,39,3,1,5,347082,31.275,,S
+907,female,1,American,Mrs.,Ann Fouse,14,2,0,0,350406,78.542,,S
+908,male,0,American,Mr.,Dwayne Gray,55,3,0,0,248706,16,,S
+909,male,1,American,Mr.,Edward Pitcher,2,2,4,1,382652,29.125,,Q
+910,female,0,American,Ms.,Martha Evans,,3,0,0,244373,13,,S
+911,female,1,American,Ms.,Opal Riggs,31,3,1,0,345763,18,,S
+912,male,0,American,Mr.,Robert Black,,2,0,0,2649,7.225,,C
+913,male,1,American,Mr.,Emile Warren,35,2,0,0,239865,26,,S
+914,male,1,American,Mr.,Warren Almanza,34,3,0,0,248698,13,D56,S
+915,female,1,American,Mrs.,Melody Horning,15,1,0,0,330923,80.292,,Q
+916,male,0,American,Mr.,Ian Tollett,28,3,0,0,113788,35.5,A6,S
+917,female,1,American,Ms.,Vicki Bryan,8,3,3,1,349909,21.075,,S
+918,male,0,American,Mr.,Archie Drakeford,38,3,1,5,347077,313.875,,S
+919,male,0,American,Mr.,Eric Roberts,,1,0,0,2631,7.225,,C
+920,male,1,American,Mr.,Curtis Newman,19,3,3,2,19950,263,C23 C25 C27,S
+921,female,0,American,Mrs.,Jessica Morgan,,3,0,0,330959,78.792,,Q
+922,male,0,American,Mr.,Ricky Hays,,1,0,0,349216,78.958,,S
+923,female,1,American,Ms.,Sally Anderson,40,1,0,0,PC 17601,277.208,,C
+924,female,1,American,Mrs.,Rebecca Walker,,3,1,0,PC 17569,1.465.208,B78,C
+925,female,0,American,Mrs.,Christina Trussell,,2,0,0,335677,7.75,,Q
+926,male,0,American,Mr.,Rudolph Hill,66,1,0,0,C.A. 24579,10.5,,S
+927,female,0,American,Mrs.,Aurora Romero,28,1,1,0,PC 17604,821.708,,C
+928,male,1,American,Mr.,Peter Romeo,42,3,1,0,113789,52,,S
+929,female,0,American,Mrs.,Paula Chancey,,3,0,0,2677,72.292,,C
+930,male,0,American,Mr.,Charley Chung,21,3,0,0,A./5. 2152,8.05,,S
+931,female,1,American,Mrs.,Amanda Sims,18,3,2,0,345764,18,,S
+932,female,0,American,Mrs.,Kathryn Smith,14,3,1,0,2651,112.417,,C
+933,female,0,American,Ms.,Laura Williams,40,2,1,0,7546,9.475,,S
+934,male,0,American,Mr.,Richard Mendoza,27,3,1,0,11668,21,,S
+935,female,1,American,Mrs.,Alice Ahmed,,2,0,0,349253,78.958,,C
+936,male,1,American,Mr.,Timothy Jarvis,3,3,1,2,SC/Paris 2123,415.792,,C
+937,female,0,American,Ms.,Carol Pfister,19,3,0,0,330958,78.792,,Q
+938,female,0,American,Mrs.,Kristi Browder,,3,0,0,S.C./A.4. 23567,8.05,,S
+939,female,1,American,Mrs.,Delores Madera,,3,1,0,370371,15.5,,Q
+940,male,0,American,Mr.,Fredrick Bolds,,3,0,0,14311,7.75,,Q
+941,male,0,American,Mr.,Bernard Kehoe,,3,2,0,2662,216.792,,C
+942,male,0,American,Mr.,Gary Wann,18,3,1,0,349237,17.8,,S
+943,female,0,American,Mrs.,Hazel Boucher,7,3,4,1,3101295,396.875,,S
+944,female,1,American,Mrs.,Carol Pannell,21,1,0,0,A/4. 39886,7.8,,S
+945,female,1,American,Ms.,Mary Rendon,49,2,1,0,PC 17572,767.292,D33,C
+946,male,0,American,Mr.,Dwight Thompson,29,1,1,0,2926,26,,S
+947,male,1,American,Mr.,Leslie Boone,65,1,0,1,113509,619.792,B30,C
+948,male,1,American,Mr.,Leonardo Johnson,,2,0,0,19947,35.5,C52,S
+949,male,0,American,Mr.,Richard Murphy,21,3,0,0,C.A. 31026,10.5,,S
+950,female,1,American,Ms.,Geraldine Bobo,28.5,2,0,0,2697,72.292,,C
+951,female,0,American,Ms.,Margie Ewing,5,3,1,2,C.A. 34651,27.75,,S
+952,female,0,American,Mrs.,Janine Pruitt,11,3,5,2,CA 2144,46.9,,S
+953,male,1,American,Mr.,Ruben Mojica,22,1,0,0,2669,72.292,,C
+954,male,0,American,Mr.,Thomas Yancey,38,1,0,0,113572,80,B28,
+955,female,0,American,Mrs.,Noemi Brown,45,3,1,0,36973,83.475,C83,S
+956,male,0,American,Mr.,Kenneth Priest,4,1,3,2,347088,27.9,,S
+957,female,1,American,Ms.,Gracie Reece,,3,0,0,PC 17605,277.208,,C
+958,female,1,American,Mrs.,Lara Humphrey,,2,1,1,2661,152.458,,C
+959,male,0,American,Mr.,Howard Fitzgerald,29,3,0,0,C.A. 29395,10.5,F33,S
+960,male,1,American,Mr.,Melvin Boone,19,3,0,0,S.P. 3464,81.583,,S
+961,male,0,American,Mr.,Eric Carter,17,3,4,2,3101281,7.925,,S
+962,male,0,American,Mr.,Victor Rivera,26,2,2,0,315151,86.625,,S
+963,female,0,American,Ms.,Kimberly Jeffers,32,3,0,0,C.A. 33111,10.5,,S
+964,male,0,American,Mr.,Pat Wall,16,2,5,2,CA 2144,46.9,,S
+965,female,0,American,Mrs.,Laura Alvarez,21,3,0,0,S.O.C. 14879,73.5,,S
+966,female,1,American,Mrs.,Blanche Loomis,26,3,1,0,2680,144.542,,C
+967,female,0,American,Ms.,Georgia Fraser,32,3,0,0,1601,564.958,,S
+968,female,0,American,Mrs.,Ruth Glover,25,3,0,0,348123,7.65,F G73,S
+969,female,0,American,Mrs.,Elizabeth Li,,3,0,0,349208,78.958,,S
+970,female,1,American,Ms.,Jennie Howell,,2,0,0,374746,8.05,,S
+971,female,1,American,Ms.,Vera Townsend,0.83,3,0,2,248738,29,,S
+972,female,0,American,Mrs.,Victoria Martinelli,30,3,0,0,364516,12.475,,S
+973,female,1,American,Ms.,Rose Rogers,22,3,0,0,345767,9,,S
+974,female,1,American,Mrs.,Kimberly Hagins,29,3,0,0,345779,9.5,,S
+975,male,0,American,Mr.,Daniel Carver,,1,0,0,330932,77.875,,Q
+976,male,1,American,Mr.,Antonio Boyer,28,2,0,0,113059,47.1,,S
+977,female,1,American,Ms.,Jessica Hanselman,17,3,0,0,SO/C 14885,10.5,,S
+978,male,0,American,Mr.,Charles Martin,33,3,3,0,3101278,15.85,,S
+979,female,0,American,Mrs.,Kellie Garth,16,3,1,3,W./C. 6608,34.375,,S
+980,male,1,American,Mr.,Patrick Galindo,,1,0,0,SOTON/OQ 392086,8.05,,S
+981,female,0,American,Ms.,Patricia Ralph,23,3,3,2,19950,263,C23 C25 C27,S
+982,female,0,American,Mrs.,Sylvia Lindberg,24,3,0,0,343275,8.05,,S
+983,female,0,American,Mrs.,Cynthia Thomas,29,3,0,0,343276,8.05,,S
+984,female,0,American,Mrs.,Isabel Chavez,20,1,0,0,347466,78.542,,S
+985,female,0,American,Ms.,Constance Brown,46,3,1,0,W.E.P. 5734,61.175,E31,S
+986,female,0,American,Mrs.,Sarah Collins,26,3,1,2,C.A. 2315,20.575,,S
+987,male,0,American,Mr.,Michael Shive,59,3,0,0,364500,7.25,,S
+988,female,0,American,Ms.,Audrey Collins,,1,0,0,374910,8.05,,S
+989,male,1,American,Mr.,Leroy Johnson,71,1,0,0,PC 17754,346.542,A5,C
+990,female,1,American,Mrs.,Rowena Hartung,23,2,0,1,PC 17759,633.583,D10 D12,C
+991,female,0,American,Ms.,Bethany Stewart,34,2,0,1,231919,23,,S
+992,female,0,American,Mrs.,Darci Branson,34,3,1,0,244367,26,,S
+993,female,0,American,Ms.,Iva Thompson,28,3,0,0,349245,78.958,,S
+994,male,0,American,Mr.,Robert Farnum,,1,0,0,349215,78.958,,S
+995,female,0,American,Mrs.,Sheri Milan,21,3,0,1,35281,772.875,D26,S
+996,female,0,American,Ms.,Chieko Saephan,33,3,0,0,7540,86.542,,S
+997,female,0,American,Ms.,Jackie Cade,37,3,2,0,3101276,7.925,,S
+998,male,1,American,Mr.,Stanley Fontaine,28,3,0,0,349207,78.958,,S
+999,male,1,American,Mr.,Kenneth Sands,21,3,0,0,343120,7.65,,S
+1000,male,0,American,Mr.,Christopher Jackson,,3,0,0,312991,7.775,,S
+1001,female,1,American,Mrs.,Roxanne Chmielewski,38,3,0,0,349249,78.958,,S
+1002,female,0,American,Ms.,Helen Thomas,,1,1,0,371110,24.15,,Q
+1003,female,0,American,Mrs.,Elizebeth Ruiz,47,3,0,0,110465,52,C110,S
+1004,male,0,American,Mr.,Rafael Powers,14.5,3,1,0,2665,144.542,,C
+1005,male,0,American,Mr.,John Goldsmith,22,3,0,0,324669,8.05,,S
+1006,female,0,American,Ms.,Dorothy Fredette,20,3,1,0,4136,9.825,,S
+1007,female,0,American,Mrs.,Shayla Smith,17,3,0,0,2627,144.583,,C
+1008,female,0,American,Mrs.,Lisa Sandusky,21,3,0,0,STON/O 2. 3101294,7.925,,S
+1009,male,0,American,Mr.,James Eaton,70.5,2,0,0,370369,7.75,,Q
+1010,male,0,American,Mr.,Marcos Talley,29,1,1,0,11668,21,,S
+1011,male,0,American,Mr.,Brady Miller,24,3,0,1,PC 17558,2.475.208,B58 B60,C
+1012,female,0,American,Mrs.,Lula Johnson,2,2,4,2,347082,31.275,,S
+1013,female,0,American,Mrs.,Cindy Rainey,21,3,2,0,S.O.C. 14879,73.5,,S
+1014,male,0,American,Mr.,Scott Souther,,2,0,0,A4. 54510,8.05,,S
+1015,female,1,American,Mrs.,Christina Garner,32.5,2,1,0,237736,300.708,,C
+1016,male,0,American,Mr.,Wendell Nichols,32.5,1,0,0,27267,13,E101,S
+1017,female,1,American,Ms.,Emma Odom,54,3,0,1,35281,772.875,D26,S
+1018,male,0,American,Mr.,Larry Woodruff,12,3,1,0,2651,112.417,,C
+1019,female,1,American,Ms.,Patricia Hogan,,3,0,0,370372,7.75,,Q
+1020,male,1,American,Mr.,Dennis Rosario,24,3,0,0,C 17369,71.417,,S
+1021,male,0,American,Mr.,Thomas McKinney,,3,1,1,2668,223.583,F E69,C
+1022,male,0,American,Mr.,Jim Casarez,45,3,0,0,347061,6.975,,S
+1023,female,0,American,Ms.,Betty Hoyt,33,3,0,0,349241,78.958,,C
+1024,male,0,American,Mr.,George Lacey,20,3,0,0,SOTON/O.Q. 3101307,7.05,,S
+1025,female,1,American,Ms.,Denise Martin,47,2,1,0,A/5. 3337,14.5,,S
+1026,male,0,American,Mr.,John Robinson,29,2,1,0,228414,26,,S
+1027,male,0,American,Mr.,Nelson Hughes,25,2,0,0,C.A. 29178,13,,S
+1028,female,1,American,Ms.,Beatrice Lock,23,1,0,0,SC/PARIS 2133,150.458,,C
+1029,female,0,American,Dr.,Jennifer Boyle,19,1,0,2,11752,262.833,D47,S
+1030,male,0,American,Mr.,Frank Harris,37,3,1,0,113803,53.1,C123,S
+1031,male,0,American,Mr.,Daniel Stanley,16,1,0,0,7534,92.167,,S
+1032,female,0,American,Ms.,Krystyna Martin,24,3,0,0,PC 17593,79.2,B86,C
+1033,female,1,American,Mrs.,Elizabeth Strauss,,3,0,2,2678,152.458,,C
+1034,male,1,American,Mr.,Edward Willis,22,3,0,0,347081,7.75,,S
+1035,female,0,American,Ms.,Cathy Nelson,24,3,1,0,STON/O2. 3101279,15.85,,S
+1036,female,0,American,Mrs.,Jean Jones,19,2,0,0,365222,6.75,,Q
+1037,male,0,American,Mr.,John Miller,18,2,0,0,231945,11.5,,S
+1038,female,1,American,Mrs.,Viola McKenzie,19,3,1,1,C.A. 33112,36.75,,S
+1039,male,0,American,Mr.,Frank Gracia,27,3,0,0,350043,77.958,,S
+1040,male,0,American,Mr.,James Egan,9,2,2,2,W./C. 6608,34.375,,S
+1041,female,0,American,Ms.,Lenore Yang,36.5,2,0,2,230080,26,F2,S
+1042,female,0,American,Mrs.,Lilla Coburn,42,2,0,0,244310,13,,S
+1043,female,1,American,Mrs.,Whitney Neff,51,1,0,0,S.O.P. 1166,12.525,,S
+1044,female,0,American,Mrs.,Joan Brown,22,3,1,0,113776,66.6,C2,S
+1045,female,0,American,Ms.,Lorraine Delgado,55.5,3,0,0,A.5. 11206,8.05,,S
+1046,male,0,American,Mr.,Harold Downey,40.5,3,0,2,A/5. 851,14.5,,S
+1047,male,0,American,Mr.,Peter Latour,,1,0,0,Fa 265302,73.125,,S
+1048,male,1,American,Mr.,Gilbert Crawford,51,3,0,1,PC 17597,613.792,,C
+1049,female,0,American,Mrs.,Gladys Garcia,16,3,0,0,35851,77.333,,Q
+1050,male,0,American,Mr.,Victor Schanz,30,3,0,0,SOTON/OQ 392090,8.05,,S
+1051,male,0,American,Mr.,Vincent Crisman,,3,0,0,315037,86.625,,S
+1052,female,0,American,Mrs.,Amy Wright,,3,8,2,CA. 2343,69.55,,S
+1053,male,1,American,Mr.,Matthew Coulter,44,2,0,1,371362,16.1,,S
+1054,female,0,American,Ms.,Norma Murphy,40,3,0,0,C.A. 33595,15.75,,S
+1055,male,0,American,Mr.,Marlon Arms,26,3,0,0,347068,7.775,,S
+1056,male,0,American,Mr.,Marvin Ronan,17,3,0,0,315093,86.625,,S
+1057,female,1,American,Ms.,Pat Dozier,1,3,4,1,3101295,396.875,,S
+1058,male,1,American,Mr.,Richard Terrill,9,1,0,2,363291,20.525,,S
+1059,female,0,American,Ms.,Millicent Richardson,,3,0,1,113505,55,E33,S
+1060,female,0,American,Mrs.,Geraldine Calhoun,45,1,1,4,347088,27.9,,S
+1061,male,0,American,Mr.,Kevin Miller,,3,0,0,PC 17318,25.925,,S
+1062,female,0,American,Ms.,Debra Safford,28,1,0,0,1601,564.958,,S
+1063,male,0,American,Mr.,Scott Speirs,61,3,0,0,111240,33.5,B19,S
+1064,male,1,American,Mr.,John Gunnell,4,3,4,1,382652,29.125,,Q
+1065,male,0,American,Mr.,Gregory Levy,1,3,1,1,347742,111.333,,S
+1066,female,0,American,Mrs.,Greta Rounds,21,1,0,0,STON/O 2. 3101280,7.925,,S
+1067,female,0,American,Ms.,Marion Parry,56,3,0,0,17764,306.958,A7,C
+1068,male,0,American,Mr.,John McClelland,18,3,1,1,350404,78.542,,S
+1069,female,0,American,Mrs.,Martha Marshall,,1,3,1,4133,254.667,,S
+1070,female,0,American,Ms.,Claudia Mattingly,50,2,0,0,PC 17595,287.125,C49,C
+1071,female,0,American,Ms.,Ruth Drake,30,3,0,0,250653,13,,S
+1072,male,0,American,Mr.,Leonard Skaggs,36,3,0,0,LINE,0,,S
+1073,male,0,American,Mr.,Robert Dehaven,,2,8,2,CA. 2343,69.55,,S
+1074,female,0,American,Mrs.,Rachel Peay,,3,0,0,SC/PARIS 2131,15.05,,C
+1075,female,1,American,Ms.,Claire Cash,9,2,4,2,347077,313.875,,S
+1076,female,1,American,Mrs.,Alexandra Saunders,1,3,2,1,230136,39,F4,S
+1077,male,0,American,Mr.,Danny Molina,4,1,0,2,315153,22.025,,S
+1078,male,1,American,Mr.,David Turner,,3,0,0,113767,50,A32,S
+1079,male,1,American,Mr.,Andrew French,,1,1,0,370365,15.5,,Q
+1080,male,0,American,Mr.,Stanley Russell,45,3,0,0,111428,26.55,,S
+1081,male,0,American,Mr.,Robert Riley,40,3,1,1,364849,15.5,,Q
+1082,male,1,American,Mr.,Blake Kidder,36,2,0,0,349247,78.958,,S
+1083,male,0,American,Mr.,Fabian Melchor,32,2,0,0,234604,13,,S
+1084,female,1,American,Mrs.,Margie Frazier,19,3,0,0,28424,13,,S
+1085,female,1,American,Mrs.,Lois Sweeney,19,2,1,0,350046,78.542,,S
+1086,male,1,American,Mr.,Paul Hardison,3,1,1,1,230080,26,F2,S
+1087,male,1,American,Mr.,Bobby Williams,44,1,0,0,PC 17610,277.208,B4,C
+1088,male,0,American,Mr.,Robert Ledford,58,3,0,0,PC 17569,1.465.208,B80,C
+1089,female,0,American,Mrs.,Dale Rivas,,3,0,0,368703,7.75,,Q
+1090,male,1,American,Mr.,Chad Robinson,42,3,0,1,4579,84.042,,S
+1091,male,0,American,Mr.,John Jacobs,,2,0,0,370370,7.75,,Q
+1092,male,0,American,Mr.,Mario Fortes,24,3,0,0,248747,13,,S
+1093,female,0,American,Ms.,Donna Leeper,28,3,0,0,345770,9.5,,S
+1094,female,0,American,Mrs.,Eileen Graham,,3,8,2,CA. 2343,69.55,,S
+1095,female,0,American,Ms.,Alta Cuellar,34,3,0,0,3101264,64.958,,S
+1096,female,1,American,Mrs.,Diana Taylor,45.5,3,0,0,2628,7.225,,C
+1097,male,0,American,Mr.,Kip Thornton,18,3,0,0,A/5 3540,8.05,,S
+1098,male,0,American,Mr.,Robert Green,2,3,0,1,347054,104.625,G6,S
+1099,female,1,American,Ms.,Margaret Horton,32,3,1,0,3101278,15.85,,S
+1100,male,1,American,Mr.,Charles Solomon,26,3,0,0,2699,187.875,,C
+1101,male,1,American,Mr.,Adrian Price,16,1,0,0,367231,7.75,,Q
+1102,male,0,American,Mr.,Paul Reyes,40,3,0,0,112277,31,A31,C
+1103,female,1,American,Mrs.,Precious Pace,24,2,0,0,SOTON/O.Q. 3101311,7.05,,S
+1104,female,0,American,Ms.,Antonia Driggers,35,3,0,0,F.C.C. 13528,21,,S
+1105,female,0,American,Mrs.,Patricia Riley,22,2,0,0,A/5 21174,7.25,,S
+1106,male,0,American,Mr.,Adrian Lapoint,30,3,0,0,250646,13,,S
+1107,male,1,American,Mr.,Jesus Foreman,,1,1,0,367229,7.75,,Q
+1108,female,1,American,Mrs.,Elsa Britt,31,3,1,0,35273,113.275,D36,C
+1109,male,0,American,Mr.,Steven Minton,27,2,0,0,STON/O2. 3101283,7.925,,S
+1110,female,1,American,Mrs.,Dorothy Cary,42,1,1,0,243847,27,,S
+1111,male,0,American,Mr.,Arthur Nye,32,2,0,0,11813,762.917,D15,C
+1112,female,1,American,Ms.,Elizabeth Heeter,30,3,0,0,W/C 14208,10.5,,S
+1113,male,0,American,Mr.,Frank Braun,16,2,0,0,SOTON/OQ 392089,8.05,,S
+1114,female,0,American,Mrs.,Sherri Thomas,27,3,0,0,220367,13,,S
+1115,female,0,American,Mrs.,Laura Money,51,3,0,0,21440,8.05,,S
+1116,female,1,American,Mrs.,Marylou Marquardt,,1,0,0,349234,78.958,,S
+1117,female,0,American,Ms.,Helen Martin,38,3,1,0,19943,90,C93,S
+1118,male,1,American,Mr.,Roy Gonzales,22,2,0,0,PP 4348,9.35,,S
+1119,female,0,American,Ms.,Teresa Stone,19,3,0,0,SW/PP 751,10.5,,S
+1120,male,0,American,Mr.,Joseph Stephenson,20.5,2,0,0,A/5 21173,7.25,,S
+1121,male,0,American,Mr.,Tim Moss,18,3,0,0,236171,13,,S
+1122,female,1,American,Mrs.,Barbara Hinman,,1,3,1,4133,254.667,,S
+1123,male,0,American,Mr.,Robert Houck,35,3,1,0,36973,83.475,C83,S
+1124,male,0,American,Mr.,Steven Burton,29,2,0,0,347067,7.775,,S
+1125,female,1,American,Mrs.,Martha Hemphill,59,3,0,0,237442,13.5,,S
+1126,female,0,American,Ms.,Suk May,5,2,4,2,347077,313.875,,S
+1127,female,0,American,Ms.,Lucille Larrick,24,3,0,0,C.A. 29566,10.5,,S
+1128,female,0,American,Mrs.,Denise Carr,,2,0,0,W./C. 6609,7.55,,S
+1129,female,1,American,Mrs.,Nettie Fields,44,2,1,0,26707,26,,S
+1130,male,0,American,Mr.,Joseph Laubach,8,2,0,2,C.A. 31921,26.25,,S
+1131,female,0,American,Ms.,Molly Driver,19,2,0,0,28665,10.5,,S
+1132,female,0,American,Ms.,Cindy Carter,33,3,0,0,SCO/W 1585,12.275,,S
+1133,male,1,American,Mr.,Donald Smith,,3,1,0,2665,144.542,,C
+1134,male,0,American,Mr.,Walter Cone,,2,1,0,367230,15.5,,Q
+1135,female,0,American,Mrs.,Jacqueline Lopez,29,3,0,0,W./C. 14263,10.5,,S
+1136,female,0,American,Ms.,Mary Foster,22,3,0,0,STON/O 2. 3101275,7.125,,S
+1137,male,0,American,Dr.,Anthony Frank,30,1,0,0,2694,7.225,,C
+1138,male,0,American,Mr.,Kevin Pederson,44,3,2,0,19928,90,C78,Q
+1139,female,1,American,Ms.,Crystal Smith,25,2,0,0,347071,7.775,,S
+1140,male,1,American,Mr.,Glenn Clark,24,1,0,2,250649,14.5,,S
+1141,male,0,American,Mr.,Robert Green,37,2,1,1,11751,525.542,D35,S
+1142,female,0,American,Ms.,Nancy Mitchel,54,3,1,0,244252,26,,S
+1143,male,0,American,Mr.,Patrick Moore,,3,0,0,362316,7.25,,S
+1144,female,0,American,Ms.,Molly Harman,29,1,1,1,347054,104.625,G6,S
+1145,female,0,American,Ms.,Danica Wilson,62,3,0,0,113514,26.55,C87,S
+1146,male,0,American,Mr.,Ronald Silva,30,3,1,0,A/5. 3336,16.1,,S
+1147,male,1,American,Mr.,Shane Wynn,41,3,0,2,370129,202.125,,S
+1148,female,1,American,Ms.,Virginia Saldivar,29,1,0,2,2650,152.458,,C
+1149,female,1,American,Ms.,Kelly Winston,,1,0,0,PC 17585,79.2,,C
+1150,male,1,American,Mr.,Boris Young,30,1,0,0,110152,86.5,B77,S
+1151,male,1,American,Mr.,Lawrence Ellington,35,2,0,0,PC 17755,5.123.292,,C
+1152,female,0,American,Mrs.,Sandra Walter,50,3,0,1,230433,26,,S
+1153,female,1,American,Ms.,Hilda Fierro,,3,0,0,384461,7.75,,Q
+1154,female,0,American,Mrs.,Sylvia Lewallen,3,1,4,2,347077,313.875,,S
+1155,female,0,American,Mrs.,Jenifer Wells,52,1,1,1,110413,79.65,E67,S
+1156,male,0,American,Mr.,George Colon,40,3,0,0,112059,0,B94,S
+1157,female,0,American,Ms.,Patrice Dorsey,,2,0,0,382649,7.75,,Q
+1158,male,0,American,Mr.,Joseph Means,36,3,0,0,C.A. 17248,10.5,,S
+1159,female,1,American,Ms.,Laura Killen,16,3,4,1,3101295,396.875,,S
+1160,female,1,American,Mrs.,Megan Samuel,25,1,1,0,347083,7.775,,S
+1161,male,1,American,Mr.,Chris Jennings,58,1,0,1,PC 17582,1.534.625,C125,S
+1162,male,0,American,Mr.,Chris Ready,35,1,0,0,PC 17760,1.356.333,C99,S
+1163,male,1,American,Mr.,Brandon Hay,,3,0,0,113798,31,,S
+1164,male,1,American,Mr.,Steven Messina,25,2,0,0,LINE,0,,S
+1165,male,0,American,Mr.,Frank Colvin,41,1,0,1,250644,19.5,,S
+1166,male,1,American,Mr.,Christopher Hudson,37,3,0,1,PC 17596,29.7,C118,C
+1167,male,1,American,Mr.,John Graham,,1,0,0,370375,7.75,,Q
+1168,female,0,American,Ms.,Sofia Keough,63,3,1,0,13502,779.583,D7,S
+1169,female,0,American,Mrs.,Amy Williams,45,2,0,0,347073,7.75,,S
+1170,female,0,American,Ms.,Annabelle Johnson,,3,0,0,239853,0,,S
+1171,male,1,American,Mr.,Gregg Hairston,7,3,4,1,382652,29.125,,Q
+1172,female,0,American,Ms.,Jasmine Davis,35,3,1,1,C.A. 2673,20.25,,S
+1173,male,0,American,Mr.,Kyle Honaker,65,3,0,0,336439,7.75,,Q
+1174,male,0,American,Mr.,Victor Scott,28,3,0,0,347464,78.542,,S
+1175,female,1,American,Mrs.,Odette Henderson,16,3,0,0,345778,9.5,,S
+1176,male,0,American,Mr.,Jimmy Coles,19,1,0,0,A/5. 10482,8.05,,S
+1177,female,0,American,Ms.,Selma Ridge,,3,0,0,113056,26,A19,S
+1178,male,1,American,Mr.,Matthew Watson,33,3,0,0,349239,86.625,,C
+1179,female,0,American,Ms.,Veronica Taylor,30,3,0,0,345774,9.5,,S
+1180,female,1,American,Ms.,Nina Goines,22,2,0,0,349206,78.958,,S
+1181,male,1,American,Mr.,Robert Choate,42,3,0,0,237798,13,,S
+1182,female,1,American,Ms.,Marian Kwong,22,1,0,0,370373,7.75,,Q
+1183,male,1,American,Mr.,William Schwartz,26,1,0,0,19877,78.85,,S
+1184,female,0,American,Ms.,Geraldine Beamon,19,2,1,0,11967,910.792,B49,C
+1185,female,0,American,Dr.,Maggie Martin,36,3,0,0,SC/Paris 2163,12.875,D,C
+1186,female,0,American,Ms.,Lisa Banks,24,3,0,0,349236,8.85,,S
+1187,male,0,American,Mr.,Carlos Talavera,24,1,0,0,349233,78.958,,S
+1188,female,0,American,Dr.,Shirley Matson,,3,0,0,PC 17612,277.208,,C
+1189,male,0,American,Mr.,Luigi Howell,23.5,1,0,0,2693,72.292,,C
+1190,female,1,American,Ms.,Linda Poole,2,1,1,2,113781,151.55,C22 C26,S
+1191,female,1,American,Mrs.,Soledad Jones,,1,0,0,19988,30.5,C106,S
+1192,male,1,American,Mr.,Jason Smith,50,3,0,1,PC 17558,2.475.208,B58 B60,C
+1193,female,1,American,Ms.,Yvone Delacruz,,3,0,0,9234,7.75,,Q
+1194,male,0,American,Mr.,Michael Cassidy,,3,2,0,367226,23.25,,Q
+1195,male,1,American,Mr.,Antonio Anthony,19,2,0,0,LINE,0,,S
+1196,female,0,American,Ms.,Marie Carter,,3,0,0,226593,12.35,E101,Q
+1197,female,1,American,Dr.,Margaret Cook,,1,0,0,A/5 2466,8.05,,S
+1198,female,1,American,Mrs.,Alissa Bolton,0.92,1,1,2,113781,151.55,C22 C26,S
+1199,female,1,American,Mrs.,Linda Starr,,1,0,0,17421,1.108.833,,C
+1200,female,0,American,Ms.,Sherryl Hicks,17,2,1,0,PC 17758,108.9,C65,C
+1201,male,1,American,Mr.,Dennis Powell,30,1,1,0,P/PP 3381,24,,C
+1202,female,1,American,Ms.,Casey Moon,30,1,0,0,PC 17485,569.292,E36,C
+1203,male,1,American,Mr.,Albert Graham,24,1,0,0,11767,831.583,C54,C
+1204,male,0,American,Mr.,Nathan Frost,18,2,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+1205,male,0,American,Dr.,Kenneth Campbell,26,3,1,1,250651,26,,S
+1206,male,0,American,Mr.,Arthur Shaw,28,2,0,0,349243,78.958,,S
+1207,male,1,American,Mr.,Christopher Shell,43,3,1,1,F.C.C. 13529,26.25,,S
+1208,female,1,American,Ms.,Dorothy Hickman,26,2,0,0,347470,78.542,,S
+1209,female,0,American,Mrs.,Doris Davenport,24,2,1,0,244367,26,,S
+1210,female,1,American,Ms.,Gale Entrekin,54,1,0,0,29011,14,,S
+1211,male,1,American,Mr.,Paul McPherson,31,1,0,2,36928,1.648.667,C7,S
+1212,female,0,American,Ms.,Maria Begley,40,3,1,1,16966,134.5,E34,C
+1213,female,0,American,Ms.,Andrea Hicks,22,3,0,0,A/5 21172,7.25,,S
+1214,female,1,American,Mrs.,Jenifer Boucher,27,2,0,0,349219,78.958,,S
+1215,female,1,American,Mrs.,Christina McDonald,30,2,0,0,234818,12.35,,Q
+1216,female,0,American,Mrs.,Annette Williams,22,3,1,1,248738,29,,S
+1217,female,1,American,Mrs.,Joan Rosario,,1,8,2,CA. 2343,69.55,,S
+1218,female,0,American,Ms.,Kenna Keys,36,3,0,0,PC 17760,1.356.333,C32,C
+1219,male,1,American,Mr.,Zachary Spero,61,2,0,0,345364,62.375,,S
+1220,female,1,American,Ms.,Jodi Lee,36,3,0,0,28551,13,D,S
+1221,female,1,American,Mrs.,Beatrice Putnam,31,1,1,1,363291,20.525,,S
+1222,male,1,American,Mr.,Brian Smith,16,3,0,1,111361,579.792,B18,C
+1223,female,0,American,Ms.,Jayne Grider,,1,2,0,367226,23.25,,Q
+1224,male,0,American,Mr.,Kenneth Annunziata,45.5,1,0,0,113043,28.5,C124,S
+1225,male,0,American,Mr.,Andres Pate,38,3,0,1,PC 17582,1.534.625,C91,S
+1226,male,1,American,Mr.,John Smith,16,1,2,0,345764,18,,S
+1227,male,0,American,Mr.,Kenneth Vasquez,,3,1,0,PC 17611,133.65,,S
+1228,male,0,American,Mr.,Billy Silva,,1,0,0,349225,78.958,,S
+1229,male,1,American,Mr.,Michael Straka,29,1,1,0,113776,66.6,C2,S
+1230,female,1,American,Ms.,Joanna Davis,41,3,0,0,16966,134.5,E40,C
+1231,female,0,American,Mrs.,Elaine Wilson,45,1,0,0,7598,8.05,,S
+1232,male,1,American,Mr.,John Dixon,45,2,0,0,113784,35.5,T,S
+1233,male,1,American,Mr.,Michael Nakamura,2,1,1,1,230080,26,F2,S
+1234,female,0,American,Mrs.,Nancy Ross,24,2,3,2,19950,263,C23 C25 C27,S
+1235,female,0,American,Ms.,Mary Dunlap,28,2,0,0,248740,13,,S
+1236,female,0,American,Ms.,Lorena Shepard,25,2,0,0,244361,13,,S
+1237,female,1,American,Ms.,Lane Madewell,36,2,0,0,229236,13,,S
+1238,female,1,American,Ms.,Lula Jones,24,2,0,0,248733,13,F33,S
+1239,male,1,American,Mr.,Clifton Cooper,40,3,0,0,31418,13,,S
+1240,female,1,American,Mrs.,Anna Burden,,3,1,0,386525,16.1,,S
+1241,female,0,American,Mrs.,Helen Figueroa,3,3,1,1,C.A. 37671,15.9,,S
+1242,male,0,American,Mr.,Edwin Martinez,42,3,0,0,315088,86.625,,S
+1243,male,0,American,Mr.,Earl Webb,23,1,0,0,7267,9.225,,S
+1244,male,0,American,Mr.,John Ragsdale,,3,0,0,113510,35,C128,S
+1245,female,0,American,Mrs.,Rachel Mitchell,15,3,1,1,2695,72.292,,C
+1246,female,0,American,Ms.,Casandra Green,25,3,1,0,349237,17.8,,S
+1247,male,0,American,Mr.,Floyd Schramm,,3,0,0,2647,7.225,,C
+1248,male,1,American,Mr.,Robert Haugh,28,1,0,0,345783,9.5,,S
+1249,male,0,American,Mr.,Leonard Oldenburg,22,2,0,1,113505,55,E33,S
+1250,male,1,American,Mr.,Donald McEvoy,38,3,0,0,237671,13,,S
+1251,female,1,American,Mrs.,Latoya Dupree,,3,0,0,330931,78.792,,Q
+1252,male,0,American,Mr.,Francis Montemayor,,3,0,0,330980,78.792,,Q
+1253,male,0,American,Mr.,Vicente Snook,40,2,1,4,347088,27.9,,S
+1254,male,0,American,Mr.,Mathew Gabel,29,3,1,0,SC/PARIS 2167,277.208,,C
+1255,male,0,American,Mr.,Michael McGowan,45,3,0,1,2691,144.542,,C
+1256,female,0,American,Mrs.,Shannon Youngblood,35,3,0,0,SOTON/O.Q. 3101310,7.05,,S
+1257,male,0,American,Dr.,Leo Thome,,3,1,0,370365,15.5,,Q
+1258,male,1,American,Mr.,Harry Heath,30,1,0,0,C 7076,7.25,,S
+1259,male,1,American,Mr.,Christopher Anderson,60,3,1,0,110813,75.25,D37,C
+1260,male,1,American,Mr.,Manuel Koval,,3,0,0,2626,72.292,,C
+1261,female,1,American,Ms.,Jamie Ensley,,1,0,0,14313,7.75,,Q
+1262,male,1,American,Dr.,Jonathan Kirkman,24,1,0,0,PC 17477,69.3,B35,C
+1263,female,0,American,Ms.,Eunice Garey,25,3,1,0,11765,554.417,E50,C
+1264,male,0,American,Mr.,Patrick Brown,18,3,1,0,3101267,64.958,,S
+1265,female,0,American,Ms.,Helen Thomas,19,1,0,0,323951,8.05,,S
+1266,male,0,American,Mr.,George Killebrew,22,3,0,0,PC 17760,1.356.333,,C
+1267,male,1,American,Mr.,William Lewis,3,1,3,1,349909,21.075,,S
+1268,female,1,American,Mrs.,Theresa Carter,,3,1,0,PC 17604,821.708,,C
+1269,female,0,American,Mrs.,Tabatha Cundiff,22,1,0,0,C 7077,7.25,,S
+1270,female,0,American,Ms.,Mary Bissonnette,27,3,0,2,113503,211.5,C82,C
+1271,female,0,American,Ms.,Ann Garrett,20,3,0,0,2648,40.125,,C
+1272,female,1,American,Mrs.,Lisa Delavega,19,1,0,0,347069,7.775,,S
+1273,female,1,American,Ms.,Donna Thompson,42,3,0,0,PC 17757,227.525,,C
+1274,male,0,American,Mr.,Julian Ruiz,1,3,0,2,2653,157.417,,C
+1275,male,1,American,Mr.,Rudy Mays,32,1,0,0,STON/O 2. 3101293,7.925,,S
+1276,female,0,American,Mrs.,Julia Alvarado,35,3,1,0,113789,52,,S
+1277,male,0,American,Mr.,John Jones,,2,0,0,349227,78.958,,S
+1278,male,0,American,Mr.,Joe Baxter,18,3,0,0,S.O.C. 14879,73.5,,S
+1279,male,1,American,Mr.,Richard Patterson,1,2,5,2,CA 2144,46.9,,S
+1280,male,0,American,Mr.,Brent Lott,36,3,0,0,27849,13,,S
+1281,male,1,American,Mr.,Eric Cully,,2,0,0,367655,77.292,,Q
+1282,female,1,American,Mrs.,Mildred McMurtry,17,1,0,0,SC 1748,12,,C
+1283,male,1,American,Mr.,Robert Newton,36,3,1,2,113760,120,B96 B98,S
+1284,male,0,American,Mr.,Robert Gilbert,21,3,0,0,350034,77.958,,S
+1285,male,1,American,Mr.,Joseph McCauley,28,1,2,0,3101277,7.925,,S
+1286,female,1,American,Ms.,Martha Turgeon,23,3,1,0,35273,113.275,D36,C
+1287,female,0,American,Mrs.,Karen Brackett,24,3,0,2,PP 9549,16.7,G6,S
+1288,female,0,American,Mrs.,Marion Kelley,22,3,0,0,350052,77.958,,S
+1289,male,0,American,Mr.,Willard Crowell,31,2,0,0,350407,78.542,,S
+1290,female,0,American,Mrs.,Judith Murray,46,2,0,0,28403,26,,S
+1291,male,1,American,Mr.,John Arteaga,23,2,0,0,244278,10.5,,S
+1292,female,1,American,Mrs.,Joy Caldwell,28,3,0,0,240929,12.65,,S
+1293,female,0,American,Ms.,Mary Garcia,39,3,0,0,STON/O 2. 3101289,7.925,,S
+1294,male,0,American,Mr.,Christopher Hickman,26,3,0,0,341826,8.05,,S
+1295,female,0,American,Ms.,Maria McQueen,21,3,1,0,4137,9.825,,S
+1296,male,0,American,Dr.,Joseph Wiggins,28,3,1,0,STON/O2. 3101279,15.85,,S
+1297,male,0,American,Mr.,Joseph Barker,20,2,0,0,315096,86.625,,S
+1298,female,0,American,Ms.,Jada Corbett,34,3,1,0,28664,21,,S
+1299,male,1,American,Mr.,Frederick Greene,51,2,0,0,347064,7.75,,S
+1300,male,0,American,Mr.,James Phillips,3,3,1,1,29106,18.75,,S
+1301,male,0,American,Mr.,Johnnie Bailey,21,3,0,0,312992,7.775,,S
+1302,female,0,American,Ms.,Robin Furlong,,3,3,1,4133,254.667,,S
+1303,female,0,American,Ms.,Catherine Jones,,3,0,0,349222,78.958,,S
+1304,female,1,American,Dr.,Margaret Sullivan,,1,0,0,394140,68.583,,Q
+1305,female,0,American,Mrs.,Marcie Deschenes,33,2,1,0,19928,90,C78,Q
+1306,male,1,American,Mr.,Andrew Reynolds,,3,0,0,239853,0,,S
+1307,female,0,American,Mrs.,Nellie Gantt,44,3,0,0,STON/O 2. 3101269,7.925,,S
+1308,female,1,American,Mrs.,Jennifer Dodrill,,2,0,0,343095,8.05,,S
+1309,female,1,American,Mrs.,Nadine Hickman,34,2,1,1,28220,32.5,,S
+1310,male,0,American,Mr.,Daniel Jackson,18,2,0,2,250652,13,,S
+1311,male,0,American,Mr.,Jayson Davis,30,3,0,0,28228,13,,S
+1312,female,0,American,Ms.,Vicky Moses,10,3,0,2,345773,24.15,,S
+1313,male,0,American,Mr.,Aaron Williams,,3,0,0,349254,78.958,,C
+1314,male,0,American,Mr.,Chris McNeel,21,3,0,0,A/5. 13032,77.333,,Q
+1315,female,0,American,Ms.,Maria Koerner,29,3,0,0,315082,7.875,,S
+1316,male,0,American,Mr.,Ryan McCarty,28,3,1,1,347080,14.4,,S
+1317,male,0,American,Mr.,Mark Hardy,18,3,1,1,370129,202.125,,S
+1318,male,1,American,Mr.,Christian Escobedo,,2,0,0,A/4. 34244,7.25,,S
+1319,female,1,American,Ms.,Melinda Ladner,28,2,1,0,2003,26,,S
+1320,female,0,American,Mrs.,Brenda Jason,19,3,0,0,250655,26,,S
+1321,female,1,American,Mrs.,Iris Wright,,3,0,0,364851,7.75,,Q
+1322,female,1,American,Mrs.,Elizabeth Wentz,32,1,0,0,SOTON/O.Q. 392078,8.05,E10,S
+1323,male,1,American,Mr.,Micheal Pardo,28,3,0,0,110564,26.55,C52,S
+1324,male,1,American,Mr.,Andrew Greenspan,,2,1,0,376564,16.1,,S
+1325,male,0,American,Mr.,Irving Patterson,42,3,1,0,SC/AH 3085,26,,S
+1326,male,0,American,Mr.,Richard Campos,17,1,0,0,STON/O 2. 3101274,7.125,,S
+1327,male,1,American,Mr.,Rico Price,50,1,1,0,13507,55.9,E44,S
+1328,female,0,American,Ms.,Marla Dimatteo,14,3,1,2,113760,120,B96 B98,S
+1329,male,1,American,Mr.,Kenneth Ambrose,21,2,2,2,W./C. 6608,34.375,,S
+1330,male,0,American,Mr.,Spencer Ferris,24,1,2,3,29106,18.75,,S
+1331,female,0,American,Mrs.,Maureen Lawson,64,2,1,4,19950,263,C23 C25 C27,S
+1332,female,1,American,Ms.,Jo Coleman,31,2,0,0,C.A. 18723,10.5,,S
+1333,female,0,American,Mrs.,Cynthia Jones,45,3,1,1,F.C.C. 13529,26.25,,S
+1334,male,0,American,Mr.,Mark Prentice,20,3,0,0,345769,9.5,,S
+1335,female,1,American,Mrs.,Anne McDonald,25,2,1,0,347076,7.775,,S
+1336,male,1,American,Mr.,Matthew Flores,28,3,0,0,230434,13,,S
+1337,male,1,American,Mr.,Quinton Berrier,,1,0,0,65306,81.125,,S
+1338,female,1,American,Mrs.,Barbara Holmes,4,2,0,2,33638,818.583,A34,S
+1339,female,1,American,Mrs.,Martha Bland,13,1,0,1,250644,19.5,,S
+1340,female,1,American,Mrs.,Linda Harris,34,3,0,0,113794,26.55,,S
+1341,male,1,American,Mr.,Adam Edwards,5,1,2,1,2666,192.583,,C
+1342,female,0,American,Ms.,Christy Arehart,52,2,0,0,113786,30.5,C104,S
+1343,male,0,American,Mr.,Tommy Johnson,36,3,1,2,C.A. 34651,27.75,,S
+1344,female,0,American,Ms.,Lauren Morin,,1,1,0,65303,199.667,,S
+1345,female,1,American,Mrs.,Dorothy Chan,30,1,0,0,113051,27.75,C111,C
+1346,female,0,American,Mrs.,April Salyers,49,3,1,0,17453,891.042,C92,C
+1347,male,1,American,Mr.,Charles Tilley,,3,0,0,A/5 2817,8.05,,S
+1348,male,0,American,Mr.,Michael Mitchell,29,1,0,0,349240,78.958,,C
+1349,female,1,American,Mrs.,Shirley Medley,65,1,0,0,13509,26.55,E38,S
+1350,male,1,American,Mr.,Edwin Blair,,2,1,0,17464,518.625,D21,S
+1351,female,0,American,Ms.,Candice Willhite,50,3,0,0,F.C.C. 13531,10.5,,S
+1352,male,1,American,Mr.,Brady Abbott,,1,0,0,371060,7.75,,Q
+1353,female,0,American,Mrs.,Kathleen Krok,48,3,0,0,19952,26.55,E12,S
+1354,female,0,American,Ms.,Valerie Murray,34,1,0,0,364506,8.05,,S
+1355,male,0,American,Mr.,Matthew Mazzola,47,2,0,0,111320,38.5,E63,S
+1356,male,0,American,Mr.,Bradley Folden,48,3,0,0,234360,13,,S
+1357,male,0,American,Mr.,Adam Coombs,,3,0,0,A/S 2816,8.05,,S
+1358,female,0,American,Mrs.,Geraldine Elliott,38,2,0,0,SOTON/O.Q. 3101306,7.05,,S
+1359,male,0,American,Mr.,Glenn Cammack,,1,0,0,239853,0,,S
+1360,male,0,American,Mr.,Phillip Bosworth,56,3,0,0,113792,26.55,,S
+1361,male,1,American,Dr.,Donald Polk,,3,0,0,36209,7.725,,Q
+1362,male,0,American,Mr.,Jose Cook,0.75,3,2,1,2666,192.583,,C
+1363,male,0,American,Mr.,James Tolbert,,3,0,0,323592,7.25,,S
+1364,male,1,American,Mr.,Gene Bridges,38,2,0,0,315089,86.625,,S
+1365,male,1,American,Dr.,Lawrence Gipe,33,2,1,2,C.A. 34651,27.75,,S
+1366,male,0,American,Mr.,Edgar Arevalo,23,3,0,0,SC/AH Basle 541,137.917,D,C
+1367,female,0,American,Ms.,Mattie Latorre,22,1,0,0,7553,98.375,,S
+1368,female,0,American,Mrs.,Holly Fortson,,2,0,0,110465,52,A14,S
+1369,female,0,American,Mrs.,Alice Brown,34,3,1,0,31027,21,,S
+1370,female,0,American,Ms.,Mary Walsh,29,3,1,0,3460,70.458,,S
+1371,female,1,American,Ms.,Kimberly Delgado,22,3,0,0,350060,75.208,,S
+1372,male,0,American,Mr.,Ross Cunningham,2,3,0,1,3101298,122.875,,S
+1373,female,0,American,Ms.,Lori Foley,9,2,5,2,CA 2144,46.9,,S
+1374,male,0,American,Mr.,Jeffrey Davis,,3,0,0,239854,0,,S
+1375,female,1,American,Ms.,Lois Henderson,50,3,0,0,A/5 3594,8.05,,S
+1376,male,1,American,Mr.,Freddie Cooper,63,1,0,0,4134,95.875,,S
+1377,male,0,American,Mr.,Stanley Montgomery,25,3,1,0,11967,910.792,B49,C
+1378,female,1,American,Mrs.,Rachel Webster,,1,3,1,4133,254.667,,S
+1379,female,0,American,Mrs.,Eleanor Keller,35,1,1,0,19943,90,C93,S
+1380,female,0,American,Mrs.,Mary Hilley,58,3,0,0,11771,29.7,B37,C
+1381,male,1,American,Mr.,Norbert Aguiar,30,3,0,0,A.5. 18509,8.05,,S
+1382,male,0,American,Mr.,Robert Nunn,9,3,1,1,C.A. 37671,15.9,,S
+1383,male,0,American,Mr.,Juan Brown,,3,1,0,65304,199.667,,S
+1384,female,0,American,Dr.,Jean Falcon,21,1,0,0,SOTON/OQ 3101317,7.25,,S
+1385,female,0,American,Mrs.,Catherine Strauss,55,1,0,0,113787,30.5,C30,S
+1386,male,0,American,Mr.,Jack Case,71,3,0,0,PC 17609,495.042,,C
+1387,male,0,American,Mr.,Mark Chavez,21,3,0,0,A/4 45380,8.05,,S
+1388,male,1,American,Mr.,Mike Brown,,1,0,0,2627,144.583,,C
+1389,female,0,American,Ms.,Omega Alvarez,54,3,1,0,36947,782.667,D20,C
+1390,male,0,American,Mr.,Keith Linehan,,1,0,0,C.A. 6212,15.1,,S
+1391,male,0,American,Mr.,Edward Riviera,25,3,1,2,113781,151.55,C22 C26,S
+1392,female,0,American,Ms.,Carol Toussaint,24,3,0,0,350035,77.958,,S
+1393,female,0,American,Mrs.,Margaret Burriss,17,3,0,0,315086,86.625,,S
+1394,male,0,American,Mr.,Gregory Worley,21,3,0,0,364846,7.75,,Q
+1395,male,0,American,Mr.,Brent Draeger,,3,0,0,330909,76.292,,Q
+1396,female,1,American,Ms.,Ella Macgregor,37,1,0,0,4135,95.875,,S
+1397,male,0,American,Mr.,Douglas Rose,16,1,0,0,110152,86.5,B79,S
+1398,male,1,American,Mr.,Robert Bruss,18,2,1,0,PC 17758,108.9,C65,C
+1399,male,1,American,Mr.,Keith Goulart,33,1,0,2,26360,26,,S
+1400,male,0,American,Mr.,Theodore Hansen,,3,0,0,111427,26.55,,S
+1401,female,1,American,Mrs.,Pauline Galloway,28,3,0,0,C 4001,22.525,,S
+1402,male,1,American,Mr.,Johnny Cotton,26,3,0,0,1601,564.958,,S
+1403,female,0,American,Ms.,Christy Bermudez,29,3,0,0,382651,7.75,,Q
+1404,female,1,American,Ms.,Norma Parsons,,1,0,0,SOTON/OQ 3101316,8.05,,S
+1405,female,1,American,Mrs.,Isabel Callaghan,36,1,0,0,PC 17473,262.875,E25,S
+1406,female,0,American,Mrs.,Beth Burns,54,3,1,0,PC 17603,59.4,,C
+1407,female,0,American,Mrs.,Mary Burrell,24,1,0,0,349209,74.958,,S
+1408,male,1,American,Mr.,Brian Howard,47,2,0,0,36967,340.208,D46,S
+1409,male,0,American,Mr.,Robert Gilmore,34,3,0,0,C.A. 34260,10.5,F33,S
+1410,female,1,American,Ms.,Florence Frank,,2,0,0,371110,24.15,,Q
+1411,female,0,American,Ms.,Jessica Ramos,36,3,1,0,226875,26,,S
+1412,female,1,American,Mrs.,Katherine Martinez,32,1,0,0,349242,78.958,,S
+1413,male,0,American,Mr.,Lee McCain,30,3,0,0,12749,93.5,B73,S
+1414,male,0,American,Mr.,John Greene,22,3,0,0,349252,78.958,,S
+1415,female,1,American,Mrs.,Geraldine Brady,,1,0,0,2624,7.225,,C
+1416,male,0,American,Mr.,Johnson Tabor,44,3,0,1,111361,579.792,B18,C
+1417,male,0,American,Mr.,Anthony Roof,,3,0,0,2700,72.292,,C
+1418,male,1,American,Mr.,Frank Stevens,40.5,2,0,0,367232,7.75,,Q
+1419,male,0,American,Mr.,Albert Francisco,50,1,0,0,W./C. 14258,10.5,,S
+1420,female,0,American,Mrs.,Sandra Tingle,,3,0,0,PC 17483,2.217.792,C95,S
+1421,female,0,American,Ms.,Gladys Dukes,39,2,0,0,3101296,7.925,,S
+1422,male,1,American,Mr.,Wayne Green,23,2,2,1,29104,11.5,,S
+1423,female,0,American,Ms.,Marion Sanchez,2,3,1,1,26360,26,,S
+1424,male,0,American,Mr.,Michael Ellison,,3,0,0,2641,72.292,,C
+1425,male,1,American,Dr.,Ronald Sease,17,3,1,1,2690,72.292,,C
+1426,female,0,American,Mrs.,Jasmine Waters,,3,0,2,2668,223.583,,C
+1427,female,1,American,Ms.,Wanda Beier,30,2,0,0,315084,86.625,,S
+1428,male,0,American,Mr.,Mitch Becnel,7,1,0,2,F.C.C. 13529,26.25,,S
+1429,male,1,American,Mr.,Michael Swartz,45,1,0,0,113050,26.55,B38,S
+1430,male,0,American,Mr.,James Williams,30,3,0,0,PC 17761,106.425,,C
+1431,male,1,American,Mr.,Nicholas Browne,,1,0,0,364498,14.5,,S
+1432,female,1,American,Ms.,Pandora Lucas,22,1,0,2,13568,49.5,B39,C
+1433,male,0,American,Mr.,Kevin Egan,36,3,0,2,WE/P 5735,71,B22,S
+1434,female,0,American,Mrs.,Naomi Livesay,9,3,4,2,347082,31.275,,S
+1435,female,1,American,Mrs.,Jennifer Soto,11,2,4,2,347082,31.275,,S
+1436,male,0,American,Mr.,George Pugh,32,1,1,0,2908,26,,S
+1437,female,0,American,Mrs.,Cynthia Santo,50,1,1,0,PC 17761,106.425,C86,C
+1438,female,1,American,Ms.,Glenda Moriarty,64,2,0,0,693,26,,S
+1439,male,1,American,Mr.,Carroll Blythe,19,2,1,0,2908,26,,S
+1440,male,0,American,Mr.,Lloyd Reed,,3,0,0,SC/PARIS 2146,138.625,,C
+1441,female,1,American,Mrs.,Irene Rodriguez,33,2,1,1,363291,20.525,,S
+1442,female,1,American,Mrs.,Joan Benefield,8,1,1,1,C.A. 33112,36.75,,S
+1443,male,0,American,Mr.,Isaac Hines,17,2,0,2,17421,1.108.833,C70,C
+1444,female,0,American,Mrs.,Margaret Shaw,27,3,0,0,244358,26,,S
+1445,male,1,American,Mr.,Toney Snell,,3,0,0,330979,78.292,,Q
+1446,male,1,American,Mr.,Rocky McGrath,22,3,0,0,2620,7.225,,C
+1447,male,0,American,Mr.,Jim Wagner,22,1,0,0,347085,7.775,,S
+1448,female,1,American,Mrs.,Martha Merritt,62,1,0,0,113807,26.55,,S
+1449,female,0,American,Mrs.,Amie Reeves,48,1,1,0,11755,39.6,A16,C
+1450,female,1,American,Mrs.,Cindy Archer,,1,0,0,PC 17757,227.525,,C
+1451,male,1,American,Mr.,Ray Mooney,39,3,1,1,110413,79.65,E67,S
+1452,female,0,American,Ms.,Mary Olive,36,3,1,0,345572,17.4,,S
+1453,female,0,American,Ms.,Anna Ramirez,,3,0,0,372622,7.75,,Q
+1454,male,0,American,Mr.,Norman Bird,40,2,0,0,349251,78.958,,S
+1455,male,0,American,Mr.,Leonard Lowe,28,3,0,0,218629,13.5,,S
+1456,female,0,American,Mrs.,Rachelle Markley,,3,0,0,SOTON/OQ 392082,8.05,,S
+1457,male,0,American,Mr.,Shaun Moon,,3,0,0,SOTON/O.Q. 392087,8.05,,S
+1458,female,0,American,Mrs.,Gloria Huskins,24,3,2,0,A/4 48871,24.15,,S
+1459,female,0,American,Mrs.,Lauren Stclair,19,3,0,0,349205,78.958,,S
+1460,male,0,American,Mr.,Leroy Desalvo,29,3,0,4,349909,21.075,,S
+1461,male,1,American,Mr.,Quincy Klotz,,3,0,0,2686,72.292,,C
+1462,female,1,American,Mrs.,Raven Huggins,32,2,0,0,350417,78.542,,S
+1463,male,1,American,Mr.,Jonathan Sibley,62,1,0,0,S.W./PP 752,10.5,,S
+1464,female,1,American,Mrs.,Jessica Flores,53,1,2,0,11769,514.792,C101,S
+1465,male,1,American,Mr.,Marion Robinette,36,3,0,0,PC 17474,263.875,E25,S
+1466,female,0,American,Mrs.,Mona Traylor,,3,0,0,14312,7.75,,Q
+1467,male,0,American,Mr.,Gene Kibby,16,3,0,0,A/4. 20589,8.05,,S
+1468,male,1,American,Mr.,Elijah Cherry,19,2,0,0,358585,14.5,,S
+1469,male,1,American,Mr.,Gary Cornett,34,1,0,0,243880,13,,S
+1470,male,0,American,Mr.,Aaron Williams,39,3,1,0,13507,55.9,E44,S
+1471,female,1,American,Mrs.,Elaine Perez,,3,1,0,2689,144.583,,C
+1472,male,1,American,Mr.,Richard Damron,32,2,0,0,STON/O 2. 3101286,7.925,,S
+1473,female,1,American,Ms.,Jennifer Collins,25,1,1,1,237789,30,,S
+1474,female,0,American,Ms.,Joyce Garcia,39,2,1,1,17421,1.108.833,C68,C
+1475,female,0,American,Mrs.,Sharon Branch,54,1,0,0,28403,26,,S
+1476,female,0,American,Mrs.,Anita Johnson,36,3,0,0,13049,40.125,A10,C
+1477,male,1,American,Mr.,Brian Carlile,,1,0,0,3411,87.125,,C
+1478,female,0,American,Ms.,Guadalupe Caskey,18,2,0,2,110413,79.65,E68,S
+1479,female,1,American,Ms.,Judy Gillam,47,1,0,0,237565,15,,S
+1480,female,0,American,Ms.,Mary Wingfield,60,3,1,1,13567,79.2,B41,C
+1481,male,0,American,Mr.,Charles Witter,22,3,0,0,14973,8.05,,S
+1482,female,0,American,Ms.,Jean Mann,,3,0,0,A./5. 3235,8.05,,S
+1483,male,1,American,Mr.,Arnold Beck,35,1,0,0,STON/O 2. 3101273,7.125,,S
+1484,male,0,American,Mr.,Jeffery Douglass,52,3,1,0,36947,782.667,D20,C
+1485,male,0,American,Mr.,Donald Ross,47,3,0,0,A/5 3902,7.25,,S
+1486,male,0,American,Mr.,John Walker,,2,0,2,364848,7.75,,Q
+1487,male,0,American,Mr.,Aaron Townsend,37,3,1,0,SC/AH 29037,26,,S
+1488,male,1,American,Dr.,Trevor Stanley,36,2,1,1,345773,24.15,,S
+1489,female,0,American,Ms.,Demetrice Madson,,3,0,0,248727,33,,S
+1490,male,0,American,Mr.,Jose Howe,49,3,0,0,LINE,0,,S
+1491,female,1,American,Ms.,Candi Altamirano,,1,0,0,2664,7.225,,C
+1492,male,1,American,Mr.,James Lewis,49,2,1,0,PC 17485,569.292,A20,C
+1493,male,0,American,Mr.,Francisco Oliver,24,3,2,1,243847,27,,S
+1494,female,0,American,Ms.,Mary Dagostino,,1,0,0,349214,78.958,,S
+1495,female,0,American,Mrs.,Phyllis Woods,,3,0,0,113796,42.4,,S
+1496,male,1,American,Mr.,Gary Gibson,44,1,0,0,364511,8.05,,S
+1497,male,0,American,Mr.,Ralph Calabrese,35,3,0,0,111426,26.55,,C
+1498,female,0,American,Ms.,Brenda Seibel,36,3,1,0,349910,15.55,,S
+1499,male,1,American,Mr.,Larry Harrell,30,1,0,0,349246,78.958,,S
+1500,male,1,American,Mr.,Thomas Canales,27,2,0,0,113804,30.5,,S
+1501,female,1,American,Ms.,Kathleen Fulford,22,1,1,2,SC/Paris 2123,415.792,,C
+1502,female,0,American,Ms.,Karen Boykin,40,3,0,0,PC 17582,1.534.625,C125,S
+1503,male,0,American,Mr.,Joseph Taylor,39,3,1,5,347082,31.275,,S
+1504,female,1,American,Ms.,Karin Riddle,,3,0,0,SOTON/O.Q. 3101305,7.05,,S
+1505,male,0,American,Mr.,Patrick Stone,,3,1,0,367230,15.5,,Q
+1506,male,0,American,Mr.,Adam Martin,,3,0,0,370377,7.75,,Q
+1507,female,1,American,Ms.,Kimberly Fitch,35,2,0,0,364512,8.05,,S
+1508,female,0,American,Mrs.,Brenda Rushing,24,3,1,2,220845,65,,S
+1509,female,0,American,Ms.,Margaret Walters,34,3,1,1,347080,14.4,,S
+1510,male,1,American,Mr.,Terry Vo,26,2,1,0,A/5. 3336,16.1,,S
+1511,female,0,American,Ms.,Rita Navarre,4,2,2,1,230136,39,F4,S
+1512,male,0,American,Mr.,Anthony High,26,3,0,0,31028,10.5,,S
+1513,female,1,American,Ms.,Cynthia Wheeler,27,1,1,0,2659,144.542,,C
+1514,male,1,American,Mr.,Stephen Long,42,3,1,0,11753,525.542,D19,S
+1515,female,0,American,Mrs.,Elizabeth Trujillo,20,3,1,1,2653,157.417,,C
+1516,male,0,American,Dr.,Michael Stein,21,3,0,0,350029,78.542,,S
+1517,male,0,American,Mr.,Joseph Menchaca,21,1,0,0,54636,16.1,,S
+1518,male,0,American,Mr.,Larry Dennison,61,2,0,0,36963,323.208,D50,S
+1519,female,1,American,Ms.,Wilma Weatherall,57,1,0,0,219533,12.35,,Q
+1520,male,0,American,Mr.,Kenneth Wink,21,3,0,0,13502,779.583,D9,S
+1521,male,0,American,Mr.,Alberto Ritter,26,3,0,0,349224,78.958,,S
+1522,male,1,American,Mr.,Eddie Swope,,1,0,0,334912,77.333,,Q
+1523,male,0,American,Mr.,David Johnson,80,3,0,0,27042,30,A23,S
+1524,male,1,American,Mr.,Brian Bell,51,1,0,0,347743,70.542,,S
+1525,male,0,American,Mr.,James Mease,32,1,0,0,13214,30.5,B50,C
+1526,female,0,American,Ms.,Susanne Williams,,3,0,0,112052,0,,S
+1527,female,1,American,Ms.,Madeline Washington,9,2,3,2,347088,27.9,,S
+1528,female,0,American,Mrs.,Cheryl Gamez,28,3,0,0,237668,13,,S
+1529,female,0,American,Ms.,Juliet Simmons,32,2,0,0,STON/O 2. 3101292,7.925,,S
+1530,female,0,American,Ms.,Kim Carpenter,31,3,1,1,C.A. 31921,26.25,,S
+1531,female,0,American,Mrs.,Regina Marrero,41,3,0,5,3101295,396.875,,S
+1532,male,0,American,Mr.,Mark Gaines,,3,1,0,376564,16.1,,S
+1533,male,1,American,Mr.,John Bynum,20,1,0,0,350050,78.542,,S
+1534,female,0,American,Ms.,Rosario Weist,24,3,0,0,PC 17477,69.3,B35,C
+1535,male,1,American,Mr.,Arthur Williams,2,3,3,2,347088,27.9,,S
+1536,female,1,American,Ms.,Ardath Cotton,,3,0,0,1601,564.958,,S
+1537,female,1,American,Ms.,Daisy Humphrey,0.75,1,2,1,2666,192.583,,C
+1538,male,0,American,Mr.,Heriberto Velez,48,3,1,0,PC 17572,767.292,D33,C
+1539,female,1,American,Ms.,Tiara Nelson,19,1,0,0,349231,78.958,,S
+1540,male,0,American,Mr.,Darren Fry,56,3,0,0,13213,35.5,A26,C
+1541,female,1,American,Ms.,Viola Manhart,,3,0,0,S.O./P.P. 751,7.55,,S
+1542,male,0,American,Mr.,Dominic Matthews,23,3,0,0,CA. 2314,7.55,,S
+1543,female,1,American,Mrs.,Deborah Lambert,,2,0,0,349221,78.958,,S
+1544,male,0,American,Mr.,Alvin Sweet,18,3,0,1,231919,23,,S
+1545,female,1,American,Ms.,Bridget Gray,21,3,0,0,8475,84.333,,S
+1546,female,0,American,Ms.,Judith Sell,,3,0,0,330919,78.292,,Q
+1547,female,0,American,Ms.,Carol Bennett,18,2,0,0,365226,6.75,,Q
+1548,male,0,American,Mr.,Clarence Riccardi,24,3,2,0,S.O.C. 14879,73.5,,S
+1549,female,0,American,Mrs.,Sharon Buxton,,3,0,0,349223,78.958,,S
+1550,female,0,American,Mrs.,Nikole Walker,32,2,1,1,364849,15.5,,Q
+1551,male,0,American,Mr.,Clayton Moses,23,1,0,0,29751,13,,S
+1552,male,1,American,Mr.,Robert Serpa,58,1,0,2,35273,113.275,D48,C
+1553,male,0,American,Mr.,John Huang,50,3,2,0,PC 17611,133.65,,S
+1554,female,0,American,Ms.,Rosalie Williams,40,1,0,0,2623,7.225,,C
+1555,female,0,American,Mrs.,Alice Jackson,47,3,0,0,5727,255.875,E58,S
+1556,female,1,American,Ms.,Annie Provost,36,3,0,0,349210,74.958,,S
+1557,female,0,American,Ms.,Stacey Johnson,20,2,1,0,STON/O 2. 3101285,7.925,,S
+1558,male,0,American,Mr.,Hugo Wade,32,2,2,0,S.O.C. 14879,73.5,,S
+1559,male,0,American,Mr.,John Mason,25,3,0,0,234686,13,,S
+1560,female,0,American,Ms.,Soledad Hayes,,3,0,0,312993,7.775,,S
+1561,male,1,American,Mr.,David Williams,43,1,0,0,A/5 3536,8.05,,S
+1562,male,1,American,Mr.,Eric Barrows,,2,1,0,19996,52,C126,S
+1563,female,0,American,Ms.,Dorothy Chen,40,1,1,1,29750,39,,S
+1564,male,0,American,Mr.,Samuel Sampson,31,2,1,0,F.C. 12750,52,B71,S
+1565,female,1,American,Ms.,Danielle Weaver,70,2,0,0,C.A. 24580,10.5,,S
+1566,female,0,American,Mrs.,Dorothy Banks,31,2,0,0,244270,13,,S
+1567,male,0,American,Mr.,Richard Rosenthal,,3,0,0,239856,0,,S
+1568,male,0,American,Mr.,Jim Thornton,18,3,0,0,349912,7.775,,S
+1569,female,1,American,Mrs.,Carol Buckner,24.5,3,0,0,342826,8.05,,S
+1570,female,0,American,Mrs.,Megan Delong,18,3,0,0,4138,98.417,,S
+1571,female,1,American,Mrs.,Penny McClain,43,1,1,6,CA 2144,46.9,,S
+1572,female,0,American,Mrs.,Constance Smith,36,3,0,1,PC 17755,5.123.292,B51 B53 B55,C
+1573,male,1,American,Mr.,John Thomas,,1,0,0,330935,81.375,,Q
+1574,female,0,American,Ms.,Angela Comer,27,3,0,0,PC 17572,767.292,D49,C
+1575,female,0,American,Ms.,Nadine Yeh,20,3,0,0,6563,9.225,,S
+1576,female,0,American,Ms.,Kathy Kelly,14,2,5,2,CA 2144,46.9,,S
+1577,female,0,American,Ms.,Terri Gordon,60,2,1,1,29750,39,,S
+1578,female,0,American,Mrs.,Emma Palma,25,3,1,2,SC/Paris 2123,415.792,,C
+1579,male,0,American,Mr.,Billy McDonald,14,3,4,1,3101295,396.875,,S
+1580,female,0,American,Ms.,Nancy Torres,19,3,0,0,349228,101.708,,S
+1581,male,1,American,Mr.,Jason Paine,18,1,0,0,350036,77.958,,S
+1582,male,1,American,Mr.,Robert Browne,15,1,0,1,24160,2.113.375,B5,S
+1583,male,1,American,Mr.,Sam Mercer,31,3,1,0,17474,57,B20,S
+1584,male,1,American,Mr.,Armando Ingram,4,3,0,1,349256,134.167,,C
+1585,female,0,American,Ms.,Ida Brown,,3,0,0,1601,564.958,,S
+1586,female,0,American,Ms.,Susie Glenn,25,1,0,0,2672,7.225,,C
+1587,male,0,American,Mr.,Michael Senter,60,2,0,0,113800,26.55,,S
+1588,female,0,American,Ms.,Cherry Walton,52,3,0,0,248731,13.5,,S
+1589,male,1,American,Mr.,William Wood,44,3,0,0,363592,8.05,,S
+1590,female,0,American,Ms.,Wilda Politte,,1,0,0,35852,77.333,,Q
+1591,male,0,American,Mr.,Jeffrey Roman,49,3,1,1,17421,1.108.833,C68,C
+1592,male,1,American,Mr.,Joseph Cook,42,1,0,0,348121,7.65,F G63,S
+1593,male,1,American,Mr.,Robert Chambers,18,1,1,0,PC 17757,227.525,C62 C64,C
+1594,male,0,American,Mr.,Steven Hughes,35,3,0,0,PC 17475,262.875,E24,S
+1595,male,0,American,Dr.,John Crabtree,18,3,0,1,2691,144.542,,C
+1596,female,0,American,Mrs.,Lisa Bushman,25,3,0,0,36864,77.417,,Q
+1597,male,0,American,Dr.,Samuel Estrella,26,2,1,0,350025,78.542,,S
+1598,female,1,American,Mrs.,Loretta Armijo,39,2,0,0,250655,26,,S
+1599,female,1,American,Ms.,Roxanne Carter,45,1,0,0,223596,13.5,,S
+1600,female,1,American,Ms.,Gladys McConnell,42,1,0,0,PC 17476,262.875,E24,S
+1601,female,1,American,Mrs.,Edith Smith,22,3,0,0,113781,151.55,,S
+1602,male,1,American,Mr.,Anthony Schmitt,,1,1,1,2661,152.458,,C
+1603,male,0,American,Mr.,Gary Rounds,24,1,0,0,PC 17482,495.042,C90,C
+1604,male,1,American,Mr.,Clarence Wilson,,1,0,0,113028,26.55,C124,S
+1605,female,0,American,Ms.,Savannah Bailey,48,3,1,0,19996,52,C126,S
+1606,female,0,American,Ms.,Pearl Vega,29,2,0,0,7545,94.833,,S
+1607,male,0,American,Mr.,Michael Pina,52,3,0,0,250647,13,,S
+1608,female,1,American,Mrs.,Barbara Pastor,19,1,0,0,348124,7.65,F G73,S
+1609,male,1,American,Mr.,Fernando Moss,38,2,0,0,PC 17757,227.525,C45,C
+1610,female,0,American,Ms.,Jessica Demarest,27,3,0,0,34218,10.5,E101,S
+1611,male,0,American,Mr.,Frank Tran,,3,0,0,36568,15.5,,Q
+1612,female,1,American,Ms.,Dawn Snyder,33,2,0,0,347062,7.775,,S
+1613,male,0,American,Mr.,Glen Cooper,6,3,0,1,248727,33,,S
+1614,female,0,American,Ms.,Stephanie Storie,17,2,1,0,350048,70.542,,S
+1615,male,0,American,Mr.,John Albers,34,2,0,0,12233,13,,S
+1616,female,1,American,Mrs.,Sarah Deason,50,1,0,0,250643,13,,S
+1617,male,0,American,Mr.,Gerald Murray,27,3,1,0,113806,53.1,E8,S
+1618,female,1,American,Ms.,Marion Macdonald,20,2,0,0,315094,86.625,,S
+1619,female,1,American,Ms.,Mattie Forward,30,3,3,0,31027,21,,S
+1620,male,0,American,Mr.,Ryan Ezell,,2,0,0,36866,77.375,,Q
+1621,male,0,American,Mr.,Mathew Fields,25,3,1,0,236853,26,,S
+1622,female,1,American,Mrs.,Alicia Hulse,25,1,1,0,STON/O2. 3101271,7.925,,S
+1623,female,0,American,Ms.,Ramona Kaufman,29,3,0,0,24160,2.113.375,B5,S
+1624,male,0,American,Mr.,Ronald Haworth,11,2,0,0,2699,187.875,,C
+1625,male,0,American,Mr.,Larry Lee,,2,0,0,239855,0,,S
+1626,female,0,American,Dr.,Mary Barry,23,2,0,0,28425,13,,S
+1627,female,0,American,Mrs.,Lisa Sperling,23,3,0,0,233639,13,,S
+1628,female,0,American,Mrs.,Marjorie Mortimer,28.5,3,0,0,54636,16.1,,S
+1629,female,1,American,Ms.,Renee King,48,1,1,3,W./C. 6608,34.375,,S
+1630,female,0,American,Mrs.,Velma Slaugh,35,3,0,0,PC 17755,5.123.292,B101,C
+1631,male,0,American,Mr.,David Jones,,3,0,0,349201,78.958,,S
+1632,male,1,American,Mr.,Donald West,,1,0,0,349218,78.958,,S
+1633,female,0,American,Ms.,Eileen Steele,,1,0,0,16988,30,D45,S
+1634,female,1,American,Ms.,Jeanette Kamps,36,1,1,0,19877,78.85,C46,S
+1635,female,0,American,Ms.,Margaret Sexton,21,3,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+1636,female,1,American,Mrs.,Tessa Bennett,24,3,1,0,376566,16.1,,S
+1637,female,0,American,Ms.,Sandra Abbey,31,1,0,0,STON/O 2. 3101288,7.925,,S
+1638,female,0,American,Ms.,Erin Casey,70,3,1,1,WE/P 5735,71,B22,S
+1639,female,1,American,Mrs.,Lillie Lee,16,2,1,1,C.A. 2673,20.25,,S
+1640,male,0,American,Mr.,James Edwards,30,1,0,0,250648,13,,S
+1641,male,0,American,Mr.,William Samuel,19,3,1,0,113773,53.1,D30,S
+1642,male,1,American,Mr.,Brandon Law,31,2,0,0,335097,7.75,,Q
+1643,female,1,American,Ms.,Ramona Rogers,4,3,1,1,29103,23,,S
+1644,male,0,American,Mr.,Ronald Surratt,6,3,0,1,392096,12.475,E121,S
+1645,male,0,American,Mr.,David Ruiz,33,3,0,0,345780,9.5,,S
+1646,male,1,American,Mr.,Gary Jones,23,2,0,0,349204,78.958,,S
+1647,male,1,American,Mr.,Alan Wasson,48,2,1,2,220845,65,,S
+1648,female,0,American,Ms.,Jettie Mignone,0.67,3,1,1,250649,14.5,,S
+1649,male,0,American,Mr.,Charles Hayes,28,2,0,0,350042,77.958,,S
+1650,male,0,American,Mr.,Robert Alberts,18,3,0,0,29108,11.5,,S
+1651,male,1,American,Mr.,Philip Headley,34,1,0,0,363294,8.05,,S
+1652,male,0,American,Mr.,George Olsen,33,3,0,0,110152,86.5,B77,S
+1653,female,0,American,Mrs.,Ava Blizzard,,3,0,0,358585,14.5,,S
+1654,female,1,American,Dr.,Jillian Mitchell,41,3,0,0,SOTON/O2 3101272,7.125,,S
+1655,female,1,American,Ms.,Charlotte Kaster,20,1,0,0,2663,72.292,,C
+1656,female,0,American,Mrs.,Marcia Harden,36,3,1,2,113760,120,B96 B98,S
+1657,male,1,American,Mr.,Omer Derosa,16,1,0,0,347074,7.775,,S
+1658,male,0,American,Mr.,Mark Williams,51,1,1,0,13502,779.583,D11,S
+1659,male,0,American,Mr.,Robert Brackman,,3,0,0,112379,39.6,,C
+1660,male,0,American,Mr.,Mark Dangelo,30.5,3,0,0,364850,7.75,,Q
+1661,male,0,American,Mr.,William French,,3,1,0,371110,24.15,,Q
+1662,female,0,American,Mrs.,Stacey Baillie,32,3,0,0,8471,83.625,,S
+1663,male,0,American,Mr.,Cleo Lockett,24,3,0,0,345781,9.5,,S
+1664,female,0,American,Mrs.,Karen Perez,48,2,0,0,350047,78.542,,S
+1665,female,0,American,Ms.,Delores Narvaez,57,3,0,0,S.O./P.P. 3,10.5,E77,S
+1666,male,1,American,Mr.,Robert Rose,,2,0,0,2674,7.225,,C
+1667,male,0,American,Mr.,Fernando Labrie,54,3,1,3,29105,23,,S
+1668,female,0,American,Ms.,Christine Hutchison,18,3,0,0,347078,7.75,,S
+1669,female,1,American,Ms.,Alice Quick,,3,0,0,383121,7.75,F38,Q
+1670,male,0,American,Mr.,Gary Collier,5,3,0,0,364516,12.475,,S
+1671,male,1,American,Mr.,Herbert Richard,,1,0,0,36865,77.375,,Q
+1672,male,1,American,Mr.,Kevin Lowe,43,3,0,1,24160,2.113.375,B3,S
+1673,male,1,American,Dr.,Abel Robinson,13,1,0,0,2687,72.292,,C
+1674,male,0,American,Mr.,James Spruill,17,1,1,0,17474,57,B20,S
+1675,male,0,American,Mr.,Charles Ping,29,3,0,0,113501,30,D6,S
+1676,male,0,American,Mr.,Robert Scott,,3,1,2,W./C. 6607,23.45,,S
+1677,male,0,American,Mr.,Lance Hughes,25,3,0,0,SOTON/O.Q. 3101312,7.05,,S
+1678,male,1,American,Mr.,David Fleming,25,3,0,0,374887,7.25,,S
+1679,female,0,American,Ms.,Paula Rice,18,3,0,0,3101265,74.958,,S
+1680,female,1,American,Ms.,Carla Turner,8,3,4,1,382652,29.125,,Q
+1681,male,0,American,Mr.,Emmett Williams,1,1,1,2,C.A. 2315,20.575,,S
+1682,male,0,American,Mr.,John Smith,46,3,0,0,PC 17593,79.2,B82 B84,C
+1683,male,0,American,Mr.,Steven Whitaker,,2,0,0,12460,7.75,,Q
+1684,female,0,American,Dr.,Dawn Hart,16,3,0,0,239865,26,,S
+1685,male,0,American,Mr.,Jacob Norris,,1,8,2,CA. 2343,69.55,,S
+1686,female,0,American,Ms.,Evelyn McLaughlin,,3,0,0,PC 17600,306.958,,C
+1687,female,0,American,Mrs.,Rose Brown,25,2,0,0,349203,78.958,,S
+1688,male,1,American,Mr.,Mark Jones,39,1,0,0,28213,13,,S
+1689,male,1,American,Mr.,John Wrenn,49,3,0,0,17465,259.292,D17,S
+1690,male,0,American,Mr.,Andy Schumacher,31,3,0,0,349244,86.833,,S
+1691,female,0,American,Ms.,Barbara Seefeldt,30,3,0,0,2685,72.292,,C
+1692,female,0,American,Ms.,Teresa Glynn,30,2,1,1,345773,24.15,,S
+1693,female,1,American,Mrs.,Ruby Ledbetter,34,2,0,0,250647,13,,S
+1694,male,1,American,Mr.,Douglas Ellison,31,1,1,1,C.A. 31921,26.25,,S
+1695,female,1,American,Dr.,Elizabeth Lujan,11,3,1,2,113760,120,B96 B98,S
+1696,male,1,American,Mr.,Philip McMichael,0.42,3,0,1,2625,85.167,,C
+1697,male,0,American,Mr.,Robert Everett,27,3,0,0,347089,6.975,,S
+1698,female,0,American,Mrs.,Therese Black,31,1,0,0,347063,7.775,,S
+1699,male,0,American,Mr.,Ivan Eichorn,39,3,0,0,112050,0,A36,S
+1700,female,0,American,Ms.,Brenda Choudhury,18,2,0,0,347087,7.775,,S
+1701,female,1,American,Mrs.,Rosanne Banks,39,1,0,0,248723,13,,S
+1702,male,0,American,Mr.,Galen Becker,33,3,1,0,113806,53.1,E8,S
+1703,male,0,American,Mr.,Francis Pierce,26,3,0,0,3474,78.875,,S
+1704,male,0,American,Mr.,John Cotter,39,2,0,0,A/4 48871,24.15,,S
+1705,female,0,American,Mrs.,Helen Gholston,35,3,0,0,28206,10.5,,S
+1706,male,0,American,Mr.,Kenneth Schramm,6,3,4,2,347082,31.275,,S
+1707,male,0,American,Mr.,Eric Warren,30.5,1,0,0,364499,8.05,,S
+1708,female,0,American,Mrs.,Lucille Johnson,,3,0,0,112058,0,B102,S
+1709,male,0,American,Mr.,Kevin Johnson,23,2,0,0,STON/O2. 3101290,7.925,,S
+1710,female,0,American,Ms.,Diane McClary,31,3,1,1,S.C./PARIS 2079,370.042,,C
+1711,female,0,American,Mrs.,Lillie Murrow,43,3,0,0,C 7075,6.45,,S
+1712,female,1,American,Mrs.,Kathy Shabazz,10,1,3,2,347088,27.9,,S
+1713,female,1,American,Ms.,Judy Hodgkins,52,3,1,1,12749,93.5,B69,S
+1714,female,0,American,Ms.,Martha Merritt,27,1,0,0,315098,86.625,,S
+1715,male,1,American,Mr.,Tony Clapper,38,3,0,0,19972,0,,S
+1716,female,0,American,Mrs.,Margaret Toney,27,3,0,1,392096,12.475,E121,S
+1717,female,0,American,Ms.,Malinda Sneed,2,3,4,1,3101295,396.875,,S
+1718,female,0,American,Ms.,Maryanne Lassiter,,3,0,0,368323,6.95,,Q
+1719,female,1,American,Ms.,Cecile Dodds,,2,0,0,1601,564.958,,S
+1720,male,1,American,Mr.,John Young,1,3,0,2,S.C./PARIS 2079,370.042,,C
+1721,female,1,American,Ms.,Jennifer Mayer,,1,0,0,367228,7.75,,Q
+1722,female,1,American,Ms.,Syble Hoffmann,62,3,0,0,113572,80,B28,
+1723,female,1,American,Mrs.,Evelyn Bustos,15,2,1,0,2659,144.542,,C
+1724,female,0,American,Ms.,Peggy Hare,0.83,3,1,1,29106,18.75,,S
+1725,female,0,American,Mrs.,Margaret Light,,3,0,0,2671,72.292,,C
+1726,male,0,American,Mr.,Robert Wright,23,3,0,0,347468,78.542,,S
+1727,male,1,American,Mr.,Michael Steelman,18,1,0,0,2223,8.3,,S
+1728,female,0,American,Mrs.,Mary Lemos,39,3,1,1,PC 17756,831.583,E49,C
+1729,male,0,American,Mr.,Peter Ramos,21,3,0,0,315097,86.625,,S
+1730,male,1,American,Mr.,Joe Bryant,,3,0,0,392092,8.05,,S
+1731,female,1,American,Ms.,Anna Arellano,32,1,0,0,1601,564.958,,S
+1732,female,0,American,Ms.,Bennie Brown,,3,0,0,11774,29.7,C47,C
+1733,male,0,American,Mr.,Dennis Hulings,20,2,0,0,SOTON/O2 3101287,7.925,,S
+1734,female,1,American,Ms.,Brenda Davis,16,1,0,0,S.O./P.P. 3,10.5,,S
+1735,male,0,American,Mr.,Jack Byrd,30,3,0,0,113798,31,,C
+1736,male,0,American,Mr.,Stephen Sawyer,34.5,3,0,0,2683,64.375,,C
+1737,male,0,American,Mr.,Reggie Graham,17,3,0,0,315090,86.625,,S
+1738,male,0,American,Mr.,James Purcell,42,3,0,0,C.A. 5547,7.55,,S
+1739,male,0,American,Mr.,Danny Vargas,,3,8,2,CA. 2343,69.55,,S
+1740,female,0,American,Mrs.,Helen Feldman,35,2,0,0,349213,78.958,,C
+1741,male,1,American,Mr.,Wesley McGuire,28,1,0,1,248727,33,,S
+1742,female,0,American,Ms.,Josephine Brown,,3,1,0,17453,891.042,C92,C
+1743,female,0,American,Mrs.,Veronica Swanson,4,3,4,2,347082,31.275,,S
+1744,female,0,American,Mrs.,Mary Wright,74,3,0,0,347060,7.775,,S
+1745,female,1,American,Mrs.,Ruby Smitherman,9,1,1,1,2678,152.458,,C
+1746,female,0,American,Ms.,Ellen Mohr,16,2,0,1,PC 17592,39.4,D28,S
+1747,male,1,American,Mr.,Bennie Marty,44,3,1,0,244252,26,,S
+1748,male,1,American,Mr.,Douglas Hernandez,18,1,0,1,392091,9.35,,S
+1749,male,1,American,Mr.,Douglas Ohagan,45,1,1,1,36928,1.648.667,,S
+1750,male,1,American,Mr.,Carl Reyes,51,3,0,0,113055,26.55,E17,S
+1751,female,0,American,Mrs.,Carole Walden,24,3,0,3,2666,192.583,,C
+1752,male,0,American,Mr.,Earl Lewis,,3,0,0,2629,72.292,,C
+1753,male,0,American,Mr.,Vincent Ware,41,2,2,0,350026,141.083,,S
+1754,female,1,American,Ms.,Barbara Dowling,21,1,1,0,28134,11.5,,S
+1755,male,0,American,Mr.,Dalton Eslinger,48,3,0,0,17466,259.292,D17,S
+1756,male,0,American,Dr.,Ricardo Stevens,,2,8,2,CA. 2343,69.55,,S
+1757,female,1,American,Mrs.,Teresa Brown,24,2,0,0,233866,13,,S
+1758,male,1,American,Mr.,Douglas Blunt,42,2,0,0,236852,13,,S
+1759,female,0,American,Ms.,Patrice McDaniel,27,1,1,0,SC/PARIS 2149,138.583,,C
+1760,male,0,American,Mr.,Robert Morales,31,3,0,0,PC 17590,504.958,A24,S
+1761,male,1,American,Mr.,Blair Jones,,3,0,0,345777,9.5,,S
+1762,male,0,American,Dr.,Dale Adams,4,3,1,1,347742,111.333,,S
+1763,male,1,American,Mr.,Stephen Smith,26,1,0,0,349248,78.958,,S
+1764,male,0,American,Mr.,Earnest Keene,47,1,1,1,11751,525.542,D35,S
+1765,female,0,American,Ms.,Danielle Powers,33,3,0,0,695,5,B51 B53 B55,S
+1766,male,1,American,Mr.,Anthony Clyde,47,2,0,0,345765,9,,S
+1767,female,1,American,Mrs.,Hilary Stennett,28,3,1,0,P/PP 3381,24,,C
+1768,female,0,American,Ms.,Elvera Capone,15,3,0,0,2667,7.225,,C
+1769,male,0,American,Mr.,Patrick Simpson,20,3,0,0,7534,98.458,,S
+1770,male,0,American,Mr.,Irving Gomez,19,3,0,0,349212,78.958,,S
+1771,female,1,American,Ms.,Katrina White,,1,0,0,349217,78.958,,S
+1772,male,1,American,Mr.,Patrick Martinez,56,2,0,1,11767,831.583,C50,C
+1773,male,0,American,Mr.,Thomas Parr,25,3,0,1,230433,26,,S
+1774,female,0,American,Mrs.,Cynthia Frasier,33,3,0,0,349257,78.958,,S
+1775,male,0,American,Mr.,Jerry Patterson,22,2,0,0,7552,105.167,,S
+1776,female,0,American,Ms.,Maria Edmond,28,3,0,0,C.A./SOTON 34068,10.5,,S
+1777,female,0,American,Mrs.,Rosa Gibson,25,3,0,0,SOTON/OQ 392076,7.05,,S
+1778,female,0,American,Mrs.,Debra Quinlan,39,2,0,5,382652,29.125,,Q
+1779,male,1,American,Mr.,Willie Xiong,27,1,0,0,211536,13,,S
+1780,male,0,American,Mr.,Pedro Henderson,19,3,0,0,112053,30,B42,S
+1781,female,1,American,Mrs.,Kimberly Hernandez,,1,1,2,W./C. 6607,23.45,,S
+1782,male,0,American,Mr.,Tom Biondo,26,3,0,0,111369,30,C148,C
+1783,female,0,American,Ms.,Mamie O'Reilly,32,3,0,0,370376,7.75,,Q
+1784,female,1,American,Ms.,Tresa Real,,3,1,2,347060,7.775,,S
+1785,female,0,American,Mrs.,Angela Hicks,28,2,1,1,2678,152.458,,C
+1786,male,1,American,Mr.,Roy Walker,30,1,0,0,PC 17592,39.4,D28,S
+1787,male,1,American,Mr.,Gene Bennett,58,3,1,0,244252,26,,S
+1788,male,0,American,Mr.,Morris Branch,96,3,0,0,392091,9.35,,S
+1789,male,0,American,Dr.,Glen Childs,12,3,0,1,36928,1.648.667,,S
+1790,female,1,American,Ms.,Vicki Davis,58,1,0,0,113055,26.55,E17,S
+1791,female,0,American,Mrs.,Manuela Yeager,74,2,1,0,2666,192.583,,C
+1792,female,0,American,Mrs.,Jeannie Hickey,23,3,0,0,2629,72.292,,C
+1793,male,0,American,Mr.,Martin Medina,20,1,0,0,350026,141.083,,S
+1794,male,0,American,Mr.,John Cadwell,2,1,0,0,28134,11.5,,S
+1795,female,0,American,Dr.,Barbara Sanchez,10,3,0,0,17466,259.292,D17,S
+1796,female,0,American,Ms.,Eula Mayes,12,3,1,1,CA. 2343,69.55,,S
+1797,male,1,American,Mr.,David Bartels,13,3,0,0,233866,13,,S
+1798,male,0,American,Mr.,Robert Gonzales,15,2,0,0,236852,13,,S
+1799,female,0,American,Mrs.,Felicia Gregor,18,1,1,0,SC/PARIS 2149,138.583,,C
+1800,male,1,American,Mr.,Ronald Fay,17,3,0,0,PC 17590,504.958,A24,S
+1801,female,0,American,Ms.,Tony Montelongo,19,2,0,0,345777,9.5,,S
+1802,male,1,American,Mr.,Albert Carraway,14,2,0,0,347742,111.333,,S
+1803,female,0,American,Ms.,Cindy Thomason,56,2,0,0,349248,78.958,,S
+1804,male,1,American,Mr.,Jeffrey Pierre,18,1,0,0,11751,525.542,D35,S
+1805,male,0,American,Mr.,Bernard Chapman,,3,0,0,695,5,B51 B53 B55,S
+1806,female,0,American,Mrs.,Hilda Alvarez,25,3,0,0,345765,9,,S
+1807,male,1,American,Mr.,Larry Walton,,3,0,1,P/PP 3381,24,,C
+1808,male,0,American,Mr.,Robert Lyons,36,1,1,0,2667,7.225,,C
+1809,male,0,American,Mr.,Anthony Butler,,1,0,0,7534,98.458,,S
+1810,male,1,American,Mr.,John Roybal,6,3,0,0,349212,78.958,,S
+1811,female,1,American,Ms.,Helen Morrow,8,2,1,0,349217,78.958,,S
+1812,male,0,American,Mr.,Norman Doyle,4,3,0,0,11767,831.583,C50,C
+1813,female,0,American,Ms.,Gwendolyn Younger,9,3,3,0,230433,26,,S
+1814,female,1,American,Ms.,Bettye Scheffer,78,3,0,0,349257,78.958,,S
+1815,male,1,American,Mr.,Donald Stock,2,3,1,0,7552,105.167,,S
+1816,male,0,American,Mr.,Kenneth West,30,1,1,0,C.A./SOTON 34068,10.5,,S
+1817,female,0,American,Ms.,Sharon Willis,68,2,0,0,SOTON/OQ 392076,7.05,,S
+1818,female,0,American,Mrs.,Deanna Nelson,6,3,0,0,382652,29.125,,Q
+1819,male,1,American,Mr.,David Peacock,20,3,0,0,211536,13,,S
+1820,female,0,American,Ms.,Brenda Jefferson,,2,0,0,112053,30,B42,S
+1821,female,0,American,Ms.,Sarah Fowler,16,3,0,0,W./C. 6607,23.45,,S
+1822,female,1,American,Ms.,Rose Statler,44,3,0,0,111369,30,C148,C
+1823,female,1,American,Ms.,Myrna Jenkins,18,2,1,3,370376,7.75,,Q
+1824,female,0,American,Ms.,Lena McCabe,45,1,0,0,A/5 21171,7.25,,S
+1825,male,1,American,Mr.,Kim Callender,51,3,0,0,PC 17599,712.833,C85,C
+1826,male,0,American,Mr.,Jose McCowan,24,1,0,0,STON/O2. 3101282,7.925,,S
+1827,female,0,American,Mrs.,Francis Massey,,3,0,0,113803,53.1,C123,S
+1828,female,0,American,Mrs.,Maria Turner,41,3,1,0,373450,8.05,,S
+1829,female,0,American,Ms.,Catrina Livingston,21,3,2,2,330877,84.583,,Q
+1830,female,0,American,Ms.,Donna Houser,48,2,1,0,17463,518.625,E46,S
+1831,male,0,American,Mr.,Chris McPhee,,1,0,0,349909,21.075,,S
+1832,male,0,American,Mr.,Scott Cook,24,3,1,1,347742,111.333,,S
+1833,female,0,American,Ms.,Victoria Damon,42,3,1,1,237736,300.708,,C
+1834,female,1,American,Ms.,Lisa Harshbarger,27,3,0,0,PP 9549,16.7,G6,S
+1835,male,0,American,Mr.,Salvador Rich,31,1,1,0,113783,26.55,C103,S
+1836,female,0,American,Ms.,Sandra Hall,,2,0,0,A/5. 2151,8.05,,S
+1837,male,1,American,Mr.,Kevin Mellen,4,3,1,1,347082,31.275,,S
+1838,female,0,American,Mrs.,Edith Shores,26,1,0,1,350406,78.542,,S
+1839,male,1,American,Dr.,Troy Garner,47,1,0,0,248706,16,,S
+1840,female,1,American,Mrs.,Angelia Cowley,33,3,0,0,382652,29.125,,Q
+1841,male,1,American,Mr.,Howard Fredette,47,3,1,2,244373,13,,S
+1842,female,0,American,Mrs.,Mary Dalton,28,3,1,1,345763,18,,S
+1843,female,0,American,Ms.,Marianne Wilson,15,2,0,0,2649,7.225,,C
+1844,female,0,American,Mrs.,Angela Stuart,,1,0,0,239865,26,,S
+1845,male,0,American,Mr.,Johnny Wilson,28,3,0,0,248698,13,D56,S
+1846,female,1,American,Ms.,Yee Glover,18,2,0,0,330923,80.292,,Q
+1847,female,0,American,Ms.,Angela Bradley,34,2,0,0,113788,35.5,A6,S
+1848,female,1,American,Ms.,Janet Lee,33,2,0,0,349909,21.075,,S
+1849,male,0,American,Mr.,David Bryson,,1,0,0,347077,313.875,,S
+1850,female,0,American,Mrs.,Lisa Powell,41,3,1,2,2631,7.225,,C
+1851,female,0,American,Ms.,Valerie Cockrell,20,3,0,0,19950,263,C23 C25 C27,S
+1852,female,0,American,Mrs.,Ellen Thompson,36,3,1,0,330959,78.792,,Q
+1853,female,0,American,Mrs.,Camilla Salmon,16,1,0,0,349216,78.958,,S
+1854,female,0,American,Ms.,Lynn Bernstein,51,1,0,0,PC 17601,277.208,,C
+1855,female,0,American,Ms.,Julie Burger,,3,1,0,PC 17569,1.465.208,B78,C
+1856,female,1,American,Dr.,Elsa Cook,30.5,2,0,0,335677,7.75,,Q
+1857,female,1,American,Mrs.,Valerie Potts,,3,0,0,C.A. 24579,10.5,,S
+1858,male,0,American,Mr.,Hans Owens,32,3,0,0,PC 17604,821.708,,C
+1859,female,0,American,Mrs.,Maria Payne,24,3,0,0,113789,52,,S
+1860,male,0,American,Mr.,Henry Williams,48,3,0,0,2677,72.292,,C
+1861,female,1,American,Mrs.,Angie Jones,57,1,1,3,A./5. 2152,8.05,,S
+1862,female,1,American,Mrs.,Amy Panek,,2,0,0,345764,18,,S
+1863,female,1,American,Mrs.,Stacie Cummins,54,3,0,0,2651,112.417,,C
+1864,female,1,American,Ms.,Pauline Groves,18,3,0,0,7546,9.475,,S
+1865,female,0,American,Mrs.,Pamela Jones,,2,0,0,11668,21,,S
+1866,male,0,American,Mr.,Leo Benjamin,5,3,0,1,349253,78.958,,C
+1867,male,0,American,Mr.,Gary Pike,,3,0,0,SC/Paris 2123,415.792,,C
+1868,male,0,American,Mr.,Aldo Washington,43,2,1,0,330958,78.792,,Q
+1869,male,1,American,Mr.,Vincent Stephens,13,1,0,0,349205,78.958,,S
+1870,male,0,American,Mr.,Christopher Steward,17,3,1,2,349909,21.075,,S
+1871,male,0,American,Mr.,Marion Martinez,26,1,0,0,2686,72.292,,C
+1872,female,0,American,Ms.,Carmen Campbell,,3,0,0,350417,78.542,,S
+1873,male,0,American,Mr.,Lawrence Whittemore,28,3,0,0,S.W./PP 752,10.5,,S
+1874,male,0,American,Mr.,Kenny Wade,18,3,4,1,11769,514.792,C101,S
+1875,male,0,American,Mr.,Lee Chen,34,2,1,2,PC 17474,263.875,E25,S
+1876,female,0,American,Ms.,Fawn Harrison,33,1,0,0,14312,7.75,,Q
+1877,male,0,American,Mr.,Geoffrey Gilbert,,3,0,0,A/4. 20589,8.05,,S
+1878,female,0,American,Mrs.,Ruth Clark,41,3,0,0,358585,14.5,,S
+1879,female,0,American,Mrs.,Kathleen Roof,20,3,8,2,243880,13,,S
+1880,female,1,American,Ms.,Sheri Fletcher,36,1,0,0,13507,55.9,E44,S
+1881,female,1,American,Ms.,Brittany Waller,16,2,0,0,2689,144.583,,C
+1882,female,0,American,Ms.,Kim Gorski,51,3,0,0,STON/O 2. 3101286,7.925,,S
+1883,female,1,American,Mrs.,Catherine Anderson,,1,0,0,237789,30,,S
+1884,female,0,American,Ms.,Sheri Frazier,30.5,1,0,0,17421,1.108.833,C68,C
+1885,female,0,American,Ms.,Karen Cline,,3,0,0,28403,26,,S
+1886,female,0,American,Mrs.,Gladys Christenson,32,3,1,1,13049,40.125,A10,C
+1887,male,1,American,Mr.,Jayson Welch,24,3,0,0,3411,87.125,,C
+1888,male,1,American,Mr.,Marshall Maddox,48,2,1,1,110413,79.65,E68,S
+1889,male,1,American,Mr.,Ramon Vu,57,1,1,2,237565,15,,S
+1890,female,1,American,Mrs.,Linda Buckley,,3,0,1,13567,79.2,B41,C
+1891,female,1,American,Ms.,Betty Morgan,54,2,0,0,14973,8.05,,S
+1892,female,0,American,Mrs.,Debbie Ouzts,18,2,0,0,A./5. 3235,8.05,,S
+1893,male,0,American,Dr.,James Ochs,,2,0,0,STON/O 2. 3101273,7.125,,S
+1894,female,0,American,Ms.,Mana Campbell,5,1,0,0,36947,782.667,D20,C
+1895,male,1,American,Mr.,Antonia Luong,,3,0,0,A/5 3902,7.25,,S
+1896,female,0,American,Mrs.,Ann Robey,43,3,1,0,364848,7.75,,Q
+1897,male,0,American,Mr.,Steve Comeaux,13,3,0,0,SC/AH 29037,26,,S
+1898,female,1,American,Ms.,Stella Thurman,17,1,0,0,345773,24.15,,S
+1899,male,1,American,Mr.,Perry Dillard,32,1,0,0,248727,33,,S
+1900,male,0,American,Mr.,Ryan Becker,40,3,4,2,LINE,0,,S
+1901,male,0,American,Mr.,Jamie Turney,,2,0,0,2664,7.225,,C
+1902,female,1,American,Ms.,Patty McCollum,28,3,0,0,PC 17485,569.292,A20,C
+1903,male,0,American,Mr.,Timothy Woodcock,18,3,0,0,243847,27,,S
+1904,male,0,American,Mr.,Terry Corley,34,3,1,1,349214,78.958,,S
+1905,female,0,American,Dr.,Mary Jones,33,3,0,0,113796,42.4,,S
+1906,female,0,American,Ms.,Patricia Lacross,,1,3,2,364511,8.05,,S
+1907,female,0,American,Ms.,Dawn Summerfield,41,2,1,1,111426,26.55,,C
+1908,male,0,American,Mr.,Leonard Gudino,20,3,0,0,349910,15.55,,S
+1909,female,1,American,Ms.,Deborah Johnson,36,3,0,0,349246,78.958,,S
+1910,female,0,American,Mrs.,Shari Ruth,16,2,0,1,113804,30.5,,S
+1911,female,0,American,Ms.,Courtney Goodrich,51,3,4,1,SC/Paris 2123,415.792,,C
+1912,female,0,American,Ms.,Cortney Carter,,3,0,0,PC 17582,1.534.625,C125,S
+1913,male,1,American,Mr.,Preston McGann,30.5,2,0,0,347082,31.275,,S
+1914,male,0,American,Mr.,Richard Cabrera,,1,0,2,SOTON/O.Q. 3101305,7.05,,S
+1915,male,1,American,Mr.,Kenneth Floyd,32,3,0,0,367230,15.5,,Q
+1916,female,1,American,Ms.,Susan Guerrero,24,1,0,0,370377,7.75,,Q
+1917,male,1,American,Mr.,Peter Ervin,48,3,1,0,364512,8.05,,S
+1918,female,1,American,Mrs.,Jolene Armstrong,57,3,1,1,220845,65,,S
+1919,female,0,American,Mrs.,Violet Massey,,3,0,0,347080,14.4,,S
+1920,female,0,American,Mrs.,Ernestine Bryant,54,2,0,0,A/5. 3336,16.1,,S
+1921,female,0,American,Mrs.,Mary Newcomb,18,1,0,0,230136,39,F4,S
+1922,female,1,American,Mrs.,Evelyn Strode,,3,1,1,31028,10.5,,S
+1923,female,0,American,Ms.,Ronda Cruz,5,3,0,0,2659,144.542,,C
+1924,male,0,American,Mr.,Kent Jones,,3,0,0,11753,525.542,D19,S
+1925,male,1,American,Mr.,Dale Tuma,43,1,0,0,2653,157.417,,C
+1926,male,1,American,Mr.,Scott Sample,13,2,0,0,350029,78.542,,S
+1927,male,0,American,Mr.,Jorge Brown,17,3,0,0,54636,16.1,,S
+1928,male,0,American,Mr.,Christian Wilson,,1,0,0,36963,323.208,D50,S
+1929,male,1,American,Mr.,Franklin Perez,30,1,0,0,219533,12.35,,Q
+1930,female,0,American,Ms.,Mary Westerfield,35,3,0,0,13502,779.583,D9,S
+1931,male,1,American,Mr.,Shaun Beagle,50,3,0,0,349224,78.958,,S
+1932,male,0,American,Mr.,William Hsu,,3,0,0,334912,77.333,,Q
+1933,male,0,American,Mr.,John Mann,3,2,8,2,PC 17476,262.875,E24,S
+1934,female,1,American,Mrs.,Hattie Kelly,52,1,0,0,113781,151.55,,S
+1935,female,1,American,Mrs.,Mary Rawlings,40,3,0,1,2661,152.458,,C
+1936,male,0,American,Mr.,Sean Cormier,,2,1,0,PC 17482,495.042,C90,C
+1937,female,0,American,Mrs.,Hattie Berry,36,2,4,2,113028,26.55,C124,S
+1938,female,0,American,Mrs.,Jill Llanas,16,2,0,0,19996,52,C126,S
+1939,female,1,American,Mrs.,Lou Jefferson,25,1,1,1,7545,94.833,,S
+1940,female,1,American,Mrs.,Rebecca Funk,58,3,0,1,250647,13,,S
+1941,female,0,American,Ms.,Maria Magnusson,35,3,1,0,348124,7.65,F G73,S
+1942,male,0,American,Mr.,Brian Pruneda,,3,0,1,PC 17757,227.525,C45,C
+1943,female,0,American,Mrs.,Doris Robertson,25,1,1,1,34218,10.5,E101,S
+1944,female,0,American,Ms.,Lucy Williams,41,1,0,0,36568,15.5,,Q
+1945,male,0,American,Mr.,Donald Kelly,37,3,0,3,347062,7.775,,S
+1946,female,0,American,Mrs.,Amelia Sullivan,,2,0,0,248727,33,,S
+1947,male,1,American,Mr.,Richard Smith,63,3,2,0,350048,70.542,,S
+1948,male,0,American,Mr.,James Sellers,45,3,1,0,12233,13,,S
+1949,male,1,American,Mr.,Randy Phillips,,3,0,0,250643,13,,S
+1950,female,0,American,Ms.,Debra Wilson,7,3,8,2,113806,53.1,E8,S
+1951,male,1,American,Mr.,Donald Perez,35,1,0,0,315094,86.625,,S
+1952,female,0,American,Ms.,Kimberly Taylor,65,2,0,0,31027,21,,S
+1953,male,1,American,Mr.,Tyler Lee,28,3,1,0,36866,77.375,,Q
+1954,female,0,American,Ms.,Sonia Benavides,16,3,0,0,236853,26,,S
+1955,female,0,American,Ms.,Mckenzie Haight,19,2,0,0,STON/O2. 3101271,7.925,,S
+1956,male,1,American,Mr.,Gordon Wilson,,3,1,1,24160,2.113.375,B5,S
+1957,male,1,American,Mr.,Noe Gregson,33,3,0,0,2699,187.875,,C
+1958,female,0,American,Ms.,Nichole Sheppard,30,2,1,1,239855,0,,S
+1959,male,0,American,Mr.,Joaquin Alex,22,1,0,0,28425,13,,S
+1960,female,0,American,Ms.,Sheena Grafton,42,3,0,0,233639,13,,S
+1961,female,1,American,Ms.,Dana Curto,22,1,1,0,54636,16.1,,S
+1962,male,1,American,Mr.,Donald Reese,,3,0,0,W./C. 6608,34.375,,S
+1963,female,0,American,Dr.,Cody Defranco,,3,0,0,PC 17755,5.123.292,B101,C
+1964,female,0,American,Mrs.,Ramona Frank,28,3,0,0,349201,78.958,,S
+1965,male,0,American,Mr.,Bradley Sova,18,2,0,0,349218,78.958,,S
+1966,male,0,American,Mr.,Justin Robinson,34,1,0,1,16988,30,D45,S
+1967,male,0,American,Mr.,Philip Squires,33,3,0,1,19877,78.85,C46,S
+1968,female,0,American,Ms.,Jamie Alvarez,,3,0,0,PC 17608,262.375,B57 B59 B63 B66,C
+1969,male,1,American,Mr.,Genaro Vernon,41,3,0,0,376566,16.1,,S
+1970,female,0,American,Ms.,Maria Day,20,1,0,0,STON/O 2. 3101288,7.925,,S
+1971,female,1,American,Ms.,Ernestine Miller,36,2,0,0,WE/P 5735,71,B22,S
+1972,male,0,American,Mr.,Craig Cosner,16,3,0,5,C.A. 2673,20.25,,S
+1973,male,1,American,Mr.,George Colon,51,1,0,0,250648,13,,S
+1974,female,1,American,Ms.,Bernice Clark,,1,0,0,113773,53.1,D30,S
+1975,female,1,American,Mrs.,Mary Brown,30.5,3,1,2,335097,7.75,,Q
+1976,female,0,American,Ms.,Margaret Bryant,,3,0,0,29103,23,,S
+1977,female,1,American,Mrs.,Andrea Cohen,32,3,0,0,392096,12.475,E121,S
+1978,female,0,American,Ms.,Barbara Shillings,24,2,1,2,345780,9.5,,S
+1979,male,1,American,Mr.,Derrick Wesley,48,1,0,0,349204,78.958,,S
+1980,male,0,American,Mr.,Russell Gillespie,57,3,1,1,220845,65,,S
+1981,male,1,American,Mr.,Delmer Pritchard,,2,0,0,250649,14.5,,S
+1982,male,0,American,Mr.,Denver Douglas,54,2,0,0,350042,77.958,,S
+1983,female,1,American,Ms.,Sandra Goodwin,18,2,1,0,29108,11.5,,S
+1984,female,0,American,Mrs.,Catherine Bolton,,1,0,0,363294,8.05,,S
+1985,female,1,American,Ms.,Maria Deleon,5,3,0,0,110152,86.5,B77,S
+1986,female,0,American,Ms.,Linda Gandy,,3,0,0,358585,14.5,,S
+1987,female,1,American,Mrs.,Donna Herbert,43,3,0,0,SOTON/O2 3101272,7.125,,S
+1988,female,1,American,Mrs.,Brenda Nunez,,1,0,1,2663,72.292,,C
+1989,female,0,American,Ms.,Myrtle Boucher,20,1,0,1,113760,120,B96 B98,S
+1990,female,0,American,Ms.,Jennifer Hupp,30,3,0,0,347074,7.775,,S
+1991,male,1,American,Mr.,James Miller,14,2,0,0,13502,779.583,D11,S
+1992,male,0,American,Mr.,Salvatore McCormick,86,3,0,0,112379,39.6,,C
+1993,female,1,American,Mrs.,Betsy Anderson,41,3,0,0,364850,7.75,,Q
+1994,female,0,American,Mrs.,Vickie Lo,23,3,0,5,371110,24.15,,Q
+1995,male,1,American,Mr.,William Smith,56,3,0,0,8471,83.625,,S
+1996,male,0,American,Mr.,Francis Cross,71,1,0,0,345781,9.5,,S
+1997,female,1,American,Mrs.,Claire Bear,23,2,1,2,350047,78.542,,S
+1998,female,0,American,Mrs.,Nancy Norris,41,3,0,0,S.O./P.P. 3,10.5,E77,S
+1999,male,1,American,Mr.,Steven Stevenson,26,3,0,0,2674,7.225,,C
+2000,male,0,American,Mr.,Joseph Wilson,19,3,1,2,29105,23,,S
